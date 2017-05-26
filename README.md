@@ -45,7 +45,7 @@ Reading list on deep learning.
 * **Is Faster R-CNN Doing Well for Pedestrian Detection**: Zhang, Liliang, et al. "Is Faster R-CNN Doing Well for Pedestrian Detection?." European Conference on Computer Vision. Springer International Publishing, 2016. :star::star:
 * **GCNN**: Najibi, Mahyar, Mohammad Rastegari, and Larry S. Davis. "G-cnn: an iterative grid based object detector." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016. :star::star::star:
 * **LocNet**: Gidaris, Spyros, and Nikos Komodakis. "Locnet: Improving localization accuracy for object detection." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016. :star::star::star:
-* **PVANet**: Kim, Kye-Hyeon, et al. "PVANET: Deep but Lightweight Neural Networks for Real-time Object Detection." arXiv preprint arXiv:1608.08021 (2016). :star::star::star::star::star:
+* **PVANet**: Kim, Kye-Hyeon, et al. "PVANET: Deep but Lightweight Neural Networks for Real-time Object Detection." arXiv preprint arXiv:1608.08021 (2016). :star::star::star::star:
 * **FPN**: Lin, Tsung-Yi, et al. "Feature Pyramid Networks for Object Detection." arXiv preprint arXiv:1612.03144 (2016). :star::star::star::star::star:
 * **TDM**: Shrivastava, Abhinav, et al. "Beyond Skip Connections: Top-Down Modulation for Object Detection." arXiv preprint arXiv:1612.06851 (2016). :star::star::star::star:
 * **YOLO9000**: Redmon, Joseph, and Ali Farhadi. "YOLO9000: Better, Faster, Stronger." arXiv preprint arXiv:1612.08242 (2016). :star::star::star::star:
