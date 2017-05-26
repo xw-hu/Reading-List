@@ -49,9 +49,9 @@ Reading list on deep learning.
 * **FPN**: Lin, Tsung-Yi, et al. "Feature Pyramid Networks for Object Detection." arXiv preprint arXiv:1612.03144 (2016). :star::star::star::star::star:
 * **TDM**: Shrivastava, Abhinav, et al. "Beyond Skip Connections: Top-Down Modulation for Object Detection." arXiv preprint arXiv:1612.06851 (2016). :star::star::star::star:
 * **YOLO9000**: Redmon, Joseph, and Ali Farhadi. "YOLO9000: Better, Faster, Stronger." arXiv preprint arXiv:1612.08242 (2016). :star::star::star::star:
-* **Speed/accuracy trade-offs for modern convolutional object detectors**: Huang, Jonathan, et al. "Speed/accuracy trade-offs for modern convolutional object detectors." arXiv preprint arXiv:1611.10012 (2016). :star::star::star:
+* **Speed/accuracy trade-offs for modern convolutional object detectors**: Huang, Jonathan, et al. "Speed/accuracy trade-offs for modern convolutional object detectors." arXiv preprint arXiv:1611.10012 (2016). :star::star:
 * **GDB-Net**: Zeng, Xingyu, et al. "Crafting GBD-Net for Object Detection." arXiv preprint arXiv:1610.02579 (2016). :star::star::star::star:
-* **WRInception** Lee, Youngwan, et al. "Wide-Residual-Inception Networks for Real-time Object Detection." arXiv preprint arXiv:1702.01243 (2017). :star:
-* **A-Fast-RCNN (Hard positive generation)**: Wang, Xiaolong, Abhinav Shrivastava, and Abhinav Gupta. "A-fast-rcnn: Hard positive generation via adversary for object detection." arXiv preprint arXiv:1704.03414 (2017). :star::star::star::star:
-* **RRC** Ren, Jimmy, et al. "Accurate Single Stage Detector Using Recurrent Rolling Convolution." arXiv preprint arXiv:1704.05776 (2017). :star::star::star::star:
+* **WRInception**: Lee, Youngwan, et al. "Wide-Residual-Inception Networks for Real-time Object Detection." arXiv preprint arXiv:1702.01243 (2017). :star:
+* **A-Fast-RCNN (Hard positive generation)**: Wang, Xiaolong, Abhinav Shrivastava, and Abhinav Gupta. "A-fast-rcnn: Hard positive generation via adversary for object detection." arXiv preprint arXiv:1704.03414 (2017). :star::star::star:
+* **RRC**: Ren, Jimmy, et al. "Accurate Single Stage Detector Using Recurrent Rolling Convolution." arXiv preprint arXiv:1704.05776 (2017). :star::star::star:
 
