@@ -52,6 +52,7 @@ Reading list on deep learning.
 * **Speed/accuracy trade-offs for modern convolutional object detectors**: Huang, Jonathan, et al. "Speed/accuracy trade-offs for modern convolutional object detectors." arXiv preprint arXiv:1611.10012 (2016). :star::star:
 * **GDB-Net**: Zeng, Xingyu, et al. "Crafting GBD-Net for Object Detection." arXiv preprint arXiv:1610.02579 (2016). :star::star::star::star:
 * **WRInception**: Lee, Youngwan, et al. "Wide-Residual-Inception Networks for Real-time Object Detection." arXiv preprint arXiv:1702.01243 (2017). :star:
+* **DSSD**: Fu, Cheng-Yang, et al. "DSSD: Deconvolutional Single Shot Detector." arXiv preprint arXiv:1701.06659 (2017). :star::star::star::star:
 * **A-Fast-RCNN (Hard positive generation)**: Wang, Xiaolong, Abhinav Shrivastava, and Abhinav Gupta. "A-fast-rcnn: Hard positive generation via adversary for object detection." arXiv preprint arXiv:1704.03414 (2017). :star::star::star:
 * **RRC**: Ren, Jimmy, et al. "Accurate Single Stage Detector Using Recurrent Rolling Convolution." arXiv preprint arXiv:1704.05776 (2017). :star::star::star:
 
