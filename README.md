@@ -55,4 +55,5 @@ Reading list on deep learning.
 * **DSSD**: Fu, Cheng-Yang, et al. "DSSD: Deconvolutional Single Shot Detector." arXiv preprint arXiv:1701.06659 (2017). :star::star::star::star:
 * **A-Fast-RCNN (Hard positive generation)**: Wang, Xiaolong, Abhinav Shrivastava, and Abhinav Gupta. "A-fast-rcnn: Hard positive generation via adversary for object detection." arXiv preprint arXiv:1704.03414 (2017). :star::star::star:
 * **RRC**: Ren, Jimmy, et al. "Accurate Single Stage Detector Using Recurrent Rolling Convolution." arXiv preprint arXiv:1704.05776 (2017). :star::star::star:
+* **Deformable ConvNets**: Dai, Jifeng, et al. "Deformable Convolutional Networks." arXiv preprint arXiv:1703.06211 (2017). :star::star::star::star:
 
