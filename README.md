@@ -16,7 +16,6 @@ Reading list on deep learning.
 * **CReLU**: Shang, Wenling, et al. "Understanding and improving convolutional neural networks via concatenated rectified linear units." Proceedings of the International Conference on Machine Learning (ICML). 2016.  :star::star::star:
 * **InceptionV4 & Inception-ResNet**: Szegedy, Christian, et al. "Inception-v4, inception-resnet and the impact of residual connections on learning." arXiv preprint arXiv:1602.07261 (2016). :star::star::star::star:
 * **ResNeXt**: Xie, Saining, et al. "Aggregated residual transformations for deep neural networks." arXiv preprint arXiv:1611.05431 (2016). :star::star::star::star:
-* **Learning Features by Watching Objects Move**: Pathak, Deepak, et al. "Learning Features by Watching Objects Move." arXiv preprint arXiv:1612.06370 (2016). :star::star::star:
 * **Batch Renormalization**: Ioffe, Sergey. "Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models." arXiv preprint arXiv:1702.03275 (2017). :star::star::star::star:
 * **Xception**: Chollet, François. "Xception: Deep Learning with Depthwise Separable Convolutions." arXiv preprint arXiv:1610.02357 (2016). :star::star::star:
 * **MobileNets**: Howard, Andrew G., et al. "Mobilenets: Efficient convolutional neural networks for mobile vision applications." arXiv preprint arXiv:1704.04861 (2017).  :star::star::star:
@@ -32,7 +31,6 @@ Reading list on deep learning.
 * **End-to-end people detection in crowded scenes**: Stewart, Russell, Mykhaylo Andriluka, and Andrew Y. Ng. "End-to-end people detection in crowded scenes." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016. :star::star:
 * **YOLO**: Redmon, Joseph, et al. "You only look once: Unified, real-time object detection." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016. :star::star::star::star::star:
 * **ION**: Bell, Sean, et al. "Inside-outside net: Detecting objects in context with skip pooling and recurrent neural networks." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016. :star::star::star::star:
-* **Weakly Supervised Object Localization with Multi-fold Multiple Instance Learning**: Cinbis, Ramazan Gokberk, Jakob Verbeek, and Cordelia Schmid. "Weakly supervised object localization with multi-fold multiple instance learning." IEEE transactions on pattern analysis and machine intelligence 39.1 (2017): 189-203. :star::star:
 * **MultiPath**: Zagoruyko, Sergey, et al. "A multipath network for object detection." arXiv preprint arXiv:1604.02135 (2016). :star::star::star:
 * **SSD**: Liu, Wei, et al. "SSD: Single shot multibox detector." European Conference on Computer Vision. Springer International Publishing, 2016. :star::star::star::star::star:
 * **OHEM**: Shrivastava, Abhinav, Abhinav Gupta, and Ross Girshick. "Training region-based object detectors with online hard example mining." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016. :star::star::star::star::star:
@@ -62,5 +60,19 @@ Reading list on deep learning.
 
 ## Semantic Segmentation 
 * **FCN**: Long, Jonathan, Evan Shelhamer, and Trevor Darrell. "Fully convolutional networks for semantic segmentation." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015. :star::star::star::star::star:
+* **Deconvolution Network for Segmentation**: Noh, Hyeonwoo, Seunghoon Hong, and Bohyung Han. "Learning deconvolution network for semantic segmentation." Proceedings of the IEEE International Conference on Computer Vision. 2015. :star::star::star:
 * **MNC**: Dai, Jifeng, Kaiming He, and Jian Sun. "Instance-aware semantic segmentation via multi-task network cascades." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016. :star::star::star::star::star:
+* **Instance-sensitive fully convolutional networks**: Dai, Jifeng, et al. "Instance-sensitive fully convolutional networks." arXiv preprint arXiv:1603.08678 (2016). :star::star::star:
 * **Mask R-CNN**: He, Kaiming, et al. "Mask r-cnn." arXiv preprint arXiv:1703.06870 (2017). :star::star::star::star::star:
+
+## Weakly Supervised 
+* **Weakly Supervised Object Localization with Multi-fold Multiple Instance Learning**: Cinbis, Ramazan Gokberk, Jakob Verbeek, and Cordelia Schmid. "Weakly supervised object localization with multi-fold multiple instance learning." IEEE transactions on pattern analysis and machine intelligence 39.1 (2017): 189-203. :star::star::star:
+* **Weakly Supervised Deep Detection Networks**: Bilen, Hakan, and Andrea Vedaldi. "Weakly supervised deep detection networks." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016. :star::star::star::star:
+* **Weakly- and Semi-Supervised Learning**: Papandreou, George, et al. "Weakly-and semi-supervised learning of a deep convolutional network for semantic image segmentation." Proceedings of the IEEE International Conference on Computer Vision. 2015. :star::star::star::star:
+*　**image-level to pixel-level labeling**: Pinheiro, Pedro O., and Ronan Collobert. "From image-level to pixel-level labeling with convolutional networks." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015.
+* **Weakly Supervised Localization using Deep Feature Maps**: Bency, Archith J., et al. "Weakly supervised localization using deep feature maps." arXiv preprint arXiv:1603.00489 (2016).
+* **WELDON**: Durand, Thibaut, Nicolas Thome, and Matthieu Cord. "Weldon: Weakly supervised learning of deep convolutional neural networks." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016.
+* **WILDCAT**: Durand, Thibaut, et al. "WILDCAT: Weakly Supervised Learning of Deep ConvNets for Image Classification, Pointwise Localization and Segmentation." The IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2017
+
+## Unsupervised
+* **Learning Features by Watching Objects Move**: Pathak, Deepak, et al. "Learning Features by Watching Objects Move." arXiv preprint arXiv:1612.06370 (2016). :star::star::star::star::star:
