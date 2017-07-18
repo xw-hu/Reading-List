@@ -19,6 +19,7 @@ Reading list on deep learning.
 * **Batch Renormalization**: Ioffe, Sergey. "Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models." arXiv preprint arXiv:1702.03275 (2017). :star::star::star::star:
 * **Xception**: Chollet, François. "Xception: Deep Learning with Depthwise Separable Convolutions." arXiv preprint arXiv:1610.02357 (2016). :star::star::star:
 * **MobileNets**: Howard, Andrew G., et al. "Mobilenets: Efficient convolutional neural networks for mobile vision applications." arXiv preprint arXiv:1704.04861 (2017).  :star::star::star:
+* **PolyNet**: Zhang, Xingcheng, et al. "Polynet: A pursuit of structural diversity in very deep networks." arXiv preprint arXiv:1611.05725 (2016). [Slides](http://image-net.org/challenges/talks/2016/polynet_talk.pdf) :star::star::star::star:
 
 
 ## Object Detection 
@@ -48,7 +49,7 @@ Reading list on deep learning.
 * **TDM**: Shrivastava, Abhinav, et al. "Beyond Skip Connections: Top-Down Modulation for Object Detection." arXiv preprint arXiv:1612.06851 (2016). :star::star::star::star:
 * **YOLO9000**: Redmon, Joseph, and Ali Farhadi. "YOLO9000: Better, Faster, Stronger." arXiv preprint arXiv:1612.08242 (2016). :star::star::star::star:
 * **Speed/accuracy trade-offs for modern convolutional object detectors**: Huang, Jonathan, et al. "Speed/accuracy trade-offs for modern convolutional object detectors." arXiv preprint arXiv:1611.10012 (2016). :star::star:
-* **GDB-Net**: Zeng, Xingyu, et al. "Crafting GBD-Net for Object Detection." arXiv preprint arXiv:1610.02579 (2016). :star::star::star::star:
+* **GDB-Net**: Zeng, Xingyu, et al. "Crafting GBD-Net for Object Detection." arXiv preprint arXiv:1610.02579 (2016). [Slides](http://image-net.org/challenges/talks/2016/GBD-Net.pdf) :star::star::star::star:
 * **WRInception**: Lee, Youngwan, et al. "Wide-Residual-Inception Networks for Real-time Object Detection." arXiv preprint arXiv:1702.01243 (2017). :star:
 * **DSSD**: Fu, Cheng-Yang, et al. "DSSD: Deconvolutional Single Shot Detector." arXiv preprint arXiv:1701.06659 (2017). :star::star::star::star:
 * **A-Fast-RCNN (Hard positive generation)**: Wang, Xiaolong, Abhinav Shrivastava, and Abhinav Gupta. "A-fast-rcnn: Hard positive generation via adversary for object detection." arXiv preprint arXiv:1704.03414 (2017). :star::star::star:
@@ -56,13 +57,14 @@ Reading list on deep learning.
 * **Deformable ConvNets**: Dai, Jifeng, et al. "Deformable Convolutional Networks." arXiv preprint arXiv:1703.06211 (2017). :star::star::star::star:
 * **RSSD**: Jeong, Jisoo, Hyojin Park, and Nojun Kwak. "Enhancement of SSD by concatenating feature maps for object detection." arXiv preprint arXiv:1705.09587 (2017). :star::star:
 * **Perceptual GAN**: Li, Jianan, et al. "Perceptual Generative Adversarial Networks for Small Object Detection." arXiv preprint arXiv:1706.05274 (2017). :star::star::star:
-
+* **G-RMI**: Google. [slides](http://image-net.org/challenges/talks/2016/GRMI-COCO-slidedeck.pdf)
 
 ## Semantic Segmentation 
 * **FCN**: Long, Jonathan, Evan Shelhamer, and Trevor Darrell. "Fully convolutional networks for semantic segmentation." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015. :star::star::star::star::star:
 * **Deconvolution Network for Segmentation**: Noh, Hyeonwoo, Seunghoon Hong, and Bohyung Han. "Learning deconvolution network for semantic segmentation." Proceedings of the IEEE International Conference on Computer Vision. 2015. :star::star::star:
 * **MNC**: Dai, Jifeng, Kaiming He, and Jian Sun. "Instance-aware semantic segmentation via multi-task network cascades." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016. :star::star::star::star::star:
-* **Instance-sensitive fully convolutional networks**: Dai, Jifeng, et al. "Instance-sensitive fully convolutional networks." arXiv preprint arXiv:1603.08678 (2016). :star::star::star:
+* **InstanceFCN**: Dai, Jifeng, et al. "Instance-sensitive fully convolutional networks." arXiv preprint arXiv:1603.08678 (2016). :star::star::star:
+* **FCIS**: Li, Yi, et al. "Fully convolutional instance-aware semantic segmentation." arXiv preprint arXiv:1611.07709 (2016). 
 * **Mask R-CNN**: He, Kaiming, et al. "Mask r-cnn." arXiv preprint arXiv:1703.06870 (2017). :star::star::star::star::star:
 
 ## Weakly Supervised 
@@ -76,3 +78,9 @@ Reading list on deep learning.
 
 ## Unsupervised
 * **Learning Features by Watching Objects Move**: Pathak, Deepak, et al. "Learning Features by Watching Objects Move." arXiv preprint arXiv:1612.06370 (2016). :star::star::star::star::star:
+
+
+## Talk
+* **1st ImageNet and COCO Visual Recognition Challenges Joint Workshop**: 2015. [link](http://image-net.org/challenges/ilsvrc+mscoco2015) 
+* **2nd ImageNet and COCO Visual Recognition Challenges Joint Workshop**: 2016. [link](http://image-net.org/challenges/ilsvrc+coco2016) 
+
