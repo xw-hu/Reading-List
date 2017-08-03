@@ -74,11 +74,16 @@ Reading list on deep learning.
 * **Image-level to pixel-level labeling**: Pinheiro, Pedro O., and Ronan Collobert. "From image-level to pixel-level labeling with convolutional networks." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015.
 * **Weakly Supervised Localization using Deep Feature Maps**: Bency, Archith J., et al. "Weakly supervised localization using deep feature maps." arXiv preprint arXiv:1603.00489 (2016).
 * **WELDON**: Durand, Thibaut, Nicolas Thome, and Matthieu Cord. "Weldon: Weakly supervised learning of deep convolutional neural networks." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016.
-* **WILDCAT**: Durand, Thibaut, et al. "WILDCAT: Weakly Supervised Learning of Deep ConvNets for Image Classification, Pointwise Localization and Segmentation." The IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2017
+* **WILDCAT**: Durand, Thibaut, et al. "WILDCAT: Weakly Supervised Learning of Deep ConvNets for Image Classification, Pointwise Localization and Segmentation." The IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2017.
+* **SGDL**: Lai, Baisheng, and Xiaojin Gong. "Saliency guided dictionary learning for weakly-supervised image parsing." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016.
 
 ## Unsupervised
 * **Learning Features by Watching Objects Move**: Pathak, Deepak, et al. "Learning Features by Watching Objects Move." arXiv preprint arXiv:1612.06370 (2016). :star::star::star::star::star:
 * **SimGAN**: Shrivastava, Ashish, et al. "Learning from simulated and unsupervised images through adversarial training." arXiv preprint arXiv:1612.07828 (2016). :star::star::star:
+
+## Saliency
+* **RFCN**: Wang, Linzhao, et al. "Saliency detection with recurrent fully convolutional networks." European Conference on Computer Vision. Springer International Publishing, 2016. :star::star::star::star:
+* **MSRNet**: Li, Guanbin, et al. "Instance-Level Salient Object Segmentation." arXiv preprint arXiv:1704.03604 (2017). :star::star::star::star:
 
 
 ## Talk
