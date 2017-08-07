@@ -83,6 +83,8 @@ Reading list on deep learning.
 
 ## Saliency
 * **RFCN**: Wang, Linzhao, et al. "Saliency detection with recurrent fully convolutional networks." European Conference on Computer Vision. Springer International Publishing, 2016. :star::star::star::star:
+* **NLDF**: Luo, Zhiming, et al. "Non-Local Deep Features for Salient Object Detection." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2017. :star::star::star:
+* **DSSC**: Hou, Qibin, et al. "Deeply supervised salient object detection with short connections." arXiv preprint arXiv:1611.04849 (2016). :star::star::star::star:
 * **MSRNet**: Li, Guanbin, et al. "Instance-Level Salient Object Segmentation." arXiv preprint arXiv:1704.03604 (2017). :star::star::star::star:
 
 
