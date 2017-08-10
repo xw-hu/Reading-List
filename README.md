@@ -19,6 +19,7 @@ Reading list on deep learning.
 * **Batch Renormalization**: Ioffe, Sergey. "Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models." arXiv preprint arXiv:1702.03275 (2017). :star::star::star::star:
 * **Xception**: Chollet, François. "Xception: Deep Learning with Depthwise Separable Convolutions." arXiv preprint arXiv:1610.02357 (2016). :star::star::star:
 * **MobileNets**: Howard, Andrew G., et al. "Mobilenets: Efficient convolutional neural networks for mobile vision applications." arXiv preprint arXiv:1704.04861 (2017).  :star::star::star:
+* **DenseNet**: Huang, Gao, et al. "Densely connected convolutional networks." arXiv preprint arXiv:1608.06993 (2016). :star::star::star::star::star:
 * **PolyNet**: Zhang, Xingcheng, et al. "Polynet: A pursuit of structural diversity in very deep networks." arXiv preprint arXiv:1611.05725 (2016). [Slides](http://image-net.org/challenges/talks/2016/polynet_talk.pdf) :star::star::star::star:
 
 
@@ -80,6 +81,7 @@ Reading list on deep learning.
 ## Unsupervised
 * **Learning Features by Watching Objects Move**: Pathak, Deepak, et al. "Learning Features by Watching Objects Move." arXiv preprint arXiv:1612.06370 (2016). :star::star::star::star::star:
 * **SimGAN**: Shrivastava, Ashish, et al. "Learning from simulated and unsupervised images through adversarial training." arXiv preprint arXiv:1612.07828 (2016). :star::star::star:
+* **OPN**: Lee, Hsin-Ying, et al. "Unsupervised Representation Learning by Sorting Sequences." arXiv preprint arXiv:1708.01246 (2017). :star::star::star:
 
 ## Saliency
 * **RFCN**: Wang, Linzhao, et al. "Saliency detection with recurrent fully convolutional networks." European Conference on Computer Vision. Springer International Publishing, 2016. :star::star::star::star:
