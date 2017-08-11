@@ -82,12 +82,16 @@ Reading list on deep learning.
 * **Learning Features by Watching Objects Move**: Pathak, Deepak, et al. "Learning Features by Watching Objects Move." arXiv preprint arXiv:1612.06370 (2016). :star::star::star::star::star:
 * **SimGAN**: Shrivastava, Ashish, et al. "Learning from simulated and unsupervised images through adversarial training." arXiv preprint arXiv:1612.07828 (2016). :star::star::star:
 * **OPN**: Lee, Hsin-Ying, et al. "Unsupervised Representation Learning by Sorting Sequences." arXiv preprint arXiv:1708.01246 (2017). :star::star::star:
+* **Transitive Invariance for Self-supervised Visual Representation Learning**: Wang, Xiaolong, et al. "Transitive Invariance for Self-supervised Visual Representation Learning" Proceedings of the IEEE International Conference on Computer Vision. 2017. :star::star::star:
 
 ## Saliency
 * **RFCN**: Wang, Linzhao, et al. "Saliency detection with recurrent fully convolutional networks." European Conference on Computer Vision. Springer International Publishing, 2016. :star::star::star::star:
 * **NLDF**: Luo, Zhiming, et al. "Non-Local Deep Features for Salient Object Detection." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2017. :star::star::star:
 * **DSS**: Hou, Qibin, et al. "Deeply supervised salient object detection with short connections." arXiv preprint arXiv:1611.04849 (2016). :star::star::star::star:
 * **MSRNet**: Li, Guanbin, et al. "Instance-Level Salient Object Segmentation." arXiv preprint arXiv:1704.03604 (2017). :star::star::star::star:
+
+## Attention
+* **SRN**: Zhu, Feng, et al. "Learning Spatial Regularization with Image-level Supervisions for Multi-label Image Classification." arXiv preprint arXiv:1702.05891 (2017). :star::star::star::star:
 
 
 ## Talk
