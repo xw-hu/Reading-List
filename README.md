@@ -58,7 +58,7 @@ Reading list on deep learning.
 * **Deformable ConvNets**: Dai, Jifeng, et al. "Deformable Convolutional Networks." arXiv preprint arXiv:1703.06211 (2017). :star::star::star::star:
 * **RSSD**: Jeong, Jisoo, Hyojin Park, and Nojun Kwak. "Enhancement of SSD by concatenating feature maps for object detection." arXiv preprint arXiv:1705.09587 (2017). :star::star:
 * **Perceptual GAN**: Li, Jianan, et al. "Perceptual Generative Adversarial Networks for Small Object Detection." arXiv preprint arXiv:1706.05274 (2017). :star::star::star:
-* **G-RMI**: Google. [slides](http://image-net.org/challenges/talks/2016/GRMI-COCO-slidedeck.pdf)
+
 
 ## Semantic Segmentation 
 * **FCN**: Long, Jonathan, Evan Shelhamer, and Trevor Darrell. "Fully convolutional networks for semantic segmentation." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015. :star::star::star::star::star:
@@ -95,6 +95,7 @@ Reading list on deep learning.
 
 
 ## Talk
+* **G-RMI**: Google. (Object Detection) [slides](http://image-net.org/challenges/talks/2016/GRMI-COCO-slidedeck.pdf)
 * **1st ImageNet and COCO Visual Recognition Challenges Joint Workshop**: 2015. [link](http://image-net.org/challenges/ilsvrc+mscoco2015) 
 * **2nd ImageNet and COCO Visual Recognition Challenges Joint Workshop**: 2016. [link](http://image-net.org/challenges/ilsvrc+coco2016) 
 
