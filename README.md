@@ -89,6 +89,7 @@ Reading list on deep learning.
 * **NLDF**: Luo, Zhiming, et al. "Non-Local Deep Features for Salient Object Detection." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2017. :star::star::star:
 * **DSS**: Hou, Qibin, et al. "Deeply supervised salient object detection with short connections." arXiv preprint arXiv:1611.04849 (2016). :star::star::star::star:
 * **MSRNet**: Li, Guanbin, et al. "Instance-Level Salient Object Segmentation." arXiv preprint arXiv:1704.03604 (2017). :star::star::star::star:
+* **Amulet**: Zhang, Pingping, et al. "Amulet: Aggregating Multi-level Convolutional Features for Salient Object Detection." arXiv preprint arXiv:1708.02001 (2017). :star::star::star::star:
 
 ## Attention
 * **SRN**: Zhu, Feng, et al. "Learning Spatial Regularization with Image-level Supervisions for Multi-label Image Classification." arXiv preprint arXiv:1702.05891 (2017). :star::star::star::star:
