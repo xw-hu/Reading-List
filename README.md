@@ -90,6 +90,7 @@ Reading list on deep learning.
 * **DSS**: Hou, Qibin, et al. "Deeply supervised salient object detection with short connections." arXiv preprint arXiv:1611.04849 (2016). :star::star::star::star:
 * **MSRNet**: Li, Guanbin, et al. "Instance-Level Salient Object Segmentation." arXiv preprint arXiv:1704.03604 (2017). :star::star::star::star:
 * **Amulet**: Zhang, Pingping, et al. "Amulet: Aggregating Multi-level Convolutional Features for Salient Object Detection." arXiv preprint arXiv:1708.02001 (2017). :star::star::star::star:
+* **UCF**: Zhang, Pingping, et al. "Learning Uncertain Convolutional Features for Accurate Saliency Detection." arXiv preprint arXiv:1708.02031 (2017). :star::star::star::star::star:
 
 ## Attention
 * **SRN**: Zhu, Feng, et al. "Learning Spatial Regularization with Image-level Supervisions for Multi-label Image Classification." arXiv preprint arXiv:1702.05891 (2017). :star::star::star::star:
@@ -97,6 +98,7 @@ Reading list on deep learning.
 
 ## Talk
 * **G-RMI**: Google. (Object Detection) [slides](http://image-net.org/challenges/talks/2016/GRMI-COCO-slidedeck.pdf)
+* **2017 CVPR Tutorial**: [video and slides](http://deeplearning.csail.mit.edu/)
 * **1st ImageNet and COCO Visual Recognition Challenges Joint Workshop**: 2015. [link](http://image-net.org/challenges/ilsvrc+mscoco2015) 
 * **2nd ImageNet and COCO Visual Recognition Challenges Joint Workshop**: 2016. [link](http://image-net.org/challenges/ilsvrc+coco2016) 
 
