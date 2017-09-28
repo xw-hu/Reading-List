@@ -85,6 +85,7 @@ Reading list on deep learning.
 * **Transitive Invariance for Self-supervised Visual Representation Learning**: Wang, Xiaolong, et al. "Transitive Invariance for Self-supervised Visual Representation Learning" Proceedings of the IEEE International Conference on Computer Vision. 2017. :star::star::star:
 
 ## Saliency
+* **DHSNet**: Liu, Nian, and Junwei Han. "Dhsnet: Deep hierarchical saliency network for salient object detection." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016. :star::star::star::star:
 * **RFCN**: Wang, Linzhao, et al. "Saliency detection with recurrent fully convolutional networks." European Conference on Computer Vision. Springer International Publishing, 2016. :star::star::star::star:
 * **NLDF**: Luo, Zhiming, et al. "Non-Local Deep Features for Salient Object Detection." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2017. :star::star::star:
 * **DSS**: Hou, Qibin, et al. "Deeply supervised salient object detection with short connections." arXiv preprint arXiv:1611.04849 (2016). :star::star::star::star:
@@ -94,7 +95,7 @@ Reading list on deep learning.
 
 ## Attention
 * **SRN**: Zhu, Feng, et al. "Learning Spatial Regularization with Image-level Supervisions for Multi-label Image Classification." arXiv preprint arXiv:1702.05891 (2017). :star::star::star::star:
-
+* **Zoom-in-Net**: Wang, Zhe, et al. "Zoom-in-Net: Deep Mining Lesions for Diabetic Retinopathy Detection." arXiv preprint arXiv:1706.04372 (2017). :star::star::star::star:
 
 ## Talk
 * **G-RMI**: Google. (Object Detection) [slides](http://image-net.org/challenges/talks/2016/GRMI-COCO-slidedeck.pdf)
