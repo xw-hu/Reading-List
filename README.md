@@ -53,7 +53,7 @@ Reading list on deep learning.
 * **GDB-Net**: Zeng, Xingyu, et al. "Crafting GBD-Net for Object Detection." arXiv preprint arXiv:1610.02579 (2016). [Slides](http://image-net.org/challenges/talks/2016/GBD-Net.pdf) :star::star::star::star:
 * **WRInception**: Lee, Youngwan, et al. "Wide-Residual-Inception Networks for Real-time Object Detection." arXiv preprint arXiv:1702.01243 (2017). :star:
 * **DSSD**: Fu, Cheng-Yang, et al. "DSSD: Deconvolutional Single Shot Detector." arXiv preprint arXiv:1701.06659 (2017). :star::star::star::star:
-* **A-Fast-RCNN (Hard positive generation)**: Wang, Xiaolong, Abhinav Shrivastava, and Abhinav Gupta. "A-fast-rcnn: Hard positive generation via adversary for object detection." arXiv preprint arXiv:1704.03414 (2017). :star::star::star:
+* **A-Fast-RCNN (Hard positive generation)**: Wang, Xiaolong, Abhinav Shrivastava, and Abhinav Gupta. "A-fast-rcnn: Hard positive generation via adversary for object detection." arXiv preprint arXiv:1704.03414 (2017). :star::star::star: [code](https://github.com/xiaolonw/adversarial-frcnn)
 * **RRC**: Ren, Jimmy, et al. "Accurate Single Stage Detector Using Recurrent Rolling Convolution." arXiv preprint arXiv:1704.05776 (2017). :star::star::star:
 * **Deformable ConvNets**: Dai, Jifeng, et al. "Deformable Convolutional Networks." arXiv preprint arXiv:1703.06211 (2017). :star::star::star::star:
 * **RSSD**: Jeong, Jisoo, Hyojin Park, and Nojun Kwak. "Enhancement of SSD by concatenating feature maps for object detection." arXiv preprint arXiv:1705.09587 (2017). :star::star:
@@ -83,6 +83,7 @@ Reading list on deep learning.
 * **SimGAN**: Shrivastava, Ashish, et al. "Learning from simulated and unsupervised images through adversarial training." arXiv preprint arXiv:1612.07828 (2016). :star::star::star:
 * **OPN**: Lee, Hsin-Ying, et al. "Unsupervised Representation Learning by Sorting Sequences." arXiv preprint arXiv:1708.01246 (2017). :star::star::star:
 * **Transitive Invariance for Self-supervised Visual Representation Learning**: Wang, Xiaolong, et al. "Transitive Invariance for Self-supervised Visual Representation Learning" Proceedings of the IEEE International Conference on Computer Vision. 2017. :star::star::star:
+[code](http://www.cs.cmu.edu/~xiaolonw/publication.html)
 
 ## Saliency
 * **DHSNet**: Liu, Nian, and Junwei Han. "Dhsnet: Deep hierarchical saliency network for salient object detection." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016. :star::star::star::star:
@@ -96,6 +97,12 @@ Reading list on deep learning.
 ## Attention
 * **SRN**: Zhu, Feng, et al. "Learning Spatial Regularization with Image-level Supervisions for Multi-label Image Classification." arXiv preprint arXiv:1702.05891 (2017). :star::star::star::star:
 * **Zoom-in-Net**: Wang, Zhe, et al. "Zoom-in-Net: Deep Mining Lesions for Diabetic Retinopathy Detection." arXiv preprint arXiv:1706.04372 (2017). :star::star::star::star:
+* **Multi-context attention**: Chu, Xiao, et al. "Multi-context attention for human pose estimation." arXiv preprint arXiv:1702.07432 (2017). :star::star::star:
+
+## Shadow Detection/Removal
+* **DeshadowNet**: Qu, Liangqiong, et al. "DeshadowNet: A Multi-context Embedding Deep Network for Shadow Removal." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2017. :star::star::star:
+* **scGAN**: Nguyen, Vu, et al. "Shadow Detection with Conditional Generative Adversarial Networks." In ICCV. 2017. :star::star:
+
 
 ## Talk
 * **G-RMI**: Google. (Object Detection) [slides](http://image-net.org/challenges/talks/2016/GRMI-COCO-slidedeck.pdf)
