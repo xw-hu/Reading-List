@@ -21,6 +21,7 @@ Reading list on deep learning.
 * **MobileNets**: Howard, Andrew G., et al. "Mobilenets: Efficient convolutional neural networks for mobile vision applications." arXiv preprint arXiv:1704.04861 (2017).  :star::star::star:
 * **DenseNet**: Huang, Gao, et al. "Densely connected convolutional networks." arXiv preprint arXiv:1608.06993 (2016). :star::star::star::star::star:
 * **PolyNet**: Zhang, Xingcheng, et al. "Polynet: A pursuit of structural diversity in very deep networks." arXiv preprint arXiv:1611.05725 (2016). [Slides](http://image-net.org/challenges/talks/2016/polynet_talk.pdf) :star::star::star::star:
+* **IRNN**: Le, Quoc V., Navdeep Jaitly, and Geoffrey E. Hinton. "A simple way to initialize recurrent networks of rectified linear units." arXiv preprint arXiv:1504.00941 (2015). :star::star::star:
 
 
 ## Object Detection 
@@ -58,7 +59,6 @@ Reading list on deep learning.
 * **Deformable ConvNets**: Dai, Jifeng, et al. "Deformable Convolutional Networks." arXiv preprint arXiv:1703.06211 (2017). :star::star::star::star:
 * **RSSD**: Jeong, Jisoo, Hyojin Park, and Nojun Kwak. "Enhancement of SSD by concatenating feature maps for object detection." arXiv preprint arXiv:1705.09587 (2017). :star::star:
 * **Perceptual GAN**: Li, Jianan, et al. "Perceptual Generative Adversarial Networks for Small Object Detection." arXiv preprint arXiv:1706.05274 (2017). :star::star::star:
-* **IRNN**: Le, Quoc V., Navdeep Jaitly, and Geoffrey E. Hinton. "A simple way to initialize recurrent networks of rectified linear units." arXiv preprint arXiv:1504.00941 (2015). :star::star::star:
 
 
 ## Semantic Segmentation 
