@@ -67,6 +67,7 @@ Reading list on deep learning.
 * **MNC**: Dai, Jifeng, Kaiming He, and Jian Sun. "Instance-aware semantic segmentation via multi-task network cascades." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016. :star::star::star::star::star:
 * **InstanceFCN**: Dai, Jifeng, et al. "Instance-sensitive fully convolutional networks." arXiv preprint arXiv:1603.08678 (2016). :star::star::star::star:
 * **FCIS**: Li, Yi, et al. "Fully convolutional instance-aware semantic segmentation." arXiv preprint arXiv:1611.07709 (2016). :star::star::star::star::star:
+* **PSPNet**: Zhao, Hengshuang, et al. "Pyramid scene parsing network." arXiv preprint arXiv:1612.01105 (2016). :star::star::star:
 * **Mask R-CNN**: He, Kaiming, et al. "Mask r-cnn." arXiv preprint arXiv:1703.06870 (2017). :star::star::star::star::star:
 
 ## Weakly Supervised 
