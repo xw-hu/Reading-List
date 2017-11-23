@@ -95,7 +95,8 @@ Reading list on deep learning.
 * **DSS**: Hou, Qibin, et al. "Deeply supervised salient object detection with short connections." arXiv preprint arXiv:1611.04849 (2016). :star::star::star::star:
 * **MSRNet**: Li, Guanbin, et al. "Instance-Level Salient Object Segmentation." arXiv preprint arXiv:1704.03604 (2017). :star::star::star::star:
 * **Amulet**: Zhang, Pingping, et al. "Amulet: Aggregating Multi-level Convolutional Features for Salient Object Detection." arXiv preprint arXiv:1708.02001 (2017). :star::star::star::star:
-* **UCF**: Zhang, Pingping, et al. "Learning Uncertain Convolutional Features for Accurate Saliency Detection." arXiv preprint arXiv:1708.02031 (2017). :star::star::star::star::star:
+* **UCF**: Zhang, Pingping, et al. "Learning Uncertain Convolutional Features for Accurate Saliency Detection." arXiv preprint arXiv:1708.02031 (2017). :star::star::star::star:
+* **SRM**: Wang, Tiantian, et al. "A Stagewise Refinement Model for Detecting Salient Objects in Images." In ICCV. 2017. :star::star::star::star:
 
 ## Attention
 * **SRN**: Zhu, Feng, et al. "Learning Spatial Regularization with Image-level Supervisions for Multi-label Image Classification." arXiv preprint arXiv:1702.05891 (2017). :star::star::star::star:
