@@ -59,6 +59,7 @@ Reading list on deep learning.
 * **Deformable ConvNets**: Dai, Jifeng, et al. "Deformable Convolutional Networks." arXiv preprint arXiv:1703.06211 (2017). :star::star::star::star:
 * **RSSD**: Jeong, Jisoo, Hyojin Park, and Nojun Kwak. "Enhancement of SSD by concatenating feature maps for object detection." arXiv preprint arXiv:1705.09587 (2017). :star::star:
 * **Perceptual GAN**: Li, Jianan, et al. "Perceptual Generative Adversarial Networks for Small Object Detection." arXiv preprint arXiv:1706.05274 (2017). :star::star::star:
+* **RetinaNet (Focal Loss)**: Tsung-Yi Lin, Priya Goyal, Ross B. Girshick, Kaiming He, and Piotr Dollár. "Focal Loss for Dense Object Detection." In ICCV. 2017. :star::star::star::star::star:
 
 
 ## Semantic Segmentation 
