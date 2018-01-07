@@ -70,7 +70,7 @@ Reading list on deep learning.
 * **InstanceFCN**: Dai, Jifeng, et al. "Instance-sensitive fully convolutional networks." arXiv preprint arXiv:1603.08678 (2016). :star::star::star::star:
 * **FCIS**: Li, Yi, et al. "Fully convolutional instance-aware semantic segmentation." arXiv preprint arXiv:1611.07709 (2016). :star::star::star::star::star:
 * **PSPNet**: Zhao, Hengshuang, et al. "Pyramid scene parsing network." arXiv preprint arXiv:1612.01105 (2016). :star::star::star:
-* **Mask R-CNN**: He, Kaiming, et al. "Mask r-cnn." arXiv preprint arXiv:1703.06870 (2017). :star::star::star::star::star:
+* **Mask R-CNN**: He, Kaiming, Georgia Gkioxari, Piotr Dollár, and Ross Girshick. "Mask r-cnn." In ICCV. 2017. :star::star::star::star::star:
 * **Learning to Segment Every Thing (Mask^X R-CNN)**: Hu, Ronghang, Piotr Dollár, Kaiming He, Trevor Darrell, and Ross Girshick. "Learning to Segment Every Thing." arXiv preprint arXiv:1711.10370 (2017). :star::star::star::star::star:
 
 ## Weakly Supervised 
