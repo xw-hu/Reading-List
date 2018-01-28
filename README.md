@@ -112,6 +112,7 @@ Reading list on deep learning.
 * **DeshadowNet**: Qu, Liangqiong, et al. "DeshadowNet: A Multi-context Embedding Deep Network for Shadow Removal." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2017. :star::star::star:
 * **scGAN**: Nguyen, Vu, et al. "Shadow Detection with Conditional Generative Adversarial Networks." In ICCV. 2017. :star::star:
 * **Fast Shadow Detection from a Single Image Using a Patched Convolutional Neural Network**: Hosseinzadeh, Sepideh, Moein Shakeri, and Hong Zhang. "Fast Shadow Detection from a Single Image Using a Patched Convolutional Neural Network." arXiv preprint arXiv:1709.09283 (2017). :star:
+* **ST-CGAN**: Wang, Jifeng, et al. "Stacked Conditional Generative Adversarial Networks for Jointly Learning Shadow Detection and Shadow Removal." arXiv preprint arXiv:1712.02478 (2017). :star::star: (ISTD dataset)
 
 
 ## Talk
