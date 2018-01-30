@@ -111,8 +111,18 @@ Reading list on deep learning.
 ## Shadow Detection/Removal
 * **DeshadowNet**: Qu, Liangqiong, et al. "DeshadowNet: A Multi-context Embedding Deep Network for Shadow Removal." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2017. :star::star::star:
 * **scGAN**: Nguyen, Vu, et al. "Shadow Detection with Conditional Generative Adversarial Networks." In ICCV. 2017. :star::star:
-* **Fast Shadow Detection from a Single Image Using a Patched Convolutional Neural Network**: Hosseinzadeh, Sepideh, Moein Shakeri, and Hong Zhang. "Fast Shadow Detection from a Single Image Using a Patched Convolutional Neural Network." arXiv preprint arXiv:1709.09283 (2017). :star:
+* **Patched CNN**: Hosseinzadeh, Sepideh, Moein Shakeri, and Hong Zhang. "Fast Shadow Detection from a Single Image Using a Patched Convolutional Neural Network." arXiv preprint arXiv:1709.09283 (2017). :star:
 * **ST-CGAN**: Wang, Jifeng, et al. "Stacked Conditional Generative Adversarial Networks for Jointly Learning Shadow Detection and Shadow Removal." arXiv preprint arXiv:1712.02478 (2017). :star::star: (ISTD dataset)
+
+## Image Synthesis
+* **Let there be Color!**: Iizuka, Satoshi, Edgar Simo-Serra, and Hiroshi Ishikawa. "Let there be color!: joint end-to-end learning of global and local image priors for automatic image colorization with simultaneous classification." ACM Transactions on Graphics (TOG) 35.4 (2016): 110. :star::star::star::star::star:
+* **Colorful Image Colorization**: Zhang, Richard, Phillip Isola, and Alexei A. Efros. "Colorful image colorization." European Conference on Computer Vision. Springer, Cham, 2016. :star::star::star::star:
+* **Neural Style**: Gatys, Leon A., Alexander S. Ecker, and Matthias Bethge. "A neural algorithm of artistic style." arXiv preprint arXiv:1508.06576 (2015). :star::star::star::star::star:
+* **Texture Synthesis**: Gatys, Leon, Alexander S. Ecker, and Matthias Bethge. "Texture synthesis using convolutional neural networks." Advances in Neural Information Processing Systems. 2015. :star::star::star::star:
+* **Semantic Annotation Artwork**: Champandard, Alex J. "Semantic style transfer and turning two-bit doodles into fine artworks." arXiv preprint arXiv:1603.01768 (2016). :star::star::star:
+* **MRC+CNN Image Synthesis**: Li, Chuan, and Michael Wand. "Combining markov random fields and convolutional neural networks for image synthesis." In CVPR. 2016. :star::star::star::star:
+* **More Experiments on Neural Style**: Novak, Roman, and Yaroslav Nikulin. "Improving the neural algorithm of artistic style." arXiv preprint arXiv:1605.04603 (2016). :star::star:
+* **Deep Photo Style Transfer**: Luan, Fujun, et al. "Deep photo style transfer." In CVPR. 2017. :star::star::star::star::star:
 
 
 ## Talk
