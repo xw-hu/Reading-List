@@ -114,6 +114,9 @@ Reading list on deep learning.
 * **Patched CNN**: Hosseinzadeh, Sepideh, Moein Shakeri, and Hong Zhang. "Fast Shadow Detection from a Single Image Using a Patched Convolutional Neural Network." arXiv preprint arXiv:1709.09283 (2017). :star:
 * **ST-CGAN**: Wang, Jifeng, et al. "Stacked Conditional Generative Adversarial Networks for Jointly Learning Shadow Detection and Shadow Removal." arXiv preprint arXiv:1712.02478 (2017). :star::star: (ISTD dataset)
 
+## Image Renovate
+* **DRRN**: Tai, Ying, Jian Yang, and Xiaoming Liu. "Image super-resolution via deep recursive residual network." The IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2017. :star::star::star::star:
+
 ## Image Synthesis
 * **Let there be Color!**: Iizuka, Satoshi, Edgar Simo-Serra, and Hiroshi Ishikawa. "Let there be color!: joint end-to-end learning of global and local image priors for automatic image colorization with simultaneous classification." ACM Transactions on Graphics (TOG) 35.4 (2016): 110. :star::star::star::star::star:
 * **Colorful Image Colorization**: Zhang, Richard, Phillip Isola, and Alexei A. Efros. "Colorful image colorization." European Conference on Computer Vision. Springer, Cham, 2016. :star::star::star::star:
