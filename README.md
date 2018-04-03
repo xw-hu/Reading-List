@@ -90,6 +90,7 @@ Reading list on deep learning.
 * **OPN**: Lee, Hsin-Ying, et al. "Unsupervised Representation Learning by Sorting Sequences." arXiv preprint arXiv:1708.01246 (2017). :star::star::star:
 * **Transitive Invariance for Self-supervised Visual Representation Learning**: Wang, Xiaolong, et al. "Transitive Invariance for Self-supervised Visual Representation Learning" Proceedings of the IEEE International Conference on Computer Vision. 2017. :star::star::star:
 [code](http://www.cs.cmu.edu/~xiaolonw/publication.html)
+* **Omni-Supervised Learning**: Radosavovic, I., Dollár, P., Girshick, R., Gkioxari, G., & He, K. Data Distillation: Towards Omni-Supervised Learning. In CVPR, 2018. :star::star::star::star::star:
 
 ## Saliency
 * **DHSNet**: Liu, Nian, and Junwei Han. "Dhsnet: Deep hierarchical saliency network for salient object detection." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016. :star::star::star::star:
