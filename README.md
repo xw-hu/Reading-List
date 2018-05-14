@@ -74,7 +74,7 @@ Reading list on deep learning.
 * **PSPNet**: Zhao, Hengshuang, et al. "Pyramid scene parsing network." arXiv preprint arXiv:1612.01105 (2016). :star::star::star:
 * **Mask R-CNN**: He, Kaiming, Georgia Gkioxari, Piotr Dollár, and Ross Girshick. "Mask r-cnn." In ICCV. 2017. :star::star::star::star::star:
 * **Learning to Segment Every Thing (Mask^X R-CNN)**: Hu, Ronghang, Piotr Dollár, Kaiming He, Trevor Darrell, and Ross Girshick. "Learning to Segment Every Thing." arXiv preprint arXiv:1711.10370 (2017). :star::star::star::star::star:
-* ***Deeplab v1v2**: Chen, Liang-Chieh, et al. "Deeplab: Semantic image segmentation with deep convolutional nets, atrous convolution, and fully connected crfs." IEEE transactions on pattern analysis and machine intelligence 40.4 (2018): 834-848. :star::star::star::star::star:
+* **Deeplab v1v2**: Chen, Liang-Chieh, et al. "Deeplab: Semantic image segmentation with deep convolutional nets, atrous convolution, and fully connected crfs." IEEE transactions on pattern analysis and machine intelligence 40.4 (2018): 834-848. :star::star::star::star::star:
 
 
 ## Weakly Supervised 
