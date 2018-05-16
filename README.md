@@ -76,6 +76,7 @@ Reading list on deep learning.
 * **Learning to Segment Every Thing (Mask^X R-CNN)**: Hu, Ronghang, Piotr Dollár, Kaiming He, Trevor Darrell, and Ross Girshick. "Learning to Segment Every Thing." arXiv preprint arXiv:1711.10370 (2017). :star::star::star::star::star:
 * **Deeplab v1v2**: Chen, Liang-Chieh, et al. "Deeplab: Semantic image segmentation with deep convolutional nets, atrous convolution, and fully connected crfs." IEEE transactions on pattern analysis and machine intelligence 40.4 (2018): 834-848. :star::star::star::star::star:
 * **Deeplab v3**: Chen, Liang-Chieh, et al. "Rethinking atrous convolution for semantic image segmentation." arXiv preprint arXiv:1706.05587 (2017). :star::star::star:
+* **Deeplab v3+**: Chen, Liang-Chieh, et al. "Encoder-decoder with atrous separable convolution for semantic image segmentation." arXiv preprint arXiv:1802.02611 (2018). :star::star::star:
 
 
 ## Weakly Supervised 
