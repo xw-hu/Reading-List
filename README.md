@@ -73,11 +73,12 @@ Reading list on deep learning.
 * **InstanceFCN**: Dai, Jifeng, et al. "Instance-sensitive fully convolutional networks." arXiv preprint arXiv:1603.08678 (2016). :star::star::star::star:
 * **FCIS**: Li, Yi, et al. "Fully convolutional instance-aware semantic segmentation." arXiv preprint arXiv:1611.07709 (2016). :star::star::star::star::star:
 * **PSPNet**: Zhao, Hengshuang, et al. "Pyramid scene parsing network." arXiv preprint arXiv:1612.01105 (2016). :star::star::star:
-* **Mask R-CNN**: He, Kaiming, Georgia Gkioxari, Piotr Dollár, and Ross Girshick. "Mask r-cnn." In ICCV. 2017. :star::star::star::star::star:
-* **Learning to Segment Every Thing (Mask^X R-CNN)**: Hu, Ronghang, Piotr Dollár, Kaiming He, Trevor Darrell, and Ross Girshick. "Learning to Segment Every Thing." arXiv preprint arXiv:1711.10370 (2017). :star::star::star::star::star:
 * **Deeplab v1v2**: Chen, Liang-Chieh, et al. "Deeplab: Semantic image segmentation with deep convolutional nets, atrous convolution, and fully connected crfs." IEEE transactions on pattern analysis and machine intelligence 40.4 (2018): 834-848. :star::star::star::star::star:
 * **Deeplab v3**: Chen, Liang-Chieh, et al. "Rethinking atrous convolution for semantic image segmentation." arXiv preprint arXiv:1706.05587 (2017). :star::star::star:
 * **Deeplab v3+**: Chen, Liang-Chieh, et al. "Encoder-decoder with atrous separable convolution for semantic image segmentation." arXiv preprint arXiv:1802.02611 (2018). :star::star::star:
+* **Mask R-CNN**: He, Kaiming, Georgia Gkioxari, Piotr Dollár, and Ross Girshick. "Mask r-cnn." In ICCV. 2017. :star::star::star::star::star:
+* **Learning to Segment Every Thing (Mask^X R-CNN)**: Hu, Ronghang, Piotr Dollár, Kaiming He, Trevor Darrell, and Ross Girshick. "Learning to Segment Every Thing." arXiv preprint arXiv:1711.10370 (2017). :star::star::star::star::star:
+* **PANet**: Liu, Shu, et al. "Path aggregation network for instance segmentation." arXiv preprint arXiv:1803.01534 (2018). :star::star::star::star:
 
 
 ## Weakly Supervised 
