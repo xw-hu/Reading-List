@@ -126,6 +126,7 @@ Reading list on deep learning.
 
 ## Image Renovate
 * **DRRN**: Tai, Ying, Jian Yang, and Xiaoming Liu. "Image super-resolution via deep recursive residual network." The IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2017. :star::star::star::star:
+* **DID-MDN**: Zhang, He, and Vishal M. Patel. "Density-aware Single Image De-raining using a Multi-stream Dense Network." arXiv preprint arXiv:1802.07412 (2018). :star::star:
 
 ## Image Synthesis
 * **Let there be Color!**: Iizuka, Satoshi, Edgar Simo-Serra, and Hiroshi Ishikawa. "Let there be color!: joint end-to-end learning of global and local image priors for automatic image colorization with simultaneous classification." ACM Transactions on Graphics (TOG) 35.4 (2016): 110. :star::star::star::star::star:
