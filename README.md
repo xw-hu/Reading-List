@@ -124,9 +124,11 @@ Reading list on deep learning.
 * **Patched CNN**: Hosseinzadeh, Sepideh, Moein Shakeri, and Hong Zhang. "Fast Shadow Detection from a Single Image Using a Patched Convolutional Neural Network." arXiv preprint arXiv:1709.09283 (2017). :star:
 * **ST-CGAN**: Wang, Jifeng, et al. "Stacked Conditional Generative Adversarial Networks for Jointly Learning Shadow Detection and Shadow Removal." arXiv preprint arXiv:1712.02478 (2017). :star::star: (ISTD dataset)
 
-## Image Renovate
+## Image Restoration
 * **DRRN**: Tai, Ying, Jian Yang, and Xiaoming Liu. "Image super-resolution via deep recursive residual network." The IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2017. :star::star::star::star:
 * **DID-MDN**: Zhang, He, and Vishal M. Patel. "Density-aware Single Image De-raining using a Multi-stream Dense Network." arXiv preprint arXiv:1802.07412 (2018). :star::star:
+* **IDN**: Hui, Zheng, Xiumei Wang, and Xinbo Gao. "Fast and Accurate Single Image Super-Resolution via Information Distillation Network." In CVPR. 2018. :star::star::star:
+
 
 ## Image Synthesis
 * **Let there be Color!**: Iizuka, Satoshi, Edgar Simo-Serra, and Hiroshi Ishikawa. "Let there be color!: joint end-to-end learning of global and local image priors for automatic image colorization with simultaneous classification." ACM Transactions on Graphics (TOG) 35.4 (2016): 110. :star::star::star::star::star:
