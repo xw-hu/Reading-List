@@ -128,6 +128,7 @@ Reading list on deep learning.
 * **DRRN**: Tai, Ying, Jian Yang, and Xiaoming Liu. "Image super-resolution via deep recursive residual network." The IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2017. :star::star::star::star:
 * **DID-MDN**: Zhang, He, and Vishal M. Patel. "Density-aware Single Image De-raining using a Multi-stream Dense Network." arXiv preprint arXiv:1802.07412 (2018). :star::star:
 * **IDN**: Hui, Zheng, Xiumei Wang, and Xinbo Gao. "Fast and Accurate Single Image Super-Resolution via Information Distillation Network." In CVPR. 2018. :star::star::star:
+* **SFT-GAN**: Wang, X., Yu, K., Dong, C., & Loy, C. C. (2018). Recovering realistic texture in image super-resolution by deep spatial feature transform. In CVPR. 2018. :star::star::star:
 
 
 ## Image Synthesis
