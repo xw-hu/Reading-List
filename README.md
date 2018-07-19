@@ -113,6 +113,7 @@ Reading list on deep learning.
 * **S4Net**: Fan, Ruochen, et al. "$ S^ 4$ Net: Single Stage Salient-Instance Segmentation." arXiv preprint arXiv:1711.07618 (2017). :star::star::star::star::star:
 * **Deep Edge-Aware Saliency Detection**： Zhang, Jing, Yuchao Dai, Fatih Porikli, and Mingyi He. "Deep Edge-Aware Saliency Detection." arXiv preprint arXiv:1708.04366 (2017). :star::star::star:
 * **Bi-Directional Message Passing Model**: Zhang, Lu, et al. "A Bi-Directional Message Passing Model for Salient Object Detection." In CVPR. 2018. :star::star::star:
+* **PiCANet**: Liu, Nian, Junwei Han, and Ming-Hsuan Yang. "PiCANet: Learning Pixel-wise Contextual Attention for Saliency Detection." In CVPR. 2018. :star::star::star::star::star:
 
 ## Attention
 * **SRN**: Zhu, Feng, et al. "Learning Spatial Regularization with Image-level Supervisions for Multi-label Image Classification." arXiv preprint arXiv:1702.05891 (2017). :star::star::star::star:
