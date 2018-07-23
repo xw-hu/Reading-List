@@ -114,6 +114,7 @@ Reading list on deep learning.
 * **Deep Edge-Aware Saliency Detection**： Zhang, Jing, Yuchao Dai, Fatih Porikli, and Mingyi He. "Deep Edge-Aware Saliency Detection." arXiv preprint arXiv:1708.04366 (2017). :star::star::star:
 * **Bi-Directional Message Passing Model**: Zhang, Lu, et al. "A Bi-Directional Message Passing Model for Salient Object Detection." In CVPR. 2018. :star::star::star:
 * **PiCANet**: Liu, Nian, Junwei Han, and Ming-Hsuan Yang. "PiCANet: Learning Pixel-wise Contextual Attention for Saliency Detection." In CVPR. 2018. :star::star::star::star::star:
+* **Detect Globally, Refine Locally: A Novel Approach to Saliency Detection**: Wang, Tiantian, et al. "Detect Globally, Refine Locally: A Novel Approach to Saliency Detection." In CVPR. 2018. :star::star::star:
 
 ## Attention
 * **SRN**: Zhu, Feng, et al. "Learning Spatial Regularization with Image-level Supervisions for Multi-label Image Classification." arXiv preprint arXiv:1702.05891 (2017). :star::star::star::star:
