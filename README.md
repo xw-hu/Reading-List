@@ -116,6 +116,7 @@ Reading list on deep learning.
 * **PiCANet**: Liu, Nian, Junwei Han, and Ming-Hsuan Yang. "PiCANet: Learning Pixel-wise Contextual Attention for Saliency Detection." In CVPR. 2018. :star::star::star::star::star:
 * **Detect Globally, Refine Locally: A Novel Approach to Saliency Detection**: Wang, Tiantian, et al. "Detect Globally, Refine Locally: A Novel Approach to Saliency Detection." In CVPR. 2018. :star::star::star:
 * **PAGRN**： Zhang, Xiaoning, et al. "Progressive Attention Guided Recurrent Network for Salient Object Detection." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018. :star::star::star:
+* **Reverse Attention for Salient Object Detection**: Chen, Shuhan, et al. "Reverse Attention for Salient Object Detection." In ECCV, 2018. :star::star:
 
 ## Attention
 * **SRN**: Zhu, Feng, et al. "Learning Spatial Regularization with Image-level Supervisions for Multi-label Image Classification." arXiv preprint arXiv:1702.05891 (2017). :star::star::star::star:
