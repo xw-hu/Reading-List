@@ -139,6 +139,7 @@ Reading list on deep learning.
 * **Deep Multi-scale Convolutional Neural Network for Dynamic Scene Deblurring**：Nah, Seungjun, Tae Hyun Kim, and Kyoung Mu Lee. "Deep multi-scale convolutional neural network for dynamic scene deblurring." In CVPR, 2017. :star::star::star:
 * **Enhanced Deep Residual Networks for Single Image Super-Resolution**: Lim, Bee, et al. "Enhanced deep residual networks for single image super-resolution." The CVPR workshops, 2017. :star:
 * **AGAN for Raindrop Removal**: Qian, Rui, et al. "Attentive Generative Adversarial Network for Raindrop Removal from A Single Image." In CVPR. 2018. :star::star::star::star::star:
+* **DCPDN**: Zhang, He, and Vishal M. Patel. "Densely connected pyramid dehazing network." In CVPR, 2018. :star::star::star:
 
 
 ## Image Synthesis
