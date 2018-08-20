@@ -140,6 +140,7 @@ Reading list on deep learning.
 * **Enhanced Deep Residual Networks for Single Image Super-Resolution**: Lim, Bee, et al. "Enhanced deep residual networks for single image super-resolution." The CVPR workshops, 2017. :star:
 * **AGAN for Raindrop Removal**: Qian, Rui, et al. "Attentive Generative Adversarial Network for Raindrop Removal from A Single Image." In CVPR. 2018. :star::star::star::star::star:
 * **DCPDN**: Zhang, He, and Vishal M. Patel. "Densely connected pyramid dehazing network." In CVPR, 2018. :star::star::star:
+* **GFN**: Ren, W., Ma, L., Zhang, J., Pan, J., Cao, X., Liu, W., & Yang, M. H. (2018). Gated fusion network for single image dehazing. In CVPR, 2018. :star::star::star::star:
 * **SIDCGAN**: Li, Runde, et al. "Single Image Dehazing via Conditional Generative Adversarial Network." In CVPR, 2018. :star::star:
 
 
