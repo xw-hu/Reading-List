@@ -140,6 +140,7 @@ Reading list on deep learning.
 * **Enhanced Deep Residual Networks for Single Image Super-Resolution**: Lim, Bee, et al. "Enhanced deep residual networks for single image super-resolution." The CVPR workshops, 2017. :star:
 * **AGAN for Raindrop Removal**: Qian, Rui, et al. "Attentive Generative Adversarial Network for Raindrop Removal from A Single Image." In CVPR. 2018. :star::star::star::star::star:
 * **DCPDN**: Zhang, He, and Vishal M. Patel. "Densely connected pyramid dehazing network." In CVPR, 2018. :star::star::star:
+* **SIDCGAN**: Li, Runde, et al. "Single Image Dehazing via Conditional Generative Adversarial Network." In CVPR, 2018. :star::star:
 
 
 ## Image Synthesis
@@ -151,6 +152,7 @@ Reading list on deep learning.
 * **MRC+CNN Image Synthesis**: Li, Chuan, and Michael Wand. "Combining markov random fields and convolutional neural networks for image synthesis." In CVPR. 2016. :star::star::star::star:
 * **More Experiments on Neural Style**: Novak, Roman, and Yaroslav Nikulin. "Improving the neural algorithm of artistic style." arXiv preprint arXiv:1605.04603 (2016). :star::star:
 * **Deep Photo Style Transfer**: Luan, Fujun, et al. "Deep photo style transfer." In CVPR. 2017. :star::star::star::star::star:
+
 
 ## Traditional Method
 * **Rolling Guidance Filter**: Zhang, Q., Shen, X., Xu, L., & Jia, J. Rolling guidance filter. In ECCV, 2018. :star::star::star::star::star:
