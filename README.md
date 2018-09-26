@@ -162,6 +162,5 @@ Reading list on deep learning.
 ## Talk
 * **G-RMI**: Google. (Object Detection) [slides](http://image-net.org/challenges/talks/2016/GRMI-COCO-slidedeck.pdf)
 * **2017 CVPR Tutorial**: [video and slides](http://deeplearning.csail.mit.edu/)
-* **1st ImageNet and COCO Visual Recognition Challenges Joint Workshop**: 2015. [link](http://image-net.org/challenges/ilsvrc+mscoco2015) 
-* **2nd ImageNet and COCO Visual Recognition Challenges Joint Workshop**: 2016. [link](http://image-net.org/challenges/ilsvrc+coco2016) 
+* **16-18 Computer Vision Conferences**: [https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/playlists](https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/playlists)
 
