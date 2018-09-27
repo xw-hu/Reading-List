@@ -143,6 +143,7 @@ Reading list on deep learning.
 * **GFN**: Ren, W., Ma, L., Zhang, J., Pan, J., Cao, X., Liu, W., & Yang, M. H. (2018). Gated fusion network for single image dehazing. In CVPR, 2018. :star::star::star::star:
 * **SIDCGAN**: Li, Runde, et al. "Single Image Dehazing via Conditional Generative Adversarial Network." In CVPR, 2018. :star::star:
 * **Dehaze Benchmark**: Li, Boyi, et al. "Benchmarking Single Image Dehazing and Beyond." IEEE Transactions on Image Processing (2018). :star::star::star::star::star:
+* **Cityscapes + Haze**: Sakaridis, Christos, Dengxin Dai, and Luc Van Gool. "Semantic foggy scene understanding with synthetic data." International Journal of Computer Vision (2018): 1-20. :star::star::star::star::star:
 
 
 ## Image Synthesis
