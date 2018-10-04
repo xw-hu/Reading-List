@@ -156,6 +156,8 @@ Reading list on deep learning.
 * **More Experiments on Neural Style**: Novak, Roman, and Yaroslav Nikulin. "Improving the neural algorithm of artistic style." arXiv preprint arXiv:1605.04603 (2016). :star::star:
 * **Deep Photo Style Transfer**: Luan, Fujun, et al. "Deep photo style transfer." In CVPR. 2017. :star::star::star::star::star:
 
+* **GAN**
+* **Image-to-Image Translation with Conditional Adversarial Networks**: Isola, Phillip, et al. "Image-to-image translation with conditional adversarial networks." arXiv preprint (2017). :star::star::star::star::star:
 
 ## Traditional Method
 * **Rolling Guidance Filter**: Zhang, Q., Shen, X., Xu, L., & Jia, J. Rolling guidance filter. In ECCV, 2014. :star::star::star::star::star:
