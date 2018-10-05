@@ -82,6 +82,7 @@ Reading list on deep learning.
 * **Learning to Segment Every Thing (Mask^X R-CNN)**: Hu, Ronghang, Piotr Dollár, Kaiming He, Trevor Darrell, and Ross Girshick. "Learning to Segment Every Thing." arXiv preprint arXiv:1711.10370 (2017). :star::star::star::star::star:
 * **PANet**: Liu, Shu, et al. "Path aggregation network for instance segmentation." arXiv preprint arXiv:1803.01534 (2018). :star::star::star::star:
 * **Panoptic Segmentation**: Kirillov, A., He, K., Girshick, R., Rother, C., & Dollár, P. (2018). Panoptic Segmentation. arXiv preprint arXiv:1801.00868. :star::star::star::star:
+* **OCNet**: Yuan, Yuhui, and Jingdong Wang. "OCNet: Object Context Network for Scene Parsing." arXiv preprint arXiv:1809.00916 (2018). :star::star::star:
 
 
 ## Weakly Supervised 
