@@ -157,6 +157,7 @@ Reading list on deep learning.
 * **Deep Photo Style Transfer**: Luan, Fujun, et al. "Deep photo style transfer." In CVPR. 2017. :star::star::star::star::star:
 
 ## GAN
+* **GAN**: Goodfellow, Ian, et al. "Generative adversarial nets." In NIPS. 2014. :star::star::star::star::star:
 * **Image-to-Image Translation with Conditional Adversarial Networks**: Isola, Phillip, et al. "Image-to-image translation with conditional adversarial networks." arXiv preprint (2017). :star::star::star::star::star:
 
 ## Traditional Method
