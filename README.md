@@ -84,6 +84,7 @@ Reading list on deep learning.
 * **Panoptic Segmentation**: Kirillov, A., He, K., Girshick, R., Rother, C., & Dollár, P. (2018). Panoptic Segmentation. arXiv preprint arXiv:1801.00868. :star::star::star::star:
 * **PSANet**: Zhao, Hengshuang, et al. "PSANet: Point-wise Spatial Attention Network for Scene Parsing." Proceedings of the European Conference on Computer Vision (ECCV). 2018. :star::star::star::star:  [good summary of context information]
 * **OCNet**: Yuan, Yuhui, and Jingdong Wang. "OCNet: Object Context Network for Scene Parsing." arXiv preprint arXiv:1809.00916 (2018). :star::star::star:
+* **ReSeg**: Visin, Francesco, et al. "Reseg: A recurrent neural network-based model for semantic segmentation." In CVPR Workshops. 2016. :star::star:
 
 
 ## Weakly Supervised 
