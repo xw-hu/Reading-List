@@ -24,7 +24,7 @@ Reading list on deep learning.
 * **IRNN**: Le, Quoc V., Navdeep Jaitly, and Geoffrey E. Hinton. "A simple way to initialize recurrent networks of rectified linear units." arXiv preprint arXiv:1504.00941 (2015). :star::star::star:
 * **ReNet**: Visin, Francesco, et al. "ReNet: A recurrent neural network based alternative to convolutional networks." arXiv preprint arXiv:1505.00393 (2015). :star::star::star::star:
 * **Non-local Neural Network**: Wang, Xiaolong, Ross Girshick, Abhinav Gupta, and Kaiming He. "Non-local Neural Networks." arXiv preprint arXiv:1711.07971 (2017). :star::star::star::star:
-* **GN**: Wu, Yuxin, and Kaiming He. "Group normalization." In ECCV (2018). :star::star::star::star::star:
+* **Group Normalization**: Wu, Yuxin, and Kaiming He. "Group normalization." In ECCV (2018). :star::star::star::star::star:
 
 
 
