@@ -148,6 +148,7 @@ Reading list on deep learning.
 * **SIDCGAN**: Li, Runde, et al. "Single Image Dehazing via Conditional Generative Adversarial Network." In CVPR, 2018. :star::star:
 * **Dehaze Benchmark**: Li, Boyi, et al. "Benchmarking Single Image Dehazing and Beyond." IEEE Transactions on Image Processing (2018). :star::star::star::star::star:
 * **Cityscapes + Haze**: Sakaridis, Christos, Dengxin Dai, and Luc Van Gool. "Semantic foggy scene understanding with synthetic data." International Journal of Computer Vision (2018): 1-20. :star::star::star::star::star:
+* **RESCAN**: Li, Xia, et al. "Recurrent Squeeze-and-Excitation Context Aggregation Net for Single Image Deraining." European Conference on Computer Vision. Springer, Cham, 2018. :star::star::star:
 
 
 ## Image Synthesis
