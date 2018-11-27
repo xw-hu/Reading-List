@@ -26,6 +26,7 @@ Reading list on deep learning.
 * **Non-local Neural Network**: Wang, Xiaolong, Ross Girshick, Abhinav Gupta, and Kaiming He. "Non-local Neural Networks." arXiv preprint arXiv:1711.07971 (2017). :star::star::star::star:
 * **Group Normalization**: Wu, Yuxin, and Kaiming He. "Group normalization." In ECCV (2018). :star::star::star::star::star:
 * **SENet**: Hu, Jie, Li Shen, and Gang Sun. "Squeeze-and-excitation networks."In CVPR (2018). :star::star::star::star::star:
+* **ethinking ImageNet Pre-training**： He, Kaiming, Ross Girshick, and Piotr Dollár. "Rethinking ImageNet Pre-training." arXiv preprint arXiv:1811.08883 (2018). :star::star::star::star:
 
 
 
