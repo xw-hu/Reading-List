@@ -136,6 +136,7 @@ Reading list on deep learning.
 * **scGAN**: Nguyen, Vu, et al. "Shadow Detection with Conditional Generative Adversarial Networks." In ICCV. 2017. :star::star:
 * **Patched CNN**: Hosseinzadeh, Sepideh, Moein Shakeri, and Hong Zhang. "Fast Shadow Detection from a Single Image Using a Patched Convolutional Neural Network." arXiv preprint arXiv:1709.09283 (2017). :star:
 * **ST-CGAN**: Wang, Jifeng, et al. "Stacked Conditional Generative Adversarial Networks for Jointly Learning Shadow Detection and Shadow Removal." arXiv preprint arXiv:1712.02478 (2017). :star::star: (ISTD dataset)
+* **A+D Net**: Le, Hieu, et al. "A+ D net: Training a shadow detector with adversarial shadow attenuation." Proceedings of the European Conference on Computer Vision (ECCV). 2018. :star::star::star:
 
 ## Image Restoration
 * **DRRN**: Tai, Ying, Jian Yang, and Xiaoming Liu. "Image super-resolution via deep recursive residual network." The IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2017. :star::star::star::star:
