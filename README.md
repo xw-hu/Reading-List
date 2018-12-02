@@ -166,6 +166,7 @@ Reading list on deep learning.
 
 ## GAN
 * **GAN**: Goodfellow, Ian, et al. "Generative adversarial nets." In NIPS. 2014. :star::star::star::star::star:
+* **cGAN**: Mirza, Mehdi, and Simon Osindero. "Conditional generative adversarial nets." arXiv preprint arXiv:1411.1784 (2014). :star::star::star::star::star:
 * **Image-to-Image Translation with Conditional Adversarial Networks**: Isola, Phillip, et al. "Image-to-image translation with conditional adversarial networks." arXiv preprint (2017). :star::star::star::star::star:
 
 ## Traditional Method
