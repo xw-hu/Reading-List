@@ -169,6 +169,7 @@ Reading list on deep learning.
 * **cGAN**: Mirza, Mehdi, and Simon Osindero. "Conditional generative adversarial nets." arXiv preprint arXiv:1411.1784 (2014). :star::star::star::star::star:
 * **Image-to-Image Translation with Conditional Adversarial Networks**: Isola, Phillip, et al. "Image-to-image translation with conditional adversarial networks." arXiv preprint (2017). :star::star::star::star::star:
 * **cycleGAN**：Zhu, Jun-Yan, et al. "Unpaired image-to-image translation using cycle-consistent adversarial networks." arXiv preprint (2017). :star::star::star::star::star:
+* **StartGAN**: Choi, Yunjey, et al. "Stargan: Unified generative adversarial networks for multi-domain image-to-image translation." In CVPR 2018. :star::star::star::star:
 
 ## Traditional Method
 * **Rolling Guidance Filter**: Zhang, Q., Shen, X., Xu, L., & Jia, J. Rolling guidance filter. In ECCV, 2014. :star::star::star::star::star:
