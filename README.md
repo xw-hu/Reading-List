@@ -88,6 +88,7 @@ Reading list on deep learning.
 * **PSANet**: Zhao, Hengshuang, et al. "PSANet: Point-wise Spatial Attention Network for Scene Parsing." Proceedings of the European Conference on Computer Vision (ECCV). 2018. :star::star::star::star:  [good summary of context information]
 * **OCNet**: Yuan, Yuhui, and Jingdong Wang. "OCNet: Object Context Network for Scene Parsing." arXiv preprint arXiv:1809.00916 (2018). :star::star::star:
 * **ReSeg**: Visin, Francesco, et al. "Reseg: A recurrent neural network-based model for semantic segmentation." In CVPR Workshops. 2016. :star::star:
+* **CCNet**: Huang, Zilong, et al. "CCNet: Criss-Cross Attention for Semantic Segmentation." arXiv preprint arXiv:1811.11721 (2018). :star::star::star:
 
 
 ## Weakly Supervised 
