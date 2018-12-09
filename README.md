@@ -175,7 +175,7 @@ Reading list on deep learning.
 ## Traditional Method
 * **Rolling Guidance Filter**: Zhang, Q., Shen, X., Xu, L., & Jia, J. Rolling guidance filter. In ECCV, 2014. :star::star::star::star::star:
 
-## Talk
+## Talks
 * **G-RMI**: Google. (Object Detection) [slides](http://image-net.org/challenges/talks/2016/GRMI-COCO-slidedeck.pdf)
 * **2017 CVPR Tutorial**: [video and slides](http://deeplearning.csail.mit.edu/)
 * **16-18 Computer Vision Conferences**: [https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/playlists](https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/playlists)
