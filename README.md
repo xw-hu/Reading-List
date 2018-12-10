@@ -67,6 +67,7 @@ Reading list on deep learning.
 * **Perceptual GAN**: Li, Jianan, et al. "Perceptual Generative Adversarial Networks for Small Object Detection." arXiv preprint arXiv:1706.05274 (2017). :star::star::star:
 * **RetinaNet (Focal Loss)**: Tsung-Yi Lin, Priya Goyal, Ross B. Girshick, Kaiming He, and Piotr Dollár. "Focal Loss for Dense Object Detection." In ICCV. 2017. :star::star::star::star::star:
 * **YOLOv3**: Redmon, Joseph, and Ali Farhadi. "YOLOv3: An Incremental Improvement." arXiv preprint arXiv:1804.02767 (2018). :star::star::star:
+* **Domain Adaptive Faster R-CNN**: Chen, Yuhua, et al. "Domain adaptive faster r-cnn for object detection in the wild." In CVPR, 2018. :star::star::star::star:
 
 
 ## Semantic Segmentation 
