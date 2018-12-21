@@ -154,6 +154,7 @@ Reading list on deep learning.
 * **Dehaze Benchmark**: Li, Boyi, et al. "Benchmarking Single Image Dehazing and Beyond." IEEE Transactions on Image Processing (2018). :star::star::star::star::star:
 * **Cityscapes + Haze**: Sakaridis, Christos, Dengxin Dai, and Luc Van Gool. "Semantic foggy scene understanding with synthetic data." International Journal of Computer Vision (2018): 1-20. :star::star::star::star::star:
 * **RESCAN**: Li, Xia, et al. "Recurrent Squeeze-and-Excitation Context Aggregation Net for Single Image Deraining." European Conference on Computer Vision. Springer, Cham, 2018. :star::star::star:
+* **UD-GAN**: Jin, Xin, et al. "Unsupervised Single Image Deraining with Self-supervised Constraints." arXiv preprint arXiv:1811.08575 (2018). :star::star::star::star::star:
 
 
 ## Image Synthesis
