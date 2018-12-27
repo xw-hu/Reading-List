@@ -133,12 +133,15 @@ Reading list on deep learning.
 * **Zoom-in-Net**: Wang, Zhe, et al. "Zoom-in-Net: Deep Mining Lesions for Diabetic Retinopathy Detection." arXiv preprint arXiv:1706.04372 (2017). :star::star::star::star:
 * **Multi-context attention**: Chu, Xiao, et al. "Multi-context attention for human pose estimation." arXiv preprint arXiv:1702.07432 (2017). :star::star::star:
 
+
 ## Shadow Detection/Removal
 * **DeshadowNet**: Qu, Liangqiong, et al. "DeshadowNet: A Multi-context Embedding Deep Network for Shadow Removal." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2017. :star::star::star:
 * **scGAN**: Nguyen, Vu, et al. "Shadow Detection with Conditional Generative Adversarial Networks." In ICCV. 2017. :star::star:
 * **Patched CNN**: Hosseinzadeh, Sepideh, Moein Shakeri, and Hong Zhang. "Fast Shadow Detection from a Single Image Using a Patched Convolutional Neural Network." arXiv preprint arXiv:1709.09283 (2017). :star:
 * **ST-CGAN**: Wang, Jifeng, et al. "Stacked Conditional Generative Adversarial Networks for Jointly Learning Shadow Detection and Shadow Removal." arXiv preprint arXiv:1712.02478 (2017). :star::star: (ISTD dataset)
 * **A+D Net**: Le, Hieu, et al. "A+ D net: Training a shadow detector with adversarial shadow attenuation." Proceedings of the European Conference on Computer Vision (ECCV). 2018. :star::star::star:
+* **Lazy annotation for SBU**： Vicente, Yago, et al. "Noisy label recovery for shadow detection in unfamiliar domains." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016. :star::star::star:
+
 
 ## Image Restoration
 * **DRRN**: Tai, Ying, Jian Yang, and Xiaoming Liu. "Image super-resolution via deep recursive residual network." The IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2017. :star::star::star::star:
@@ -157,6 +160,7 @@ Reading list on deep learning.
 * **UD-GAN**: Jin, Xin, et al. "Unsupervised Single Image Deraining with Self-supervised Constraints." arXiv preprint arXiv:1811.08575 (2018). :star::star::star::star::star:
 * **Deep Tree-Structured Fusion Model**: Fu, Xueyang, et al. "A Deep Tree-Structured Fusion Model for Single Image Deraining." arXiv preprint arXiv:1811.08632 (2018). :star::star:
 * **Dual CNN**: Pan, J., Liu, S., Sun, D., Zhang, J., Liu, Y., Ren, J., ... & Yang, M. H. Learning Dual Convolutional Neural Networks for Low-Level Vision. In CVPR, 2018 (pp. 3070-3079). :star::star::star:
+
 
 
 ## Image Synthesis
