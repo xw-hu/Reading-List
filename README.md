@@ -140,7 +140,8 @@ Reading list on deep learning.
 * **Patched CNN**: Hosseinzadeh, Sepideh, Moein Shakeri, and Hong Zhang. "Fast Shadow Detection from a Single Image Using a Patched Convolutional Neural Network." arXiv preprint arXiv:1709.09283 (2017). :star:
 * **ST-CGAN**: Wang, Jifeng, et al. "Stacked Conditional Generative Adversarial Networks for Jointly Learning Shadow Detection and Shadow Removal." arXiv preprint arXiv:1712.02478 (2017). :star::star: (ISTD dataset)
 * **A+D Net**: Le, Hieu, et al. "A+ D net: Training a shadow detector with adversarial shadow attenuation." Proceedings of the European Conference on Computer Vision (ECCV). 2018. :star::star::star:
-* **Lazy annotation for SBU**： Vicente, Yago, et al. "Noisy label recovery for shadow detection in unfamiliar domains." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016. :star::star::star:
+* **Lazy annotation for immature SBU**： Vicente, Yago, et al. "Noisy label recovery for shadow detection in unfamiliar domains." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016. :star::star::star:
+* **StackedCNN + SBU**: Vicente, Tomás F. Yago, et al. "Large-scale training of shadow detectors with noisily-annotated shadow examples." European Conference on Computer Vision. Springer, Cham, 2016. :star::star::star::star: (SBU dataset)
 
 
 ## Image Restoration
