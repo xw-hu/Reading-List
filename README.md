@@ -68,7 +68,7 @@ Reading list on deep learning.
 * **RetinaNet (Focal Loss)**: Tsung-Yi Lin, Priya Goyal, Ross B. Girshick, Kaiming He, and Piotr Dollár. "Focal Loss for Dense Object Detection." In ICCV. 2017. :star::star::star::star::star:
 * **YOLOv3**: Redmon, Joseph, and Ali Farhadi. "YOLOv3: An Incremental Improvement." arXiv preprint arXiv:1804.02767 (2018). :star::star::star:
 * **Domain Adaptive Faster R-CNN**: Chen, Yuhua, et al. "Domain adaptive faster r-cnn for object detection in the wild." In CVPR, 2018. :star::star::star::star:
-* **OMNIA Faster R-CNN**： Rame, Alexandre, et al. "OMNIA Faster R-CNN: Detection in the wild through dataset merging and soft distillation." arXiv preprint arXiv:1812.02611 (2018). [Omni-Supervised across different datasets for object detection] :star::star::star: 
+* **OMNIA Faster R-CNN**： Rame, Alexandre, et al. "OMNIA Faster R-CNN: Detection in the wild through dataset merging and soft distillation." arXiv preprint arXiv:1812.02611 (2018). [Omni-Supervised across different datasets for object detection] :star::star::star::star: 
 
 
 ## Semantic Segmentation 
