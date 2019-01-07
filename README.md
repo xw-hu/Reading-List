@@ -162,6 +162,7 @@ Reading list on deep learning.
 * **UD-GAN**: Jin, Xin, et al. "Unsupervised Single Image Deraining with Self-supervised Constraints." arXiv preprint arXiv:1811.08575 (2018). :star::star::star::star::star:
 * **Deep Tree-Structured Fusion Model**: Fu, Xueyang, et al. "A Deep Tree-Structured Fusion Model for Single Image Deraining." arXiv preprint arXiv:1811.08632 (2018). :star::star:
 * **Dual CNN**: Pan, J., Liu, S., Sun, D., Zhang, J., Liu, Y., Ren, J., ... & Yang, M. H. Learning Dual Convolutional Neural Networks for Low-Level Vision. In CVPR, 2018 (pp. 3070-3079). :star::star::star:
+* **RAM**： Kim, Jun-Hyuk, et al. "RAM: Residual Attention Module for Single Image Super-Resolution." arXiv preprint arXiv:1811.12043 (2018). :star::star::star:
 
 
 
