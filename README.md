@@ -92,6 +92,7 @@ Reading list on deep learning.
 * **ReSeg**: Visin, Francesco, et al. "Reseg: A recurrent neural network-based model for semantic segmentation." In CVPR Workshops. 2016. :star::star:
 * **CCNet**: Huang, Zilong, et al. "CCNet: Criss-Cross Attention for Semantic Segmentation." arXiv preprint arXiv:1811.11721 (2018). :star::star::star:
 * **Panoptic FPN**: Kirillov, A., Girshick, R., He, K., & Dollár, P. (2019). Panoptic Feature Pyramid Networks. arXiv preprint arXiv:1901.02446. :star::star::star::star::star:     
+* **Depth-aware CNN**: Wang, Weiyue, and Ulrich Neumann. "Depth-aware CNN for RGB-D Segmentation." In ECCV, 2018. :star::star::star::star::star:
 
 
 ## Weakly Supervised 
