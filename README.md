@@ -188,6 +188,8 @@ Reading list on deep learning.
 * **StartGAN**: Choi, Yunjey, et al. "Stargan: Unified generative adversarial networks for multi-domain image-to-image translation." In CVPR 2018. :star::star::star::star:
 * **E-GAN**: Wang, C., Xu, C., Yao, X., & Tao, D. (2018). Evolutionary Generative Adversarial Networks. arXiv preprint arXiv:1803.00657. :star::star::star::star: 
 * **DCGAN**: Radford, Alec, Luke Metz, and Soumith Chintala. "Unsupervised representation learning with deep convolutional generative adversarial networks." arXiv preprint arXiv:1511.06434 (2015). :star::star::star::star: 
+* **GANtruth**： Bujwid, Sebastian, et al. "GANtruth-an unpaired image-to-image translation method for driving scenarios." arXiv preprint arXiv:1812.01710 (2018). :star::star::star:
+
 
 ## Traditional Method
 * **Rolling Guidance Filter**: Zhang, Q., Shen, X., Xu, L., & Jia, J. Rolling guidance filter. In ECCV, 2014. :star::star::star::star::star:
