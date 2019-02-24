@@ -168,6 +168,7 @@ Reading list on deep learning.
 * **Dual CNN**: Pan, J., Liu, S., Sun, D., Zhang, J., Liu, Y., Ren, J., ... & Yang, M. H. Learning Dual Convolutional Neural Networks for Low-Level Vision. In CVPR, 2018 (pp. 3070-3079). :star::star::star:
 * **RAM**: Kim, Jun-Hyuk, et al. "RAM: Residual Attention Module for Single Image Super-Resolution." arXiv preprint arXiv:1811.12043 (2018). :star::star::star:
 * **DNSR (Bi-cycle GAN)**: Zhao, Tianyu, et al. "Unsupervised Degradation Learning for Single Image Super-Resolution." arXiv preprint arXiv:1812.04240 (2018). :star::star::star::star::star:
+* **Cycle-Defog2Refog**：Liu, Wei, et al. "End-to-End Single Image Fog Removal using Enhanced Cycle Consistent Adversarial Networks." arXiv preprint arXiv:1902.01374 (2019). :star::star:
 
 
 
