@@ -27,7 +27,7 @@ Reading list on deep learning.
 * **Group Normalization**: Wu, Yuxin, and Kaiming He. "Group normalization." In ECCV (2018). :star::star::star::star::star:
 * **SENet**: Hu, Jie, Li Shen, and Gang Sun. "Squeeze-and-excitation networks."In CVPR (2018). :star::star::star::star::star:
 * **Rethinking ImageNet Pre-training**： He, Kaiming, Ross Girshick, and Piotr Dollár. "Rethinking ImageNet Pre-training." arXiv preprint arXiv:1811.08883 (2018). :star::star::star::star:
-
+* **CBAM**： Woo, Sanghyun, et al. "CBAM: Convolutional block attention module." Proceedings of the European Conference on Computer Vision (ECCV). 2018. :star::star::star::star:
 
 
 ## Object Detection 
