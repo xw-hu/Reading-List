@@ -132,6 +132,8 @@ Reading list on deep learning.
 * **Reverse Attention for Salient Object Detection**: Chen, Shuhan, et al. "Reverse Attention for Salient Object Detection." In ECCV, 2018. :star::star:
 * **CA-Fuse**: Chen, Hao, and Youfu Li. "Progressively Complementarity-Aware Fusion Network for RGB-D Salient Object Detection." In CVPR. 2018. :star::star::star:
 * **SOC dataset**: Fan, Deng-Ping, et al. "Salient objects in clutter: Bringing salient object detection to the foreground." In ECCV. 2018. :star::star::star::star::star: [complex dataset + instance level]
+* **DNA**: Liu, Yun, et al. "DNA: Deeply-supervised Nonlinear Aggregation for Salient Object Detection." arXiv preprint arXiv:1903.12476 (2019). :star::star::star:
+
 
 ## Attention
 * **SRN**: Zhu, Feng, et al. "Learning Spatial Regularization with Image-level Supervisions for Multi-label Image Classification." arXiv preprint arXiv:1702.05891 (2017). :star::star::star::star:
