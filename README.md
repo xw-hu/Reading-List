@@ -70,6 +70,7 @@ Reading list on deep learning.
 * **YOLOv3**: Redmon, Joseph, and Ali Farhadi. "YOLOv3: An Incremental Improvement." arXiv preprint arXiv:1804.02767 (2018). :star::star::star:
 * **Domain Adaptive Faster R-CNN**: Chen, Yuhua, et al. "Domain adaptive faster r-cnn for object detection in the wild." In CVPR, 2018. :star::star::star::star:
 * **OMNIA Faster R-CNN**： Rame, Alexandre, et al. "OMNIA Faster R-CNN: Detection in the wild through dataset merging and soft distillation." arXiv preprint arXiv:1812.02611 (2018). [Omni-Supervised across different datasets for object detection] :star::star::star::star: 
+* **Libra R-CNN**: Pang, J., Chen, K., Shi, J., Feng, H., Ouyang, W., & Lin, D. (2019). Libra R-CNN: Towards Balanced Learning for Object Detection. arXiv preprint arXiv:1904.02701. :star::star::star::star:
 
 
 ## Semantic Segmentation 
