@@ -95,6 +95,7 @@ Reading list on deep learning.
 * **CCNet**: Huang, Zilong, et al. "CCNet: Criss-Cross Attention for Semantic Segmentation." arXiv preprint arXiv:1811.11721 (2018). :star::star::star:
 * **Panoptic FPN**: Kirillov, A., Girshick, R., He, K., & Dollár, P. (2019). Panoptic Feature Pyramid Networks. arXiv preprint arXiv:1901.02446. :star::star::star::star::star:     
 * **Depth-aware CNN**: Wang, Weiyue, and Ulrich Neumann. "Depth-aware CNN for RGB-D Segmentation." In ECCV, 2018. :star::star::star::star::star:
+* **Mask Scoring R-CNN**: Huang, Z., Huang, L., Gong, Y., Huang, C., & Wang, X. (2019). Mask Scoring R-CNN. arXiv preprint arXiv:1903.00241. :star::star::star::star:
 
 
 ## Weakly Supervised 
