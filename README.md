@@ -177,6 +177,7 @@ Reading list on deep learning.
 * **DNSR (Bi-cycle GAN)**: Zhao, Tianyu, et al. "Unsupervised Degradation Learning for Single Image Super-Resolution." arXiv preprint arXiv:1812.04240 (2018). :star::star::star::star::star:
 * **Cycle-Defog2Refog**：Liu, Wei, et al. "End-to-End Single Image Fog Removal using Enhanced Cycle Consistent Adversarial Networks." arXiv preprint arXiv:1902.01374 (2019). :star::star:
 * **SPANet**： Tianyu Wang, Xin Yang, Ke Xu, Shaozhe Chen, Qiang Zhang, Rynson W.H. Lau. "Spatial Attentive Single-Image Deraining with a High Quality Real Rain Dataset." In CVPR 2019. :star::star::star::star:
+* **remove rain streaks and rain accumulation**： Ruoteng Li, Loong-Fah Cheong, and Robby T. Tan. "Heavy Rain Image Restoration: Integrating Physics Model and Conditional Adversarial Learning." In CVPR 2019. :star::star::star::star::star:
 
 
 
