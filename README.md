@@ -178,6 +178,7 @@ Reading list on deep learning.
 * **Cycle-Defog2Refog**：Liu, Wei, et al. "End-to-End Single Image Fog Removal using Enhanced Cycle Consistent Adversarial Networks." arXiv preprint arXiv:1902.01374 (2019). :star::star:
 * **SPANet**： Tianyu Wang, Xin Yang, Ke Xu, Shaozhe Chen, Qiang Zhang, Rynson W.H. Lau. "Spatial Attentive Single-Image Deraining with a High Quality Real Rain Dataset." In CVPR 2019. :star::star::star::star:
 * **remove rain streaks and rain accumulation**： Ruoteng Li, Loong-Fah Cheong, and Robby T. Tan. "Heavy Rain Image Restoration: Integrating Physics Model and Conditional Adversarial Learning." In CVPR 2019. :star::star::star::star::star:
+* **Rain O’er Me**: Huangxing Lin, Yanlong Li, Xinghao Ding, Weihong Zeng, Yue Huang, John Paisley: "Rain O’er Me: Synthesizing real rain to derain with data distillation." arXiv preprint arXiv:1904.04605 (2019). :star::star::star::star:
 
 
 
