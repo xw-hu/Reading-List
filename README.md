@@ -97,6 +97,7 @@ Reading list on deep learning.
 * **Depth-aware CNN**: Wang, Weiyue, and Ulrich Neumann. "Depth-aware CNN for RGB-D Segmentation." In ECCV, 2018. :star::star::star::star::star:
 * **Mask Scoring R-CNN**: Huang, Z., Huang, L., Gong, Y., Huang, C., & Wang, X. (2019). Mask Scoring R-CNN. arXiv preprint arXiv:1903.00241. :star::star::star::star:
 * **DFANet**: Li, H., Xiong, P., Fan, H., & Sun, J. (2019). DFANet: Deep Feature Aggregation for Real-Time Semantic Segmentation. arXiv preprint arXiv:1904.02216. :star::star:
+* **TensorMask**： Chen, X., Girshick, R., He, K., & Dollár, P. (2019). TensorMask: A Foundation for Dense Object Segmentation. arXiv preprint arXiv:1903.12174. :star::star::star::star:
 
 
 ## Weakly Supervised 
