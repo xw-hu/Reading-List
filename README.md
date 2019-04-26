@@ -140,6 +140,7 @@ Reading list on deep learning.
 * **SOC dataset**: Fan, Deng-Ping, et al. "Salient objects in clutter: Bringing salient object detection to the foreground." In ECCV. 2018. :star::star::star::star::star: [complex dataset + instance level]
 * **DNA**: Liu, Yun, et al. "DNA: Deeply-supervised Nonlinear Aggregation for Salient Object Detection." arXiv preprint arXiv:1903.12476 (2019). :star::star::star:
 * **SE2Net**： Zhou, S., Wang, J., Wang, F., & Huang, D. SE2Net: Siamese Edge-Enhancement Network for Salient Object Detection. :star::star::star::star::star:
+* **PFAN**: Zhao, T., & Wu, X. (2019). Pyramid Feature Selective Network for Saliency detection. arXiv preprint arXiv:1903.00179. :star::star:
 
 
 ## Attention
