@@ -142,6 +142,7 @@ Reading list on deep learning.
 * **DNA**: Liu, Yun, et al. "DNA: Deeply-supervised Nonlinear Aggregation for Salient Object Detection." arXiv preprint arXiv:1903.12476 (2019). :star::star::star:
 * **SE2Net**： Zhou, S., Wang, J., Wang, F., & Huang, D. SE2Net: Siamese Edge-Enhancement Network for Salient Object Detection. :star::star::star::star::star:
 * **PFAN**: Zhao, T., & Wu, X. (2019). Pyramid Feature Selective Network for Saliency detection. In CVPR 2019. :star::star:
+* **PoolNet**: Liu, Jiang-Jiang, et al. "A Simple Pooling-Based Design for Real-Time Salient Object Detection." In CVPR 2019. :star::star:
 
 
 ## Attention
