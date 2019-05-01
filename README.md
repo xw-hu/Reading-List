@@ -29,6 +29,7 @@ Reading list on deep learning.
 * **Rethinking ImageNet Pre-training**： He, Kaiming, Ross Girshick, and Piotr Dollár. "Rethinking ImageNet Pre-training." arXiv preprint arXiv:1811.08883 (2018). :star::star::star::star:
 * **CBAM**： Woo, Sanghyun, et al. "CBAM: Convolutional block attention module." Proceedings of the European Conference on Computer Vision (ECCV). 2018. :star::star::star::star:
 * **Network generator**: Saining Xie, Alexander Kirillov, Ross Girshick, Kaiming He. Exploring Randomly Wired Neural Networks for Image Recognition.  arXiv:1904.01569 (2019). :star::star::star::star::star:
+* **GCNet**: Cao, Yue, et al. "GCNet: Non-local Networks Meet Squeeze-Excitation Networks and Beyond." arXiv preprint arXiv:1904.11492 (2019). :star::star::star::star:
 
 
 ## Object Detection 
