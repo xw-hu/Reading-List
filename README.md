@@ -150,6 +150,9 @@ Reading list on deep learning.
 * **Zoom-in-Net**: Wang, Zhe, et al. "Zoom-in-Net: Deep Mining Lesions for Diabetic Retinopathy Detection." arXiv preprint arXiv:1706.04372 (2017). :star::star::star::star:
 * **Multi-context attention**: Chu, Xiao, et al. "Multi-context attention for human pose estimation." arXiv preprint arXiv:1702.07432 (2017). :star::star::star:
 
+## Depth Information and Stereo Vision
+* **HFM-Net**: Zeng, J., Tong, Y., Huang, Y., Yan, Q., Sun, W., Chen, J., & Wang, Y. (2019). Deep Surface Normal Estimation with Hierarchical RGB-D Fusion. arXiv preprint arXiv:1904.03405. :star::star::star:
+
 
 ## Shadow Detection/Removal
 * **DeshadowNet**: Qu, Liangqiong, et al. "DeshadowNet: A Multi-context Embedding Deep Network for Shadow Removal." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2017. :star::star::star:
