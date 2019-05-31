@@ -189,6 +189,7 @@ Reading list on deep learning.
 * **Rain O’er Me**: Huangxing Lin, Yanlong Li, Xinghao Ding, Weihong Zeng, Yue Huang, John Paisley: "Rain O’er Me: Synthesizing real rain to derain with data distillation." arXiv preprint arXiv:1904.04605 (2019). :star::star::star::star:
 * **RNAN**: Zhang, Y., Li, K., Li, K., Zhong, B., & Fu, Y. (2019). Residual Non-local Attention Networks for Image Restoration. arXiv preprint arXiv:1903.10082. :star::star::star::star::star:
 * **Perceptual GAN loss + TV loss**： Ledig, C., Theis, L., Huszár, F., Caballero, J., Cunningham, A., Acosta, A., ... & Shi, W. (2017). Photo-realistic single image super-resolution using a generative adversarial network. In CVPR (pp. 4681-4690).(code)  :star::star::star::star::star:
+* **PReNet**: Ren, Dongwei, et al. "Progressive Image Deraining Networks: A Better and Simpler Baseline." In CVPR, 2019. :star::star::star:
 
 
 
