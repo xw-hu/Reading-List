@@ -162,6 +162,7 @@ Reading list on deep learning.
 * **A+D Net**: Le, Hieu, et al. "A+ D net: Training a shadow detector with adversarial shadow attenuation." Proceedings of the European Conference on Computer Vision (ECCV). 2018. :star::star::star:
 * **Lazy annotation for immature SBU**： Vicente, Yago, et al. "Noisy label recovery for shadow detection in unfamiliar domains." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016. :star::star::star:
 * **StackedCNN + SBU**: Vicente, Tomás F. Yago, et al. "Large-scale training of shadow detectors with noisily-annotated shadow examples." European Conference on Computer Vision. Springer, Cham, 2016. :star::star::star::star: (SBU dataset)
+* **CPAdv-Net**: Mohajerani, Sorour, and Parvaneh Saeedi. "Shadow Detection in Single RGB Images Using a Context Preserver Convolutional Neural Network Trained by Multiple Adversarial Examples." IEEE Transactions on Image Processing (2019). :star::star:
 
 
 ## Image Restoration
