@@ -214,6 +214,9 @@ Reading list on deep learning.
 * **DCGAN**: Radford, Alec, Luke Metz, and Soumith Chintala. "Unsupervised representation learning with deep convolutional generative adversarial networks." arXiv preprint arXiv:1511.06434 (2015). :star::star::star::star: 
 * **GANtruth**： Bujwid, Sebastian, et al. "GANtruth-an unpaired image-to-image translation method for driving scenarios." arXiv preprint arXiv:1812.01710 (2018). :star::star::star:
 
+## Person Re-ID
+* **IANet**: Hou, Ruibing, et al. "Interaction-And-Aggregation Network for Person Re-Identification." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. :star::star::star::star::star:
+
 
 ## Traditional Method
 * **Rolling Guidance Filter**: Zhang, Q., Shen, X., Xu, L., & Jia, J. Rolling guidance filter. In ECCV, 2014. :star::star::star::star::star:
