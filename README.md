@@ -152,6 +152,7 @@ Reading list on deep learning.
 
 ## Depth Information and Stereo Vision
 * **HFM-Net**: Zeng, J., Tong, Y., Huang, Y., Yan, Q., Sun, W., Chen, J., & Wang, Y. (2019). Deep Surface Normal Estimation with Hierarchical RGB-D Fusion. arXiv preprint arXiv:1904.03405. :star::star::star:
+* **MADNet**: Tonioni, Alessio, et al. "Real-time self-adaptive deep stereo." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. :star::star::star::star:  (offline domain adaption)
 
 
 ## Shadow Detection/Removal
