@@ -193,6 +193,7 @@ Reading list on deep learning.
 * **Perceptual GAN loss + TV loss**： Ledig, C., Theis, L., Huszár, F., Caballero, J., Cunningham, A., Acosta, A., ... & Shi, W. (2017). Photo-realistic single image super-resolution using a generative adversarial network. In CVPR (pp. 4681-4690).(code)  :star::star::star::star::star:
 * **PReNet**: Ren, Dongwei, et al. "Progressive Image Deraining Networks: A Better and Simpler Baseline." In CVPR, 2019. :star::star::star:
 * **Zoom to Learn, Learn to Zoom**: Zhang, Xuaner, et al. "Zoom to Learn, Learn to Zoom." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. :star::star::star::star:
+* **Derain Beachmark**: Li, Siyuan, et al. "Single image deraining: A comprehensive benchmark analysis." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. :star::star::star:
 
 
 ## Image Synthesis
