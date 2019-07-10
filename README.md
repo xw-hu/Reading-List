@@ -194,6 +194,7 @@ Reading list on deep learning.
 * **PReNet**: Ren, Dongwei, et al. "Progressive Image Deraining Networks: A Better and Simpler Baseline." In CVPR, 2019. :star::star::star:
 * **Zoom to Learn, Learn to Zoom**: Zhang, Xuaner, et al. "Zoom to Learn, Learn to Zoom." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. :star::star::star::star:
 * **Derain Beachmark**: Li, Siyuan, et al. "Single image deraining: A comprehensive benchmark analysis." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. :star::star::star:
+* **Dual residual block**: Liu, Xing, et al. "Dual Residual Networks Leveraging the Potential of Paired Operations for Image Restoration." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. :star::star::star:
 
 
 ## Image Synthesis
