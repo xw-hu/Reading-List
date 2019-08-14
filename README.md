@@ -226,6 +226,10 @@ Reading list on deep learning.
 ## Person Re-ID
 * **IANet**: Hou, Ruibing, et al. "Interaction-And-Aggregation Network for Person Re-Identification." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. :star::star::star::star::star:
 
+## Distillation
+* **Knowledge Distillation**: Hinton, G., Vinyals, O., & Dean, J. (2015). Distilling the knowledge in a neural network. arXiv preprint arXiv:1503.02531. :star::star::star::star::star:
+* **Deep Mutual Learning**: Zhang, Ying, et al. "Deep mutual learning." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018. :star::star::star::star::star:
+
 
 ## Traditional Method
 * **Rolling Guidance Filter**: Zhang, Q., Shen, X., Xu, L., & Jia, J. Rolling guidance filter. In ECCV, 2014. :star::star::star::star::star:
