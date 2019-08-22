@@ -167,6 +167,8 @@ Reading list on deep learning.
 * **StackedCNN + SBU**: Vicente, Tomás F. Yago, et al. "Large-scale training of shadow detectors with noisily-annotated shadow examples." European Conference on Computer Vision. Springer, Cham, 2016. :star::star::star::star: (SBU dataset)
 * **CPAdv-Net**: Mohajerani, Sorour, and Parvaneh Saeedi. "Shadow Detection in Single RGB Images Using a Context Preserver Convolutional Neural Network Trained by Multiple Adversarial Examples." IEEE Transactions on Image Processing (2019). :star::star:
 * **Color Constancy**: Sidorov, Oleksii. "Conditional GANs for Multi-Illuminant Color Constancy: Revolution or Yet Another Approach?." CVPR workshop, 2019. :star::star:
+* **DSDNet**: Zheng, Quanlong, et al. "Distraction-aware Shadow Detection." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. :star::star::star::star:
+* **ARGAN**: Ding, Bin, et al. "ARGAN: Attentive Recurrent Generative Adversarial Network for Shadow Detection and Removal." In ICCV, (2019). :star::star::star:
 
 
 ## Image Restoration
