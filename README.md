@@ -166,6 +166,7 @@ Reading list on deep learning.
 * **Lazy annotation for immature SBU**： Vicente, Yago, et al. "Noisy label recovery for shadow detection in unfamiliar domains." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016. :star::star::star:
 * **StackedCNN + SBU**: Vicente, Tomás F. Yago, et al. "Large-scale training of shadow detectors with noisily-annotated shadow examples." European Conference on Computer Vision. Springer, Cham, 2016. :star::star::star::star: (SBU dataset)
 * **CPAdv-Net**: Mohajerani, Sorour, and Parvaneh Saeedi. "Shadow Detection in Single RGB Images Using a Context Preserver Convolutional Neural Network Trained by Multiple Adversarial Examples." IEEE Transactions on Image Processing (2019). :star::star:
+* **Color Constancy**: Sidorov, Oleksii. "Conditional GANs for Multi-Illuminant Color Constancy: Revolution or Yet Another Approach?." CVPR workshop, 2019. :star::star:
 
 
 ## Image Restoration
@@ -229,6 +230,7 @@ Reading list on deep learning.
 ## Distillation
 * **Knowledge Distillation**: Hinton, G., Vinyals, O., & Dean, J. (2015). Distilling the knowledge in a neural network. arXiv preprint arXiv:1503.02531. :star::star::star::star::star:
 * **Deep Mutual Learning**: Zhang, Ying, et al. "Deep mutual learning." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018. :star::star::star::star::star:
+* **Cooperative learning**: Batra, Tanmay, and Devi Parikh. "Cooperative learning with visual attributes." arXiv preprint arXiv:1705.05512 (2017). :star::star::star:
 
 
 ## Traditional Method
