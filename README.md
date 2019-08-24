@@ -233,6 +233,7 @@ Reading list on deep learning.
 * **Knowledge Distillation**: Hinton, G., Vinyals, O., & Dean, J. (2015). Distilling the knowledge in a neural network. arXiv preprint arXiv:1503.02531. :star::star::star::star::star:
 * **Deep Mutual Learning**: Zhang, Ying, et al. "Deep mutual learning." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018. :star::star::star::star::star:
 * **Cooperative learning**: Batra, Tanmay, and Devi Parikh. "Cooperative learning with visual attributes." arXiv preprint arXiv:1705.05512 (2017). :star::star::star:
+* **Deeply-supervised Knowledge Synergy**: Sun, D., Yao, A., Zhou, A., & Zhao, H. (2019). Deeply-supervised Knowledge Synergy. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (pp. 6997-7006).  :star::star::star::star::star:
 
 
 ## Traditional Method
