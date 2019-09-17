@@ -228,6 +228,7 @@ Reading list on deep learning.
 
 ## Person Re-ID
 * **IANet**: Hou, Ruibing, et al. "Interaction-And-Aggregation Network for Person Re-Identification." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. :star::star::star::star::star:
+* **AlignedReID**: Zhang, Xuan, et al. "AlignedReID: Surpassing human-level performance in person re-identification." arXiv preprint arXiv:1711.08184 (2017). :star::star::star::star::star:
 
 ## Distillation
 * **Knowledge Distillation**: Hinton, G., Vinyals, O., & Dean, J. (2015). Distilling the knowledge in a neural network. arXiv preprint arXiv:1503.02531. :star::star::star::star::star:
