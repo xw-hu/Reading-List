@@ -236,6 +236,8 @@ Reading list on deep learning.
 * **Cooperative learning**: Batra, Tanmay, and Devi Parikh. "Cooperative learning with visual attributes." arXiv preprint arXiv:1705.05512 (2017). :star::star::star:
 * **Deeply-supervised Knowledge Synergy**: Sun, D., Yao, A., Zhou, A., & Zhao, H. (2019). Deeply-supervised Knowledge Synergy. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (pp. 6997-7006).  :star::star::star::star::star:
 * **ONE**: Lan, Xu, Xiatian Zhu, and Shaogang Gong. "Knowledge distillation by On-the-fly Native Ensemble." Proceedings of the 32nd International Conference on Neural Information Processing Systems. Curran Associates Inc., 2018. :star::star::star::star::star:
+* **Segmentation Distillation**: Liu, Yifan, et al. "Structured Knowledge Distillation for Semantic Segmentation." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. :star::star::star::star:
+
 
 ## Traditional Method
 * **Rolling Guidance Filter**: Zhang, Q., Shen, X., Xu, L., & Jia, J. Rolling guidance filter. In ECCV, 2014. :star::star::star::star::star:
