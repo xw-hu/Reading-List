@@ -201,6 +201,8 @@ Reading list on deep learning.
 * **Derain Beachmark**: Li, Siyuan, et al. "Single image deraining: A comprehensive benchmark analysis." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. :star::star::star:
 * **Dual residual block**: Liu, Xing, et al. "Dual Residual Networks Leveraging the Potential of Paired Operations for Image Restoration." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. :star::star::star:
 * **Semi-supervised Transfer Learning for Image Rain Removal**: Wei, Wei, et al. "Semi-Supervised Transfer Learning for Image Rain Removal." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. :star::star::star::star:
+* **UMRL**： Yasarla, Rajeev, and Vishal M. Patel. "Uncertainty Guided Multi-Scale Residual Learning-using a Cycle Spinning CNN for Single Image De-Raining." CVPR 2019. :star::star::star::star:
+
 
 
 ## Image Synthesis
