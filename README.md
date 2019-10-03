@@ -239,6 +239,10 @@ Reading list on deep learning.
 * **Segmentation Distillation**: Liu, Yifan, et al. "Structured Knowledge Distillation for Semantic Segmentation." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. :star::star::star::star:
 
 
+## Uncertainty
+* **aleatoric uncertainty  and epistemic uncertainty**: Kendall, Alex, and Yarin Gal. "What uncertainties do we need in bayesian deep learning for computer vision?." Advances in neural information processing systems. 2017. :star::star::star::star::star:
+
+
 ## Traditional Method
 * **Rolling Guidance Filter**: Zhang, Q., Shen, X., Xu, L., & Jia, J. Rolling guidance filter. In ECCV, 2014. :star::star::star::star::star:
 
