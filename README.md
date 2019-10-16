@@ -243,6 +243,8 @@ Reading list on deep learning.
 
 ## Uncertainty
 * **aleatoric uncertainty  and epistemic uncertainty**: Kendall, Alex, and Yarin Gal. "What uncertainties do we need in bayesian deep learning for computer vision?." Advances in neural information processing systems. 2017. :star::star::star::star::star:
+* **Learning Model Confidence**： Charles Corbière, Nicolas Thome, Avner Bar-Hen, Matthieu Cord, Patrick Pérez. "Addressing Failure Prediction by Learning Model Confidence" NeurIPS, 2019. :star::star::star::star:
+
 
 
 ## Traditional Method
