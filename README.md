@@ -101,6 +101,7 @@ Reading list on deep learning.
 * **TensorMask**： Chen, X., Girshick, R., He, K., & Dollár, P. (2019). TensorMask: A Foundation for Dense Object Segmentation. arXiv preprint arXiv:1903.12174. :star::star::star::star:
 * **DADA**: Vu, Tuan-Hung, et al. "DADA: Depth-aware Domain Adaptation in Semantic Segmentation." arXiv preprint arXiv:1904.01886 (2019). :star::star::star::star:
 * **CFNet**： Zhang, Hang, et al. "Co-Occurrent Features in Semantic Segmentation." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. :star::star::star:
+* **SSAP**: Gao, Naiyu, et al. "SSAP: Single-shot instance segmentation with affinity pyramid." Proceedings of the IEEE International Conference on Computer Vision. 2019. :star::star::star:
 
 
 ## Weakly Supervised 
