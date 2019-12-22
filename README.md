@@ -102,6 +102,7 @@ Reading list on deep learning.
 * **DADA**: Vu, Tuan-Hung, et al. "DADA: Depth-aware Domain Adaptation in Semantic Segmentation." arXiv preprint arXiv:1904.01886 (2019). :star::star::star::star:
 * **CFNet**： Zhang, Hang, et al. "Co-Occurrent Features in Semantic Segmentation." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. :star::star::star:
 * **SSAP**: Gao, Naiyu, et al. "SSAP: Single-shot instance segmentation with affinity pyramid." Proceedings of the IEEE International Conference on Computer Vision. 2019. :star::star::star:
+* **FCOS**: Tian, Zhi, et al. "FCOS: Fully Convolutional One-Stage Object Detection." arXiv preprint arXiv:1904.01355 (2019). :star::star::star::star::star:
 
 
 ## Weakly Supervised 
