@@ -219,6 +219,11 @@ Reading list on deep learning.
 * **More Experiments on Neural Style**: Novak, Roman, and Yaroslav Nikulin. "Improving the neural algorithm of artistic style." arXiv preprint arXiv:1605.04603 (2016). :star::star:
 * **Deep Photo Style Transfer**: Luan, Fujun, et al. "Deep photo style transfer." In CVPR. 2017. :star::star::star::star::star:
 
+
+## Computational Photography
+* **Multi-Illumination Dataset**: Murmann, Lukas, et al. "A Dataset of Multi-Illumination Images in the Wild." Proceedings of the IEEE International Conference on Computer Vision. 2019. :star::star::star::star::star:
+
+
 ## GAN
 * **GAN**: Goodfellow, Ian, et al. "Generative adversarial nets." In NIPS. 2014. :star::star::star::star::star:
 * **cGAN**: Mirza, Mehdi, and Simon Osindero. "Conditional generative adversarial nets." arXiv preprint arXiv:1411.1784 (2014). :star::star::star::star::star:
