@@ -222,6 +222,7 @@ Reading list on deep learning.
 
 ## Computational Photography
 * **Multi-Illumination Dataset**: Murmann, Lukas, et al. "A Dataset of Multi-Illumination Images in the Wild." Proceedings of the IEEE International Conference on Computer Vision. 2019. :star::star::star::star::star:
+* **WESPE**: Ignatov, Andrey, et al. "WESPE: weakly supervised photo enhancer for digital cameras." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops. 2018. :star::star::star:
 
 
 ## GAN
