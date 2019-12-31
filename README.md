@@ -234,6 +234,7 @@ Reading list on deep learning.
 * **E-GAN**: Wang, C., Xu, C., Yao, X., & Tao, D. (2018). Evolutionary Generative Adversarial Networks. arXiv preprint arXiv:1803.00657. :star::star::star::star: 
 * **DCGAN**: Radford, Alec, Luke Metz, and Soumith Chintala. "Unsupervised representation learning with deep convolutional generative adversarial networks." arXiv preprint arXiv:1511.06434 (2015). :star::star::star::star: 
 * **GANtruth**： Bujwid, Sebastian, et al. "GANtruth-an unpaired image-to-image translation method for driving scenarios." arXiv preprint arXiv:1812.01710 (2018). :star::star::star:
+* **AttentionGAN**: Tang, H., Liu, H., Xu, D., Torr, P. H.S., & Sebe, N. (2019). AttentionGAN: Unpaired Image-to-Image Translation using Attention-Guided Generative Adversarial Networks. arXiv preprint arXiv:1911.11897. :star::star::star::star: 
 
 ## AR/VR
 * **Indoor Lighting Estimation**: Garon, Mathieu, et al. "Fast Spatially-Varying Indoor Lighting Estimation." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. :star::star::star:
