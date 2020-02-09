@@ -211,6 +211,7 @@ Reading list on deep learning.
 
 
 
+
 ## Image Synthesis
 * **Let there be Color!**: Iizuka, Satoshi, Edgar Simo-Serra, and Hiroshi Ishikawa. "Let there be color!: joint end-to-end learning of global and local image priors for automatic image colorization with simultaneous classification." ACM Transactions on Graphics (TOG) 35.4 (2016): 110. :star::star::star::star::star:
 * **Colorful Image Colorization**: Zhang, Richard, Phillip Isola, and Alexei A. Efros. "Colorful image colorization." European Conference on Computer Vision. Springer, Cham, 2016. :star::star::star::star:
@@ -238,6 +239,9 @@ Reading list on deep learning.
 * **GANtruth**： Bujwid, Sebastian, et al. "GANtruth-an unpaired image-to-image translation method for driving scenarios." arXiv preprint arXiv:1812.01710 (2018). :star::star::star:
 * **AttentionGAN**: Tang, H., Liu, H., Xu, D., Torr, P. H.S., & Sebe, N. (2019). AttentionGAN: Unpaired Image-to-Image Translation using Attention-Guided Generative Adversarial Networks. arXiv preprint arXiv:1911.11897. :star::star::star::star: 
 * **Multiclass Sketch-to-Image Translation**： Ghosh, A., Zhang, R., Dokania, P. K., Wang, O., Efros, A. A., Torr, P. H.S., & Shechtman, E. (2019). Interactive Sketch & Fill: Multiclass Sketch-to-Image Translation. In Proceedings of the IEEE International Conference on Computer Vision (pp. 1171-1180). :star::star::star: 
+
+## Disentangled
+* **Deblur+Disentangled**: Lu, Boyu, Jun-Cheng Chen, and Rama Chellappa. "Unsupervised domain-specific deblurring via disentangled representations." In CVPR. 2019. :star::star::star::star::star: 
 
 ## AR/VR
 * **Indoor Lighting Estimation**: Garon, Mathieu, et al. "Fast Spatially-Varying Indoor Lighting Estimation." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. :star::star::star:
