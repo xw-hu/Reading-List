@@ -244,6 +244,7 @@ Reading list on deep learning.
 
 ## Disentangled
 * **Deblur+Disentangled**: Lu, Boyu, Jun-Cheng Chen, and Rama Chellappa. "Unsupervised domain-specific deblurring via disentangled representations." In CVPR. 2019. :star::star::star::star::star: 
+* **One-Shot Unsupervised Image Translation**: Cohen, Tomer, and Lior Wolf. "Bidirectional One-Shot Unsupervised Domain Mapping." Proceedings of the IEEE International Conference on Computer Vision. 2019. :star::star::star::star:
 
 
 ## AR/VR
