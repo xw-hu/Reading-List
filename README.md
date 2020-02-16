@@ -208,6 +208,7 @@ Reading list on deep learning.
 * **Semi-supervised Transfer Learning for Image Rain Removal**: Wei, Wei, et al. "Semi-Supervised Transfer Learning for Image Rain Removal." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. :star::star::star::star:
 * **UMRL**： Yasarla, Rajeev, and Vishal M. Patel. "Uncertainty Guided Multi-Scale Residual Learning-using a Cycle Spinning CNN for Single Image De-Raining." CVPR 2019. :star::star::star::star:
 * **NASNet**: Qin, Xu, and Zhilin Wang. "NASNet: A Neuron Attention Stage-by-Stage Net for Single Image Deraining." arXiv preprint arXiv:1912.03151 (2019). :star::star::star::star:
+* **DerainCycleGAN**: Wei, Yanyan, et al. "DerainCycleGAN: An Attention-guided Unsupervised Benchmark for Single Image Deraining and Rainmaking." arXiv preprint arXiv:1912.07015 (2019).  :star::star::star::star:
 
 
 
