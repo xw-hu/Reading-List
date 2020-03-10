@@ -243,6 +243,7 @@ Reading list on deep learning.
 * **Multiclass Sketch-to-Image Translation**： Ghosh, A., Zhang, R., Dokania, P. K., Wang, O., Efros, A. A., Torr, P. H.S., & Shechtman, E. (2019). Interactive Sketch & Fill: Multiclass Sketch-to-Image Translation. In Proceedings of the IEEE International Conference on Computer Vision (pp. 1171-1180). :star::star::star:
 * **RealnessGAN**: Yuanbo Xiangli, etal. Real or not real, that is a question. In ICLR 2020. :star::star::star::star: 
 * **Domain-bridged GAN**: Pizzati, Fabio, et al. "Domain bridge for unpaired image-to-image translation and unsupervised domain adaptation." The IEEE Winter Conference on Applications of Computer Vision. 2020. :star::star::star::star: 
+* **SinGAN**: Shaham, T. R., Dekel, T., & Michaeli, T. (2019). SinGAN: Learning a generative model from a single natural image. In Proceedings of the IEEE International Conference on Computer Vision (pp. 4570-4580). :star::star::star::star::star: 
 
 
 ## Disentangled
