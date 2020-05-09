@@ -209,6 +209,7 @@ Reading list on deep learning.
 * **UMRL**： Yasarla, Rajeev, and Vishal M. Patel. "Uncertainty Guided Multi-Scale Residual Learning-using a Cycle Spinning CNN for Single Image De-Raining." CVPR 2019. :star::star::star::star:
 * **NASNet**: Qin, Xu, and Zhilin Wang. "NASNet: A Neuron Attention Stage-by-Stage Net for Single Image Deraining." arXiv preprint arXiv:1912.03151 (2019). :star::star::star::star:
 * **DerainCycleGAN**: Wei, Yanyan, et al. "DerainCycleGAN: An Attention-guided Unsupervised Benchmark for Single Image Deraining and Rainmaking." arXiv preprint arXiv:1912.07015 (2019).  :star::star::star::star:
+* **Physics-Based Rain Rendering**: HALDER, Shirsendu Sukanta; LALONDE, Jean-François; CHARETTE, Raoul de. Physics-Based Rendering for Improving Robustness to Rain. In: ICCV, 2019. pp. 10203-10212. :star::star::star::star::star:
 
 
 
