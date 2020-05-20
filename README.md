@@ -211,7 +211,7 @@ Reading list on deep learning.
 * **DerainCycleGAN**: Wei, Yanyan, et al. "DerainCycleGAN: An Attention-guided Unsupervised Benchmark for Single Image Deraining and Rainmaking." arXiv preprint arXiv:1912.07015 (2019).  :star::star::star::star:
 * **Physics-Based Rain Rendering**: HALDER, Shirsendu Sukanta; LALONDE, Jean-François; CHARETTE, Raoul de. Physics-Based Rendering for Improving Robustness to Rain. In: ICCV, 2019. pp. 10203-10212. :star::star::star::star::star:
 * **Partial Convolution** (mask-guided): Liu, Guilin, et al. "Image inpainting for irregular holes using partial convolutions." Proceedings of the European Conference on Computer Vision (ECCV). 2018. :star::star::star::star::star:
-
+* **Derain Survey**: Wang, H., Li, M., Wu, Y., Zhao, Q., & Meng, D. (2019). A Survey on Rain Removal from Video and Single Image. arXiv preprint arXiv:1909.08326. :star::star::star::star:
 
 
 
