@@ -175,6 +175,7 @@ Reading list on deep learning.
 * **DSDNet**: Zheng, Quanlong, et al. "Distraction-aware Shadow Detection." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. :star::star::star::star:
 * **ARGAN**: Ding, Bin, et al. "ARGAN: Attentive Recurrent Generative Adversarial Network for Shadow Detection and Removal." In ICCV, (2019). :star::star::star:
 * **SP+M-Net**: Le, H., & Samaras, D. (2019). Shadow removal via shadow image decomposition. In Proceedings of the IEEE International Conference on Computer Vision (pp. 8578-8587). :star::star::star::star:
+* **Portrait Shadow Manipulation**: Zhang, Xuaner Cecilia, et al. "Portrait Shadow Manipulation." In SIGGRAPH (2020). :star::star::star::star::star:
 
 
 ## Image Restoration
