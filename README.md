@@ -126,6 +126,9 @@ Reading list on deep learning.
 [code](http://www.cs.cmu.edu/~xiaolonw/publication.html)
 * **Omni-Supervised Learning**: Radosavovic, I., Dollár, P., Girshick, R., Gkioxari, G., & He, K. Data Distillation: Towards Omni-Supervised Learning. In CVPR, 2018. :star::star::star::star::star:
 
+## Domain Adaptation
+* **Learning from Synthetic Animals**: Mu, J., Qiu, W., Hager, G. D., & Yuille, A. L. (2020). Learning from Synthetic Animals. In CVPR 2020. :star::star::star::star:
+
 ## Saliency
 * **DHSNet**: Liu, Nian, and Junwei Han. "Dhsnet: Deep hierarchical saliency network for salient object detection." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016. :star::star::star::star:
 * **RFCN**: Wang, Linzhao, et al. "Saliency detection with recurrent fully convolutional networks." European Conference on Computer Vision. Springer International Publishing, 2016. :star::star::star::star:
