@@ -219,6 +219,7 @@ Reading list on deep learning.
 * **Derain Survey**: Wang, H., Li, M., Wu, Y., Zhao, Q., & Meng, D. (2019). A Survey on Rain Removal from Video and Single Image. arXiv preprint arXiv:1909.08326. :star::star::star::star:
 * **Deep Adversarial Decomposition**: Zou, Zhengxia, et al. "Deep Adversarial Decomposition: A Unified Framework for Separating Superimposed Images." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020. :star::star::star::star:
 * **CARN**: Ahn, Namhyuk, Byungkon Kang, and Kyung-Ah Sohn. "Fast, accurate, and lightweight super-resolution with cascading residual network." Proceedings of the European Conference on Computer Vision (ECCV). 2018. :star::star::star:
+* **Semi-supervised derain with Gaussian processes**: Yasarla, Rajeev, Vishwanath A. Sindagi, and Vishal M. Patel. "Syn2Real Transfer Learning for Image Deraining Using Gaussian Processes." In CVPR. 2020. :star::star::star::star:
 
 
 
