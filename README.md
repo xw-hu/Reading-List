@@ -179,6 +179,7 @@ Reading list on deep learning.
 * **ARGAN**: Ding, Bin, et al. "ARGAN: Attentive Recurrent Generative Adversarial Network for Shadow Detection and Removal." In ICCV, (2019). :star::star::star:
 * **SP+M-Net**: Le, H., & Samaras, D. (2019). Shadow removal via shadow image decomposition. In Proceedings of the IEEE International Conference on Computer Vision (pp. 8578-8587). :star::star::star::star:
 * **Portrait Shadow Manipulation**: Zhang, Xuaner Cecilia, et al. "Portrait Shadow Manipulation." In SIGGRAPH (2020). :star::star::star::star::star:
+* **Weakly-supervised shadow decomposition**: Le, Hieu, and Dimitris Samaras. "From Shadow Segmentation to Shadow Removal." arXiv preprint arXiv:2008.00267 (2020). :star::star::star::star::star: (Video Shadow Removal Dataset)
 
 
 ## Image Restoration
