@@ -129,6 +129,13 @@ Reading list on deep learning.
 ## Domain Adaptation
 * **Learning from Synthetic Animals**: Mu, J., Qiu, W., Hager, G. D., & Yuille, A. L. (2020). Learning from Synthetic Animals. In CVPR 2020. :star::star::star::star:
 
+## Domain Generalization
+* **Extrinsic and Intrinsic**: Wang, Shujun, et al. "Learning from Extrinsic and Intrinsic Supervisions for Domain Generalization." In ECCV (2020). :star::star::star::star:
+* **DoFE**: Wang, Shujun, et al. "DoFE: Domain-oriented Feature Embedding for Generalizable Fundus Image Segmentation on Unseen Datasets." IEEE Transactions on Medical Imaging (2020). :star::star::star::star:
+* **Self-Challenging**: Huang, Zeyi, et al. "Self-Challenging Improves Cross-Domain Generalization." arXiv preprint arXiv:2007.02454 (2020). :star::star::star::star:
+* **Generate Novel Domains**: Zhou, Kaiyang, et al. "Learning to Generate Novel Domains for Domain Generalization." arXiv preprint arXiv:2007.03304 (2020). :star::star::star:
+
+
 ## Saliency
 * **DHSNet**: Liu, Nian, and Junwei Han. "Dhsnet: Deep hierarchical saliency network for salient object detection." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016. :star::star::star::star:
 * **RFCN**: Wang, Linzhao, et al. "Saliency detection with recurrent fully convolutional networks." European Conference on Computer Vision. Springer International Publishing, 2016. :star::star::star::star:
