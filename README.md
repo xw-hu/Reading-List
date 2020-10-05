@@ -127,7 +127,7 @@ Reading list on deep learning.
 * **Omni-Supervised Learning**: Radosavovic, I., Dollár, P., Girshick, R., Gkioxari, G., & He, K. Data Distillation: Towards Omni-Supervised Learning. In CVPR, 2018. :star::star::star::star::star:
 
 ## Semi-supervised
-Si, C., Nie, X., Wang, W., Wang, L., Tan, T., & Feng, J. (2020). Adversarial Self-Supervised Learning for Semi-Supervised 3D Action Recognition. arXiv preprint arXiv:2007.05934. :star::star::star:
+Si, C., Nie, X., Wang, W., Wang, L., Tan, T., & Feng, J. (2020). Adversarial Self-Supervised Learning for Semi-Supervised 3D Action Recognition. In ECCV 2020. :star::star::star:
 
 ## Domain Adaptation
 * **Learning from Synthetic Animals**: Mu, J., Qiu, W., Hager, G. D., & Yuille, A. L. (2020). Learning from Synthetic Animals. In CVPR 2020. :star::star::star::star:
