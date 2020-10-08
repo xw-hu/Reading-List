@@ -131,6 +131,7 @@ Si, C., Nie, X., Wang, W., Wang, L., Tan, T., & Feng, J. (2020). Adversarial Sel
 
 ## Domain Adaptation
 * **Learning from Synthetic Animals**: Mu, J., Qiu, W., Hager, G. D., & Yuille, A. L. (2020). Learning from Synthetic Animals. In CVPR 2020. :star::star::star::star:
+* **CD3A**: Kurmi, Vinod Kumar, et al. "Curriculum based dropout discriminator for domain adaptation." arXiv preprint arXiv:1907.10628 (2019). :star::star::star:
 
 ## Domain Generalization
 * **Extrinsic and Intrinsic**: Wang, Shujun, et al. "Learning from Extrinsic and Intrinsic Supervisions for Domain Generalization." In ECCV (2020). :star::star::star::star:
