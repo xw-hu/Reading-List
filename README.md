@@ -138,6 +138,7 @@ Si, C., Nie, X., Wang, W., Wang, L., Tan, T., & Feng, J. (2020). Adversarial Sel
 * **DoFE**: Wang, Shujun, et al. "DoFE: Domain-oriented Feature Embedding for Generalizable Fundus Image Segmentation on Unseen Datasets." IEEE Transactions on Medical Imaging (2020). :star::star::star::star:
 * **Self-Challenging**: Huang, Zeyi, et al. "Self-Challenging Improves Cross-Domain Generalization." arXiv preprint arXiv:2007.02454 (2020). :star::star::star::star:
 * **Generate Novel Domains**: Zhou, Kaiyang, et al. "Learning to Generate Novel Domains for Domain Generalization." arXiv preprint arXiv:2007.03304 (2020). :star::star::star:
+* **Jigsaw puzzles**: Carlucci, Fabio M., et al. "Domain generalization by solving jigsaw puzzles." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. :star::star::star::star:
 
 
 ## Saliency
