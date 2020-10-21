@@ -31,6 +31,7 @@ Reading list on deep learning.
 * **Network generator**: Saining Xie, Alexander Kirillov, Ross Girshick, Kaiming He. Exploring Randomly Wired Neural Networks for Image Recognition.  arXiv:1904.01569 (2019). :star::star::star::star::star:
 * **GCNet**: Cao, Yue, et al. "GCNet: Non-local Networks Meet Squeeze-Excitation Networks and Beyond." arXiv preprint arXiv:1904.11492 (2019). :star::star::star::star:
 * **SqueezeNet**: Forrest N. Iandola, etal. SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size. In ICLR, 2017. :star::star::star::star:
+* **Dynamic Filter**: Jia, Xu, et al. "Dynamic filter networks." Advances in neural information processing systems. 2016. :star::star::star::star:
 
 
 ## Object Detection 
