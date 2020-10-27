@@ -97,7 +97,7 @@ Reading list on deep learning.
 * **OCNet**: Yuan, Yuhui, and Jingdong Wang. "OCNet: Object Context Network for Scene Parsing." arXiv preprint arXiv:1809.00916 (2018). :star::star::star:
 * **ReSeg**: Visin, Francesco, et al. "Reseg: A recurrent neural network-based model for semantic segmentation." In CVPR Workshops. 2016. :star::star:
 * **CCNet**: Huang, Zilong, et al. "CCNet: Criss-Cross Attention for Semantic Segmentation." arXiv preprint arXiv:1811.11721 (2018). :star::star::star:
-* **Panoptic FPN**: Kirillov, A., Girshick, R., He, K., & Dollár, P. (2019). Panoptic Feature Pyramid Networks. arXiv preprint arXiv:1901.02446. :star::star::star::star::star:     
+* **Panoptic FPN**: Kirillov, A., Girshick, R., He, K., & Dollár, P. (2019). Panoptic Feature Pyramid Networks. arXiv preprint arXiv:1901.02446. :star::star::star::star::star:   
 * **Depth-aware CNN**: Wang, Weiyue, and Ulrich Neumann. "Depth-aware CNN for RGB-D Segmentation." In ECCV, 2018. :star::star::star::star::star:
 * **Mask Scoring R-CNN**: Huang, Z., Huang, L., Gong, Y., Huang, C., & Wang, X. (2019). Mask Scoring R-CNN. arXiv preprint arXiv:1903.00241. :star::star::star::star:
 * **DFANet**: Li, H., Xiong, P., Fan, H., & Sun, J. (2019). DFANet: Deep Feature Aggregation for Real-Time Semantic Segmentation. arXiv preprint arXiv:1904.02216. :star::star:
@@ -108,6 +108,7 @@ Reading list on deep learning.
 * **FCOS**: Tian, Zhi, et al. "FCOS: Fully Convolutional One-Stage Object Detection." arXiv preprint arXiv:1904.01355 (2019). :star::star::star::star::star:
 * **EmbedMask**: Ying, H., Huang, Z., Liu, S., Shao, T., & Zhou, K. (2019). EmbedMask: Embedding Coupling for One-stage Instance Segmentation. arXiv preprint arXiv:1912.01954. :star::star::star::star::star:
 * **PointRend** Kirillov, A., Wu, Y., He, K., & Girshick, R. (2019). PointRend: Image Segmentation as Rendering. arXiv preprint arXiv:1912.08193. :star::star::star::star:
+* **CondInst** Tian, Z., Shen, C., & Chen, H. (2020). Conditional Convolutions for Instance Segmentation. In ECCV 2020. :star::star::star::star::star:
 
 
 ## Weakly Supervised 
