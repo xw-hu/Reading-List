@@ -299,6 +299,9 @@ Si, C., Nie, X., Wang, W., Wang, L., Tan, T., & Feng, J. (2020). Adversarial Sel
 * **aleatoric uncertainty  and epistemic uncertainty**: Kendall, Alex, and Yarin Gal. "What uncertainties do we need in bayesian deep learning for computer vision?." Advances in neural information processing systems. 2017. :star::star::star::star::star:
 * **Learning Model Confidence**： Charles Corbière, Nicolas Thome, Avner Bar-Hen, Matthieu Cord, Patrick Pérez. "Addressing Failure Prediction by Learning Model Confidence" NeurIPS, 2019. :star::star::star::star:
 
+## Transformer
+* **Pre-trained image processing transformer**: Chen, Hanting, et al. "Pre-trained image processing transformer." arXiv preprint arXiv:2012.00364 (2020). :star::star::star::star:
+
 
 
 ## Traditional Method
