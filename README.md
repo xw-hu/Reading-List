@@ -239,6 +239,7 @@ Si, C., Nie, X., Wang, W., Wang, L., Tan, T., & Feng, J. (2020). Adversarial Sel
 * **EPDN**: Qu, Yanyun, et al. "Enhanced pix2pix dehazing network." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019.  :star::star::star::star:
 * **PEPSI**: Shin, Yong-Goo, et al. "PEPSI++: Fast and lightweight network for image inpainting." IEEE Transactions on Neural Networks and Learning Systems (2020). :star::star::star:
 * **holistic attention network**: Niu, Ben, et al. "Single image super-resolution via a holistic attention network." European Conference on Computer Vision. Springer, Cham, 2020. :star::star::star:
+* **SNet, VNet, and ANet **： Wang, Yinglong, et al. "Rethinking image deraining via rain streaks and vapors." European Conference on Computer Vision. Springer, Cham, 2020.  :star::star::star:
 
 
 
