@@ -195,6 +195,7 @@ Si, C., Nie, X., Wang, W., Wang, L., Tan, T., & Feng, J. (2020). Adversarial Sel
 * **SP+M-Net**: Le, H., & Samaras, D. (2019). Shadow removal via shadow image decomposition. In Proceedings of the IEEE International Conference on Computer Vision (pp. 8578-8587). :star::star::star::star:
 * **Portrait Shadow Manipulation**: Zhang, Xuaner Cecilia, et al. "Portrait Shadow Manipulation." In SIGGRAPH (2020). :star::star::star::star::star:
 * **Weakly-supervised shadow decomposition**: Le, Hieu, and Dimitris Samaras. "From Shadow Segmentation to Shadow Removal." arXiv preprint arXiv:2008.00267 (2020). :star::star::star::star::star: (Video Shadow Removal Dataset)
+* **AEF**: Fu, Lan, et al. "Auto-Exposure Fusion for Single-Image Shadow Removal." CVPR 2021. :star::star::star:
 
 
 ## Image Restoration
