@@ -197,6 +197,7 @@ Si, C., Nie, X., Wang, W., Wang, L., Tan, T., & Feng, J. (2020). Adversarial Sel
 * **Weakly-supervised shadow decomposition**: Le, Hieu, and Dimitris Samaras. "From Shadow Segmentation to Shadow Removal." arXiv preprint arXiv:2008.00267 (2020). :star::star::star::star::star: (Video Shadow Removal Dataset)
 * **AEF**: Fu, Lan, et al. "Auto-Exposure Fusion for Single-Image Shadow Removal." CVPR 2021. :star::star::star:
 * **G2R-ShadowNet**: Liu, Zhihao, et al. "From Shadow Generation to Shadow Removal." arXiv preprint arXiv:2103.12997 (2021). :star::star::star::star::star:
+* **Video Shadow**: Chen, Z., Wan, L., Zhu, L., Shen, J., Fu, H., Liu, W., & Qin, J. (2021). Triple-cooperative Video Shadow Detection. In CVPR 2021. :star::star::star::star:
 
 
 ## Image Restoration
