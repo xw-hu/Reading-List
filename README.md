@@ -33,6 +33,7 @@ Reading list on deep learning.
 * **SqueezeNet**: Forrest N. Iandola, etal. SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size. In ICLR, 2017. :star::star::star::star:
 * **Dynamic Filter**: Jia, Xu, et al. "Dynamic filter networks." Advances in neural information processing systems. 2016. :star::star::star::star:
 * **CondConv**: Yang, Brandon, et al. "Condconv: Conditionally parameterized convolutions for efficient inference." Advances in Neural Information Processing Systems. 2019. :star::star::star::star:
+* * **SimSiam**: Chen, X., & He, K. (2020). Exploring Simple Siamese Representation Learning. In CVPR 2021. :star::star::star::star:
 
 
 ## Object Detection 
