@@ -245,6 +245,7 @@ Si, C., Nie, X., Wang, W., Wang, L., Tan, T., & Feng, J. (2020). Adversarial Sel
 * **holistic attention network**: Niu, Ben, et al. "Single image super-resolution via a holistic attention network." European Conference on Computer Vision. Springer, Cham, 2020. :star::star::star:
 * **SNet, VNet, and ANet **： Wang, Yinglong, et al. "Rethinking image deraining via rain streaks and vapors." European Conference on Computer Vision. Springer, Cham, 2020.  :star::star::star:
 *  **JRGR (Disentangled)**: Ye, Y., Chang, Y., Zhou, H., & Yan, L. (2021). Closing the Loop: Joint Rain Generation and Removal via Disentangled Image Translation. In CVPR 2021. :star::star::star::star::star:
+*  **ACER-Net**: Wu, H., Qu, Y., Lin, S., Zhou, J., Qiao, R., Zhang, Z., ... & Ma, L. (2021). Contrastive Learning for Compact Single Image Dehazing. In CVPR 2021. :star::star::star:
 
 
 
