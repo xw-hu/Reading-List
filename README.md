@@ -280,6 +280,7 @@ Si, C., Nie, X., Wang, W., Wang, L., Tan, T., & Feng, J. (2020). Adversarial Sel
 * **RealnessGAN**: Yuanbo Xiangli, etal. Real or not real, that is a question. In ICLR 2020. :star::star::star::star: 
 * **Domain-bridged GAN**: Pizzati, Fabio, et al. "Domain bridge for unpaired image-to-image translation and unsupervised domain adaptation." The IEEE Winter Conference on Applications of Computer Vision. 2020. :star::star::star::star: 
 * **SinGAN**: Shaham, T. R., Dekel, T., & Michaeli, T. (2019). SinGAN: Learning a generative model from a single natural image. In Proceedings of the IEEE International Conference on Computer Vision (pp. 4570-4580). :star::star::star::star::star: 
+* **CUT**: Park, T., Efros, A. A., Zhang, R., & Zhu, J. Y. (2020, August). Contrastive learning for unpaired image-to-image translation. In European Conference on Computer Vision (pp. 319-345). Springer, Cham. :star::star::star::star::star: 
 
 
 ## Disentangled
