@@ -244,10 +244,11 @@ Si, C., Nie, X., Wang, W., Wang, L., Tan, T., & Feng, J. (2020). Adversarial Sel
 * **EPDN**: Qu, Yanyun, et al. "Enhanced pix2pix dehazing network." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019.  :star::star::star::star:
 * **PEPSI**: Shin, Yong-Goo, et al. "PEPSI++: Fast and lightweight network for image inpainting." IEEE Transactions on Neural Networks and Learning Systems (2020). :star::star::star:
 * **holistic attention network**: Niu, Ben, et al. "Single image super-resolution via a holistic attention network." European Conference on Computer Vision. Springer, Cham, 2020. :star::star::star:
-* **SNet, VNet, and ANet **： Wang, Yinglong, et al. "Rethinking image deraining via rain streaks and vapors." European Conference on Computer Vision. Springer, Cham, 2020.  :star::star::star:
+* **SNet, VNet, and ANet**： Wang, Yinglong, et al. "Rethinking image deraining via rain streaks and vapors." European Conference on Computer Vision. Springer, Cham, 2020.  :star::star::star:
 *  **JRGR (Disentangled)**: Ye, Y., Chang, Y., Zhou, H., & Yan, L. (2021). Closing the Loop: Joint Rain Generation and Removal via Disentangled Image Translation. In CVPR 2021. :star::star::star::star::star:
 *  **ACER-Net**: Wu, H., Qu, Y., Lin, S., Zhou, J., Qiao, R., Zhang, Z., ... & Ma, L. (2021). Contrastive Learning for Compact Single Image Dehazing. In CVPR 2021. :star::star::star:
 *  **MPRNet**: Zamir, S. W., Arora, A., Khan, S., Hayat, M., Khan, F. S., Yang, M. H., & Shao, L. (2021). Multi-stage progressive image restoration. arXiv preprint arXiv:2102.02808.
+*  **AdderSR**: Song, D., Wang, Y., Chen, H., Xu, C., Xu, C., & Tao, D. (2020). AdderSR: Towards energy efficient image super-resolution. In CVPR 2021. :star::star::star::star:
 
 
 
