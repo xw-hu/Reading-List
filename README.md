@@ -249,6 +249,7 @@ Si, C., Nie, X., Wang, W., Wang, L., Tan, T., & Feng, J. (2020). Adversarial Sel
 *  **ACER-Net**: Wu, H., Qu, Y., Lin, S., Zhou, J., Qiao, R., Zhang, Z., ... & Ma, L. (2021). Contrastive Learning for Compact Single Image Dehazing. In CVPR 2021. :star::star::star:
 *  **MPRNet**: Zamir, S. W., Arora, A., Khan, S., Hayat, M., Khan, F. S., Yang, M. H., & Shao, L. (2021). Multi-stage progressive image restoration. arXiv preprint arXiv:2102.02808.
 *  **AdderSR**: Song, D., Wang, Y., Chen, H., Xu, C., Xu, C., & Tao, D. (2020). AdderSR: Towards energy efficient image super-resolution. In CVPR 2021. :star::star::star::star:
+*  **RICNet**： Ni, Siqi, et al. "Controlling the Rain: From Removal to Rendering." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2021. :star::star::star:
 
 
 
