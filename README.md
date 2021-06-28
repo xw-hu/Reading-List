@@ -33,8 +33,8 @@ Reading list on deep learning.
 * **SqueezeNet**: Forrest N. Iandola, etal. SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size. In ICLR, 2017. :star::star::star::star:
 * **Dynamic Filter**: Jia, Xu, et al. "Dynamic filter networks." Advances in neural information processing systems. 2016. :star::star::star::star:
 * **CondConv**: Yang, Brandon, et al. "Condconv: Conditionally parameterized convolutions for efficient inference." Advances in Neural Information Processing Systems. 2019. :star::star::star::star:
-* * **SimSiam**: Chen, X., & He, K. (2020). Exploring Simple Siamese Representation Learning. In CVPR 2021. :star::star::star::star:
-* **Swin transformer**: Liu, Z., Lin, Y., Cao, Y., Hu, H., Wei, Y., Zhang, Z., ... & Guo, B. (2021). Swin transformer: Hierarchical vision transformer using shifted windows. arXiv preprint arXiv:2103.14030. :star::star::star::star::star:
+* **SimSiam**: Chen, X., & He, K. (2020). Exploring Simple Siamese Representation Learning. In CVPR 2021. :star::star::star::star:
+
 
 
 ## Object Detection 
@@ -319,7 +319,7 @@ Si, C., Nie, X., Wang, W., Wang, L., Tan, T., & Feng, J. (2020). Adversarial Sel
 * **Pre-trained image processing transformer**: Chen, Hanting, et al. "Pre-trained image processing transformer." arXiv preprint arXiv:2012.00364 (2020). :star::star::star::star:
 * **texture transformer for Super-resolution**: Yang, Fuzhi, et al. "Learning texture transformer network for image super-resolution." In CVPR, 2020. :star::star::star::star:
 * **TransUnet**: Chen, Jieneng, et al. "TransUnet: Transformers make strong encoders for medical image segmentation." arXiv preprint arXiv:2102.04306 (2021). :star::star::star::star:
-
+* **Swin transformer**: Liu, Z., Lin, Y., Cao, Y., Hu, H., Wei, Y., Zhang, Z., ... & Guo, B. (2021). Swin transformer: Hierarchical vision transformer using shifted windows. arXiv preprint arXiv:2103.14030. :star::star::star::star::star:
 
 
 ## Traditional Method
