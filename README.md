@@ -34,6 +34,7 @@ Reading list on deep learning.
 * **Dynamic Filter**: Jia, Xu, et al. "Dynamic filter networks." Advances in neural information processing systems. 2016. :star::star::star::star:
 * **CondConv**: Yang, Brandon, et al. "Condconv: Conditionally parameterized convolutions for efficient inference." Advances in Neural Information Processing Systems. 2019. :star::star::star::star:
 * * **SimSiam**: Chen, X., & He, K. (2020). Exploring Simple Siamese Representation Learning. In CVPR 2021. :star::star::star::star:
+* **Swin transformer**: Liu, Z., Lin, Y., Cao, Y., Hu, H., Wei, Y., Zhang, Z., ... & Guo, B. (2021). Swin transformer: Hierarchical vision transformer using shifted windows. arXiv preprint arXiv:2103.14030. :star::star::star::star::star:
 
 
 ## Object Detection 
