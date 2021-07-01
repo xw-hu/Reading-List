@@ -202,6 +202,7 @@ Si, C., Nie, X., Wang, W., Wang, L., Tan, T., & Feng, J. (2020). Adversarial Sel
 * **G2R-ShadowNet**: Liu, Zhihao, et al. "From Shadow Generation to Shadow Removal." arXiv preprint arXiv:2103.12997 (2021). :star::star::star::star::star:
 * **Video Shadow**: Chen, Z., Wan, L., Zhu, L., Shen, J., Fu, H., Liu, W., & Qin, J. (2021). Triple-cooperative Video Shadow Detection. In CVPR 2021. :star::star::star::star:
 * **Removing Objects and their Shadows**: Zhang, E., Martin-Brualla, R., Kontkanen, J., & Curless, B. L. (2021). No Shadow Left Behind: Removing Objects and their Shadows using Approximate Lighting and Geometry. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 16397-16406). :star::star::star::star::star:
+* **Shadow Generation + DE-SOBA dataset**: Hong, Y., Niu, L., Zhang, J., & Zhang, L. (2021). Shadow Generation for Composite Image in Real-world Scenes. arXiv preprint arXiv:2104.10338. :star::star::star::star:
 
 
 ## Image Restoration
