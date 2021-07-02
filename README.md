@@ -322,6 +322,7 @@ Si, C., Nie, X., Wang, W., Wang, L., Tan, T., & Feng, J. (2020). Adversarial Sel
 * **texture transformer for Super-resolution**: Yang, Fuzhi, et al. "Learning texture transformer network for image super-resolution." In CVPR, 2020. :star::star::star::star:
 * **TransUnet**: Chen, Jieneng, et al. "TransUnet: Transformers make strong encoders for medical image segmentation." arXiv preprint arXiv:2102.04306 (2021). :star::star::star::star:
 * **Swin transformer**: Liu, Z., Lin, Y., Cao, Y., Hu, H., Wei, Y., Zhang, Z., ... & Guo, B. (2021). Swin transformer: Hierarchical vision transformer using shifted windows. arXiv preprint arXiv:2103.14030. :star::star::star::star::star:
+* **VOLO**: Yuan, Li, et al. "VOLO: Vision Outlooker for Visual Recognition." arXiv preprint arXiv:2106.13112 (2021). :star::star::star::star::star:
 
 
 ## Traditional Method
