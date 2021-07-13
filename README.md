@@ -325,6 +325,7 @@ Si, C., Nie, X., Wang, W., Wang, L., Tan, T., & Feng, J. (2020). Adversarial Sel
 * **Swin transformer**: Liu, Z., Lin, Y., Cao, Y., Hu, H., Wei, Y., Zhang, Z., ... & Guo, B. (2021). Swin transformer: Hierarchical vision transformer using shifted windows. arXiv preprint arXiv:2103.14030. :star::star::star::star::star:
 * **VOLO**: Yuan, Li, et al. "VOLO: Vision Outlooker for Visual Recognition." arXiv preprint arXiv:2106.13112 (2021). :star::star::star::star::star:
 * **Video Swin Transformer**: Liu, Ze, et al. "Video Swin Transformer." arXiv preprint arXiv:2106.13230 (2021). :star::star::star:
+* **Focal Transformer**:Yang, J., Li, C., Zhang, P., Dai, X., Xiao, B., Yuan, L., & Gao, J. (2021). Focal Self-attention for Local-Global Interactions in Vision Transformers. arXiv preprint arXiv:2107.00641. :star::star::star::star::star:
 
 
 ## Traditional Method
