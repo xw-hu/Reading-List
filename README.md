@@ -181,7 +181,7 @@ Si, C., Nie, X., Wang, W., Wang, L., Tan, T., & Feng, J. (2020). Adversarial Sel
 * **HFM-Net**: Zeng, J., Tong, Y., Huang, Y., Yan, Q., Sun, W., Chen, J., & Wang, Y. (2019). Deep Surface Normal Estimation with Hierarchical RGB-D Fusion. arXiv preprint arXiv:1904.03405. :star::star::star:
 * **MADNet**: Tonioni, Alessio, et al. "Real-time self-adaptive deep stereo." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. :star::star::star::star:  (offline domain adaption)
 * **Geometry-Aware Distillation**: Jiao, Jianbo, et al. "Geometry-Aware Distillation for Indoor Semantic Segmentation." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. :star::star::star:
-* **DiverseDepth**: Yin, W., Wang, X., Shen, C., Liu, Y., Tian, Z., Xu, S., ... & Renyin, D. (2020). DiverseDepth: Affine-invariant depth prediction using diverse data. arXiv preprint arXiv:2002.00569.
+* **DiverseDepth**: Yin, W., Wang, X., Shen, C., Liu, Y., Tian, Z., Xu, S., ... & Renyin, D. (2020). DiverseDepth: Affine-invariant depth prediction using diverse data. arXiv preprint arXiv:2002.00569. :star::star::star::star:
 
 
 ## Shadow Detection/Removal
