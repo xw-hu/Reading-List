@@ -36,7 +36,6 @@ Reading list on deep learning.
 * **SimSiam**: Chen, X., & He, K. (2020). Exploring Simple Siamese Representation Learning. In CVPR 2021. :star::star::star::star:
 
 
-
 ## Object Detection 
 * **Overfeat**: Sermanet, Pierre, et al. "Overfeat: Integrated recognition, localization and detection using convolutional networks." arXiv preprint arXiv:1312.6229 (2013). :star::star::star::star:
 * **RCNN**: Girshick, Ross, et al. "Rich feature hierarchies for accurate object detection and semantic segmentation." Proceedings of the IEEE conference on computer vision and pattern recognition. 2014. :star::star::star::star::star:
@@ -330,6 +329,7 @@ Si, C., Nie, X., Wang, W., Wang, L., Tan, T., & Feng, J. (2020). Adversarial Sel
 * **VOLO**: Yuan, Li, et al. "VOLO: Vision Outlooker for Visual Recognition." arXiv preprint arXiv:2106.13112 (2021). :star::star::star::star::star:
 * **Video Swin Transformer**: Liu, Ze, et al. "Video Swin Transformer." arXiv preprint arXiv:2106.13230 (2021). :star::star::star:
 * **Focal Transformer**:Yang, J., Li, C., Zhang, P., Dai, X., Xiao, B., Yuan, L., & Gao, J. (2021). Focal Self-attention for Local-Global Interactions in Vision Transformers. arXiv preprint arXiv:2107.00641. :star::star::star::star::star:
+* **Pyramid vision transformer**: Wang, W., Xie, E., Li, X., Fan, D. P., Song, K., Liang, D., ... & Shao, L. (2021). Pyramid vision transformer: A versatile backbone for dense prediction without convolutions. arXiv preprint arXiv:2102.12122. :star::star::star::star:
 
 
 ## Traditional Method
