@@ -260,7 +260,7 @@ Si, C., Nie, X., Wang, W., Wang, L., Tan, T., & Feng, J. (2020). Adversarial Sel
 *  **RICNet**： Ni, Siqi, et al. "Controlling the Rain: From Removal to Rendering." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2021. :star::star::star:
 *  **Video rain streaks+fog**: Yan, W., Tan, R. T., Yang, W., & Dai, D. (2021). Self-Aligned Video Deraining With Transmission-Depth Consistency. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 11966-11976). :star::star::star::star:
 *  **Uformer**: Wang, Z., Cun, X., Bao, J., & Liu, J. (2021). Uformer: A General U-Shaped Transformer for Image Restoration. arXiv preprint arXiv:2106.03106. :star::star::star:
-
+* **Real Video Dehaze Data**: Zhang, Xinyi, et al. "Learning To Restore Hazy Video: A New Real-World Dataset and a New Method." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2021. :star::star::star::star:
 
 
 ## Image Synthesis
