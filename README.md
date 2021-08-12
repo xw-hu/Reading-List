@@ -137,6 +137,7 @@ Reading list on deep learning.
 
 ## Semi-supervised
 Si, C., Nie, X., Wang, W., Wang, L., Tan, T., & Feng, J. (2020). Adversarial Self-Supervised Learning for Semi-Supervised 3D Action Recognition. In ECCV 2020. :star::star::star:
+Lai, Xin, et al. "Semi-Supervised Semantic Segmentation With Directional Context-Aware Consistency." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2021. :star::star::star::star:
 
 ## Domain Adaptation
 * **Learning from Synthetic Animals**: Mu, J., Qiu, W., Hager, G. D., & Yuille, A. L. (2020). Learning from Synthetic Animals. In CVPR 2020. :star::star::star::star:
