@@ -140,6 +140,8 @@ Reading list on deep learning.
 * **Directional Context-Aware Consistency**: Lai, Xin, et al. "Semi-Supervised Semantic Segmentation With Directional Context-Aware Consistency." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2021. :star::star::star::star:
 * **Cross Pseudo Supervision**: Chen, X., Yuan, Y., Zeng, G., & Wang, J. (2021). Semi-Supervised Semantic Segmentation with Cross Pseudo Supervision. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 2613-2622). :star::star::star::star:
 * **CutMix**: French, G., Laine, S., Aila, T., & Mackiewicz, M. (2019). Semi-supervised semantic segmentation needs strong, varied perturbations. In BMCV. :star::star::star:
+* **CGT**： Ke, Z., Qiu, D., Li, K., Yan, Q., & Lau, R. W. (2020). Guided collaborative training for pixel-wise semi-supervised learning. In Computer Vision–ECCV 2020: 16th European Conference, Glasgow, UK, August 23–28, 2020, Proceedings, Part XIII 16 (pp. 429-445). Springer International Publishing. :star::star::star::star:
+
 
 ## Domain Adaptation
 * **Learning from Synthetic Animals**: Mu, J., Qiu, W., Hager, G. D., & Yuille, A. L. (2020). Learning from Synthetic Animals. In CVPR 2020. :star::star::star::star:
