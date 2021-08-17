@@ -141,6 +141,7 @@ Reading list on deep learning.
 * **Cross Pseudo Supervision**: Chen, X., Yuan, Y., Zeng, G., & Wang, J. (2021). Semi-Supervised Semantic Segmentation with Cross Pseudo Supervision. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 2613-2622). :star::star::star::star:
 * **CutMix**: French, G., Laine, S., Aila, T., & Mackiewicz, M. (2019). Semi-supervised semantic segmentation needs strong, varied perturbations. In BMCV. :star::star::star:
 * **CGT**： Ke, Z., Qiu, D., Li, K., Yan, Q., & Lau, R. W. (2020). Guided collaborative training for pixel-wise semi-supervised learning. In Computer Vision–ECCV 2020: 16th European Conference, Glasgow, UK, August 23–28, 2020, Proceedings, Part XIII 16 (pp. 429-445). Springer International Publishing. :star::star::star::star:
+* **Robust Mutual Learning**: Zhang, P., Zhang, B., Zhang, T., Chen, D., & Wen, F. (2021). Robust Mutual Learning for Semi-supervised Semantic Segmentation. arXiv preprint arXiv:2106.00609. :star::star::star::star:
 
 
 ## Domain Adaptation
