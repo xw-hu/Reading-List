@@ -115,6 +115,7 @@ Reading list on deep learning.
 * **MaskFormer**: Cheng, B., Schwing, A. G., & Kirillov, A. (2021). Per-Pixel Classification is Not All You Need for Semantic Segmentation. arXiv preprint arXiv:2107.06278. :star::star::star::star::star: (Semantic+Instance)
 * **Trans2Seg**: Xie, E., Wang, W., Wang, W., Sun, P., Xu, H., Liang, D., & Luo, P. (2021). Segmenting transparent object in the wild with transformer. arXiv preprint arXiv:2101.08461. :star::star::star::star:
 * **Swin-Unet**: Cao, H., Wang, Y., Chen, J., Jiang, D., Zhang, X., Tian, Q., & Wang, M. (2021). Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation. arXiv preprint arXiv:2105.05537. :star::star::star::star:
+* **SegFormer**: Xie, E., Wang, W., Yu, Z., Anandkumar, A., Alvarez, J. M., & Luo, P. (2021). SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers. arXiv preprint arXiv:2105.15203. :star::star::star::star:
 
 
 ## Weakly Supervised 
