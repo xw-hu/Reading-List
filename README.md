@@ -78,6 +78,7 @@ Reading list on deep learning.
 * **OMNIA Faster R-CNN**： Rame, Alexandre, et al. "OMNIA Faster R-CNN: Detection in the wild through dataset merging and soft distillation." arXiv preprint arXiv:1812.02611 (2018). [Omni-Supervised across different datasets for object detection] :star::star::star::star: 
 * **Libra R-CNN**: Pang, J., Chen, K., Shi, J., Feng, H., Ouyang, W., & Lin, D. (2019). Libra R-CNN: Towards Balanced Learning for Object Detection. arXiv preprint arXiv:1904.02701. :star::star::star::star:
 * **POTO**: Prediction-aware OneTo-One (POTO) label assignment: Wang, J., Song, L., Li, Z., Sun, H., Sun, J., & Zheng, N. (2020). End-to-end object detection with fully convolutional network. arXiv preprint arXiv:2012.03544. :star::star::star::star:
+* **FaPN**: FaPN: Feature-aligned Pyramid Network for Dense Image Prediction. Shihua Huang etal. 2021. arXiv preprint arXiv:2021.07058. :star::star::star:
 
 
 ## Semantic Segmentation 
