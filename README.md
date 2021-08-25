@@ -158,6 +158,9 @@ Reading list on deep learning.
 * **Generate Novel Domains**: Zhou, Kaiyang, et al. "Learning to Generate Novel Domains for Domain Generalization." arXiv preprint arXiv:2007.03304 (2020). :star::star::star:
 * **Jigsaw puzzles**: Carlucci, Fabio M., et al. "Domain generalization by solving jigsaw puzzles." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. :star::star::star::star:
 
+## Video
+* **Semi-suepervised, memory network**: Oh, S. W., Lee, J. Y., Xu, N., & Kim, S. J. (2019). Video object segmentation using space-time memory networks. In Proceedings of the IEEE/CVF International Conference on Computer Vision (pp. 9226-9235).  :star::star::star::star:
+
 
 ## Saliency
 * **DHSNet**: Liu, Nian, and Junwei Han. "Dhsnet: Deep hierarchical saliency network for salient object detection." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016. :star::star::star::star:
