@@ -117,6 +117,7 @@ Reading list on deep learning.
 * **Trans2Seg**: Xie, E., Wang, W., Wang, W., Sun, P., Xu, H., Liang, D., & Luo, P. (2021). Segmenting transparent object in the wild with transformer. arXiv preprint arXiv:2101.08461. :star::star::star::star:
 * **Swin-Unet**: Cao, H., Wang, Y., Chen, J., Jiang, D., Zhang, X., Tian, Q., & Wang, M. (2021). Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation. arXiv preprint arXiv:2105.05537. :star::star::star::star:
 * **SegFormer**: Xie, E., Wang, W., Yu, Z., Anandkumar, A., Alvarez, J. M., & Luo, P. (2021). SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers. arXiv preprint arXiv:2105.15203. :star::star::star::star:
+* **DETR**: Carion, N., Massa, F., Synnaeve, G., Usunier, N., Kirillov, A., & Zagoruyko, S. End-to-end object detection with transformers. In ECCV, 2020. :star::star::star::star::star:
 
 
 ## Weakly Supervised 
