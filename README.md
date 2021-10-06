@@ -80,7 +80,7 @@ Reading list on deep learning.
 * **FCOS**: Tian, Zhi, et al. "FCOS: Fully Convolutional One-Stage Object Detection." arXiv preprint arXiv:1904.01355 (2019). :star::star::star::star::star:
 * **POTO**: Prediction-aware OneTo-One (POTO) label assignment: Wang, J., Song, L., Li, Z., Sun, H., Sun, J., & Zheng, N. (2020). End-to-end object detection with fully convolutional network. arXiv preprint arXiv:2012.03544. :star::star::star::star:
 * **FaPN**: FaPN: Feature-aligned Pyramid Network for Dense Image Prediction. Shihua Huang etal. 2021. arXiv preprint arXiv:2021.07058. :star::star::star:
-* * **DETR**: Carion, N., Massa, F., Synnaeve, G., Usunier, N., Kirillov, A., & Zagoruyko, S. End-to-end object detection with transformers. In ECCV, 2020. :star::star::star::star::star:
+* **DETR**: Carion, N., Massa, F., Synnaeve, G., Usunier, N., Kirillov, A., & Zagoruyko, S. End-to-end object detection with transformers. In ECCV, 2020. :star::star::star::star::star:
 * **Sparse R-CNN**: Sun, P., Zhang, R., Jiang, Y., Kong, T., Xu, C., Zhan, W., ... & Luo, P. Sparse r-cnn: End-to-end object detection with learnable proposals. In CVPR (pp. 14454-14463), 2021. :star::star::star::star::star:
 
 
