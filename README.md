@@ -77,6 +77,7 @@ Reading list on deep learning.
 * **Domain Adaptive Faster R-CNN**: Chen, Yuhua, et al. "Domain adaptive faster r-cnn for object detection in the wild." In CVPR, 2018. :star::star::star::star:
 * **OMNIA Faster R-CNN**： Rame, Alexandre, et al. "OMNIA Faster R-CNN: Detection in the wild through dataset merging and soft distillation." arXiv preprint arXiv:1812.02611 (2018). [Omni-Supervised across different datasets for object detection] :star::star::star::star: 
 * **Libra R-CNN**: Pang, J., Chen, K., Shi, J., Feng, H., Ouyang, W., & Lin, D. (2019). Libra R-CNN: Towards Balanced Learning for Object Detection. arXiv preprint arXiv:1904.02701. :star::star::star::star:
+* **FCOS**: Tian, Zhi, et al. "FCOS: Fully Convolutional One-Stage Object Detection." arXiv preprint arXiv:1904.01355 (2019). :star::star::star::star::star:
 * **POTO**: Prediction-aware OneTo-One (POTO) label assignment: Wang, J., Song, L., Li, Z., Sun, H., Sun, J., & Zheng, N. (2020). End-to-end object detection with fully convolutional network. arXiv preprint arXiv:2012.03544. :star::star::star::star:
 * **FaPN**: FaPN: Feature-aligned Pyramid Network for Dense Image Prediction. Shihua Huang etal. 2021. arXiv preprint arXiv:2021.07058. :star::star::star:
 * * **DETR**: Carion, N., Massa, F., Synnaeve, G., Usunier, N., Kirillov, A., & Zagoruyko, S. End-to-end object detection with transformers. In ECCV, 2020. :star::star::star::star::star:
@@ -88,39 +89,40 @@ Reading list on deep learning.
 * **Deconvolution Network for Segmentation**: Noh, Hyeonwoo, Seunghoon Hong, and Bohyung Han. "Learning deconvolution network for semantic segmentation." Proceedings of the IEEE International Conference on Computer Vision. 2015. :star::star::star:
 * **U-Net**: Ronneberger, Olaf, Philipp Fischer, and Thomas Brox. "U-net: Convolutional networks for biomedical image segmentation." International Conference on Medical image computing and computer-assisted intervention. Springer, Cham, 2015. :star::star::star::star::star:
 * **CRF as RNN**: Zheng, Shuai, et al. "Conditional random fields as recurrent neural networks." In ICCV. 2015. :star::star::star::star:
-* **MNC**: Dai, Jifeng, Kaiming He, and Jian Sun. "Instance-aware semantic segmentation via multi-task network cascades." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016. :star::star::star::star::star:
-* **InstanceFCN**: Dai, Jifeng, et al. "Instance-sensitive fully convolutional networks." arXiv preprint arXiv:1603.08678 (2016). :star::star::star::star:
-* **FCIS**: Li, Yi, et al. "Fully convolutional instance-aware semantic segmentation." arXiv preprint arXiv:1611.07709 (2016). :star::star::star::star::star:
 * **PSPNet**: Zhao, Hengshuang, et al. "Pyramid scene parsing network." arXiv preprint arXiv:1612.01105 (2016). :star::star::star:
 * **Deeplab v1v2**: Chen, Liang-Chieh, et al. "Deeplab: Semantic image segmentation with deep convolutional nets, atrous convolution, and fully connected crfs." IEEE transactions on pattern analysis and machine intelligence 40.4 (2018): 834-848. :star::star::star::star::star:
 * **Deeplab v3**: Chen, Liang-Chieh, et al. "Rethinking atrous convolution for semantic image segmentation." arXiv preprint arXiv:1706.05587 (2017). :star::star::star:
 * **Deeplab v3+**: Chen, Liang-Chieh, et al. "Encoder-decoder with atrous separable convolution for semantic image segmentation." arXiv preprint arXiv:1802.02611 (2018). :star::star::star:
-* **Mask R-CNN**: He, Kaiming, Georgia Gkioxari, Piotr Dollár, and Ross Girshick. "Mask r-cnn." In ICCV. 2017. :star::star::star::star::star:
-* **Learning to Segment Every Thing (Mask^X R-CNN)**: Hu, Ronghang, Piotr Dollár, Kaiming He, Trevor Darrell, and Ross Girshick. "Learning to Segment Every Thing." arXiv preprint arXiv:1711.10370 (2017). :star::star::star::star::star:
-* **PANet**: Liu, Shu, et al. "Path aggregation network for instance segmentation." arXiv preprint arXiv:1803.01534 (2018). :star::star::star::star:
-* **Panoptic Segmentation**: Kirillov, A., He, K., Girshick, R., Rother, C., & Dollár, P. (2018). Panoptic Segmentation. arXiv preprint arXiv:1801.00868. :star::star::star::star:
 * **PSANet**: Zhao, Hengshuang, et al. "PSANet: Point-wise Spatial Attention Network for Scene Parsing." Proceedings of the European Conference on Computer Vision (ECCV). 2018. :star::star::star::star:  [good summary of context information]
 * **OCNet**: Yuan, Yuhui, and Jingdong Wang. "OCNet: Object Context Network for Scene Parsing." arXiv preprint arXiv:1809.00916 (2018). :star::star::star:
 * **ReSeg**: Visin, Francesco, et al. "Reseg: A recurrent neural network-based model for semantic segmentation." In CVPR Workshops. 2016. :star::star:
 * **CCNet**: Huang, Zilong, et al. "CCNet: Criss-Cross Attention for Semantic Segmentation." arXiv preprint arXiv:1811.11721 (2018). :star::star::star:
-* **Panoptic FPN**: Kirillov, A., Girshick, R., He, K., & Dollár, P. (2019). Panoptic Feature Pyramid Networks. arXiv preprint arXiv:1901.02446. :star::star::star::star::star:   
 * **Depth-aware CNN**: Wang, Weiyue, and Ulrich Neumann. "Depth-aware CNN for RGB-D Segmentation." In ECCV, 2018. :star::star::star::star::star:
-* **Mask Scoring R-CNN**: Huang, Z., Huang, L., Gong, Y., Huang, C., & Wang, X. (2019). Mask Scoring R-CNN. arXiv preprint arXiv:1903.00241. :star::star::star::star:
 * **DFANet**: Li, H., Xiong, P., Fan, H., & Sun, J. (2019). DFANet: Deep Feature Aggregation for Real-Time Semantic Segmentation. arXiv preprint arXiv:1904.02216. :star::star:
-* **TensorMask**： Chen, X., Girshick, R., He, K., & Dollár, P. (2019). TensorMask: A Foundation for Dense Object Segmentation. arXiv preprint arXiv:1903.12174. :star::star::star::star:
 * **DADA**: Vu, Tuan-Hung, et al. "DADA: Depth-aware Domain Adaptation in Semantic Segmentation." arXiv preprint arXiv:1904.01886 (2019). :star::star::star::star:
-* **CFNet**： Zhang, Hang, et al. "Co-Occurrent Features in Semantic Segmentation." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. :star::star::star:
-* **SSAP**: Gao, Naiyu, et al. "SSAP: Single-shot instance segmentation with affinity pyramid." Proceedings of the IEEE International Conference on Computer Vision. 2019. :star::star::star:
-* **FCOS**: Tian, Zhi, et al. "FCOS: Fully Convolutional One-Stage Object Detection." arXiv preprint arXiv:1904.01355 (2019). :star::star::star::star::star:
-* **EmbedMask**: Ying, H., Huang, Z., Liu, S., Shao, T., & Zhou, K. (2019). EmbedMask: Embedding Coupling for One-stage Instance Segmentation. arXiv preprint arXiv:1912.01954. :star::star::star::star::star:
+* **CFNet**： Zhang, Hang, et al. "Co-Occurrent Features in Semantic Segmentation." In CVPR, 2019. :star::star::star:
 * **PointRend** Kirillov, A., Wu, Y., He, K., & Girshick, R. (2019). PointRend: Image Segmentation as Rendering. arXiv preprint arXiv:1912.08193. :star::star::star::star:
-* **CondInst** Tian, Z., Shen, C., & Chen, H. (2020). Conditional Convolutions for Instance Segmentation. In ECCV 2020. :star::star::star::star::star:
-* **MaskFormer**: Cheng, B., Schwing, A. G., & Kirillov, A. (2021). Per-Pixel Classification is Not All You Need for Semantic Segmentation. arXiv preprint arXiv:2107.06278. :star::star::star::star::star: (Semantic+Instance)
 * **Trans2Seg**: Xie, E., Wang, W., Wang, W., Sun, P., Xu, H., Liang, D., & Luo, P. (2021). Segmenting transparent object in the wild with transformer. arXiv preprint arXiv:2101.08461. :star::star::star::star:
 * **Swin-Unet**: Cao, H., Wang, Y., Chen, J., Jiang, D., Zhang, X., Tian, Q., & Wang, M. (2021). Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation. arXiv preprint arXiv:2105.05537. :star::star::star::star:
 * **SegFormer**: Xie, E., Wang, W., Yu, Z., Anandkumar, A., Alvarez, J. M., & Luo, P. (2021). SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers. arXiv preprint arXiv:2105.15203. :star::star::star::star:
-* **QueryInst**： Yang, S., Fang, Y., Wang, X., Li, Y., Shan, Y., Feng, B., & Liu, W. (2021). Tracking Instances as Queries. arXiv preprint arXiv:2106.11963. :star::star::star::star::star:
 
+
+## Instance Segmentation
+* **MNC**: Dai, Jifeng, Kaiming He, and Jian Sun. "Instance-aware semantic segmentation via multi-task network cascades." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016. :star::star::star::star::star:
+* **InstanceFCN**: Dai, Jifeng, et al. "Instance-sensitive fully convolutional networks." arXiv preprint arXiv:1603.08678 (2016). :star::star::star::star:
+* **FCIS**: Li, Yi, et al. "Fully convolutional instance-aware semantic segmentation." arXiv preprint arXiv:1611.07709 (2016). :star::star::star::star::star:
+* **Mask R-CNN**: He, Kaiming, Georgia Gkioxari, Piotr Dollár, and Ross Girshick. "Mask R-CNN." In ICCV. 2017. :star::star::star::star::star:
+* **Learning to Segment Every Thing (Mask^X R-CNN)**: Hu, Ronghang, Piotr Dollár, Kaiming He, Trevor Darrell, and Ross Girshick. "Learning to Segment Every Thing." arXiv preprint arXiv:1711.10370 (2017). :star::star::star::star::star:
+* **PANet**: Liu, Shu, et al. "Path aggregation network for instance segmentation." arXiv preprint arXiv:1803.01534 (2018). :star::star::star::star:
+* **Panoptic Segmentation**: Kirillov, A., He, K., Girshick, R., Rother, C., & Dollár, P. (2018). Panoptic Segmentation. arXiv preprint arXiv:1801.00868. :star::star::star::star:
+* **Panoptic FPN**: Kirillov, A., Girshick, R., He, K., & Dollár, P. (2019). Panoptic Feature Pyramid Networks. arXiv preprint arXiv:1901.02446. :star::star::star::star::star:   
+* **Mask Scoring R-CNN**: Huang, Z., Huang, L., Gong, Y., Huang, C., & Wang, X. (2019). Mask Scoring R-CNN. arXiv preprint arXiv:1903.00241. :star::star::star::star:
+* **TensorMask**： Chen, X., Girshick, R., He, K., & Dollár, P. (2019). TensorMask: A Foundation for Dense Object Segmentation. arXiv preprint arXiv:1903.12174. :star::star::star::star:
+* **SSAP**: Gao, Naiyu, et al. "SSAP: Single-shot instance segmentation with affinity pyramid." Proceedings of the IEEE International Conference on Computer Vision. 2019. :star::star::star:
+* **EmbedMask**: Ying, H., Huang, Z., Liu, S., Shao, T., & Zhou, K. (2019). EmbedMask: Embedding Coupling for One-stage Instance Segmentation. arXiv preprint arXiv:1912.01954. :star::star::star::star::star:
+* **CondInst** Tian, Z., Shen, C., & Chen, H. (2020). Conditional Convolutions for Instance Segmentation. In ECCV 2020. :star::star::star::star::star:
+* **MaskFormer**: Cheng, B., Schwing, A. G., & Kirillov, A. (2021). Per-Pixel Classification is Not All You Need for Semantic Segmentation. arXiv preprint arXiv:2107.06278. :star::star::star::star::star: (Semantic+Instance)
+* **QueryInst**： Yang, S., Fang, Y., Wang, X., Li, Y., Shan, Y., Feng, B., & Liu, W. (2021). Tracking Instances as Queries. arXiv preprint arXiv:2106.11963. :star::star::star::star::star:
 
 ## Weakly Supervised 
 * **Weakly Supervised Object Localization with Multi-fold Multiple Instance Learning**: Cinbis, Ramazan Gokberk, Jakob Verbeek, and Cordelia Schmid. "Weakly supervised object localization with multi-fold multiple instance learning." IEEE transactions on pattern analysis and machine intelligence 39.1 (2017): 189-203. :star::star::star:
