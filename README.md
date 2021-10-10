@@ -122,6 +122,7 @@ Reading list on deep learning.
 * **EmbedMask**: Ying, H., Huang, Z., Liu, S., Shao, T., & Zhou, K. (2019). EmbedMask: Embedding Coupling for One-stage Instance Segmentation. arXiv preprint arXiv:1912.01954. :star::star::star::star::star:
 * **CondInst** Tian, Z., Shen, C., & Chen, H. (2020). Conditional Convolutions for Instance Segmentation. In ECCV 2020. :star::star::star::star::star:
 * **MaskFormer**: Cheng, B., Schwing, A. G., & Kirillov, A. (2021). Per-Pixel Classification is Not All You Need for Semantic Segmentation. arXiv preprint arXiv:2107.06278. :star::star::star::star::star: (Semantic+Instance)
+* **SOLQ**: Dong, B., Zeng, F., Wang, T., Zhang, X., & Wei, Y. (2021). SOLQ: Segmenting Objects by Learning Queries. arXiv preprint arXiv:2106.02351. :star::star::star:
 * **QueryInst**： Yang, S., Fang, Y., Wang, X., Li, Y., Shan, Y., Feng, B., & Liu, W. (2021). Tracking Instances as Queries. arXiv preprint arXiv:2106.11963. :star::star::star::star::star:
 
 ## Weakly Supervised 
