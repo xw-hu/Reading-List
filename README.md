@@ -124,6 +124,7 @@ Reading list on deep learning.
 * **MaskFormer**: Cheng, B., Schwing, A. G., & Kirillov, A. (2021). Per-Pixel Classification is Not All You Need for Semantic Segmentation. arXiv preprint arXiv:2107.06278. :star::star::star::star::star: (Semantic+Instance)
 * **SOLQ**: Dong, B., Zeng, F., Wang, T., Zhang, X., & Wei, Y. (2021). SOLQ: Segmenting Objects by Learning Queries. arXiv preprint arXiv:2106.02351. :star::star::star:
 * **QueryInst**： Yang, S., Fang, Y., Wang, X., Li, Y., Shan, Y., Feng, B., & Liu, W. (2021). Tracking Instances as Queries. arXiv preprint arXiv:2106.11963. :star::star::star::star::star:
+* **ISTR**： Hu, J., Cao, L., Lu, Y., Zhang, S., Wang, Y., Li, K., ... & Ji, R. (2021). ISTR: End-to-End Instance Segmentation with Transformers. arXiv preprint arXiv:2105.00637. :star::star::star:
 
 ## Weakly Supervised 
 * **Weakly Supervised Object Localization with Multi-fold Multiple Instance Learning**: Cinbis, Ramazan Gokberk, Jakob Verbeek, and Cordelia Schmid. "Weakly supervised object localization with multi-fold multiple instance learning." IEEE transactions on pattern analysis and machine intelligence 39.1 (2017): 189-203. :star::star::star:
