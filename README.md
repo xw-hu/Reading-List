@@ -228,6 +228,7 @@ Reading list on deep learning.
 * **Shadow Generation + DE-SOBA dataset**: Hong, Y., Niu, L., Zhang, J., & Zhang, L. (2021). Shadow Generation for Composite Image in Real-world Scenes. arXiv preprint arXiv:2104.10338. :star::star::star::star:
 * **G2R-ShadowNet**: Liu, Zhihao, et al. "From Shadow Generation to Shadow Removal." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2021. :star::star::star::star:
 * **Temporal Feature Warping**: Hu, S., Le, H., & Samaras, D. (2021). Temporal Feature Warping for Video Shadow Detection. arXiv preprint arXiv:2107.14287. :star::star::star::star:
+* **CANet**: Chen, Z., Long, C., Zhang, L., & Xiao, C. (2021). CANet: A Context-Aware Network for Shadow Removal. In Proceedings of the IEEE/CVF International Conference on Computer Vision (pp. 4743-4752). :star::star::star::star::star:
 
 
 ## Image Restoration
