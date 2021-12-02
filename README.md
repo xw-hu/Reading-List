@@ -35,7 +35,7 @@ Reading list on deep learning.
 * **CondConv**: Yang, Brandon, et al. "Condconv: Conditionally parameterized convolutions for efficient inference." Advances in Neural Information Processing Systems. 2019. :star::star::star::star:
 * **SimSiam**: Chen, X., & He, K. (2020). Exploring Simple Siamese Representation Learning. In CVPR 2021. :star::star::star::star:
 * **CycleMLP**: Chen, S., Xie, E., Ge, C., Liang, D., & Luo, P. (2021). CycleMLP: A MLP-like Architecture for Dense Prediction. arXiv preprint arXiv:2107.10224. :star::star::star::star:
-* **EfficientNet**: Tan, Mingxing, and Quoc Le. "EfficientNet: Rethinking model scaling for convolutional neural networks." International Conference on Machine Learning. PMLR, 2019.
+* **EfficientNet**: Tan, Mingxing, and Quoc Le. "EfficientNet: Rethinking model scaling for convolutional neural networks." International Conference on Machine Learning. PMLR, 2019. :star::star::star::star:
 
 
 ## Object Detection 
