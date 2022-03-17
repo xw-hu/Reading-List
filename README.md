@@ -363,6 +363,9 @@ Reading list on deep learning.
 * **Pyramid vision transformer**: Wang, W., Xie, E., Li, X., Fan, D. P., Song, K., Liang, D., ... & Shao, L. (2021). Pyramid vision transformer: A versatile backbone for dense prediction without convolutions. arXiv preprint arXiv:2102.12122. :star::star::star::star:
 * **Pyramid vision transformer V2**： Wang, W., Xie, E., Li, X., Fan, D. P., Song, K., Liang, D., ... & Shao, L. (2021). PVTv2: Improved Baselines with Pyramid Vision Transformer. arXiv preprint arXiv:2106.13797. :star::star::star::star:
 
+## General Perception
+* **Perceiver**: Jaegle, Andrew, et al. "Perceiver: General perception with iterative attention." International Conference on Machine Learning. PMLR, 2021. :star::star::star::star::star:
+
 
 ## Traditional Method
 * **Rolling Guidance Filter**: Zhang, Q., Shen, X., Xu, L., & Jia, J. Rolling guidance filter. In ECCV, 2014. :star::star::star::star::star:
