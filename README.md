@@ -37,6 +37,7 @@ Reading list on deep learning.
 * **CycleMLP**: Chen, S., Xie, E., Ge, C., Liang, D., & Luo, P. (2021). CycleMLP: A MLP-like Architecture for Dense Prediction. arXiv preprint arXiv:2107.10224. :star::star::star::star:
 * **EfficientNet**: Tan, Mingxing, and Quoc Le. "EfficientNet: Rethinking model scaling for convolutional neural networks." International Conference on Machine Learning. PMLR, 2019. :star::star::star::star:
 * **ConvNeXt**: Liu, Z., Mao, H., Wu, C. Y., Feichtenhofer, C., Darrell, T., & Xie, S. (2022). A ConvNet for the 2020s. arXiv preprint arXiv:2201.03545 :star::star::star::star::star:
+* **CoAtNet**: Dai, Z., Liu, H., Le, Q., & Tan, M. (2021). CoAtNet: Marrying convolution and attention for all data sizes. Advances in Neural Information Processing Systems, 34. :star::star::star::star::star:
 
 
 ## Object Detection 
