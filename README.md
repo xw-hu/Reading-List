@@ -364,6 +364,7 @@ Reading list on deep learning.
 * **Focal Transformer**:Yang, J., Li, C., Zhang, P., Dai, X., Xiao, B., Yuan, L., & Gao, J. (2021). Focal Self-attention for Local-Global Interactions in Vision Transformers. arXiv preprint arXiv:2107.00641. :star::star::star::star::star:
 * **Pyramid vision transformer**: Wang, W., Xie, E., Li, X., Fan, D. P., Song, K., Liang, D., ... & Shao, L. (2021). Pyramid vision transformer: A versatile backbone for dense prediction without convolutions. arXiv preprint arXiv:2102.12122. :star::star::star::star:
 * **Pyramid vision transformer V2**： Wang, W., Xie, E., Li, X., Fan, D. P., Song, K., Liang, D., ... & Shao, L. (2021). PVTv2: Improved Baselines with Pyramid Vision Transformer. arXiv preprint arXiv:2106.13797. :star::star::star::star:
+* **Swin Transformer V2**: Liu, Z., Hu, H., Lin, Y., Yao, Z., Xie, Z., Wei, Y., ... & Guo, B. (2021). Swin Transformer V2: Scaling Up Capacity and Resolution. arXiv preprint arXiv:2111.09883. :star::star::star::star:
 
 ## General Perception
 * **Perceiver**: Jaegle, Andrew, et al. "Perceiver: General perception with iterative attention." International Conference on Machine Learning. PMLR, 2021. :star::star::star::star::star:
