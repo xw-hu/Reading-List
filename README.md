@@ -369,6 +369,7 @@ Reading list on deep learning.
 ## General Perception
 * **Perceiver**: Jaegle, Andrew, et al. "Perceiver: General perception with iterative attention." International Conference on Machine Learning. PMLR, 2021. :star::star::star::star::star:
 * **Perceiver IO**: Jaegle, Andrew, et al. "Perceiver IO: A general architecture for structured inputs & outputs." arXiv preprint arXiv:2107.14795 (2021). :star::star::star::star:
+* **Florence**: Yuan, Lu, et al. "Florence: A New Foundation Model for Computer Vision." arXiv preprint arXiv:2111.11432 (2021). :star::star::star::star::star:
 
 
 ## Traditional Method
