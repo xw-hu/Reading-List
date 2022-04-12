@@ -287,6 +287,8 @@ Reading list on deep learning.
 *  **Uformer**: Wang, Z., Cun, X., Bao, J., & Liu, J. (2021). Uformer: A General U-Shaped Transformer for Image Restoration. arXiv preprint arXiv:2106.03106. :star::star::star:
 * **Real Video Dehaze Data**: Zhang, Xinyi, et al. "Learning To Restore Hazy Video: A New Real-World Dataset and a New Method." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2021. :star::star::star::star:
 * **Hybrid Local-Global Transformer**: Zhao, D., Li, J., Li, H., & Xu, L. (2021). Hybrid Local-Global Transformer for Image Dehazing. arXiv preprint arXiv:2109.07100.  :star::star::star::star:
+* **Restormer**: Zamir, S. W., Arora, A., Khan, S., Hayat, M., Khan, F. S., & Yang, M. H. (2021). Restormer: Efficient Transformer for High-Resolution Image Restoration. arXiv preprint arXiv:2111.09881. :star::star::star::star:
+
 
 ## Nighttime & Low-light
 * **dehaze + nighttime**: Yan, Wending, Robby T. Tan, and Dengxin Dai. "Nighttime defogging using high-low frequency decomposition and grayscale-color networks." In ECCV, 2020. :star::star::star::star::star:
