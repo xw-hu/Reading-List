@@ -289,6 +289,7 @@ Reading list on deep learning.
 * **Real Video Dehaze Data**: Zhang, Xinyi, et al. "Learning To Restore Hazy Video: A New Real-World Dataset and a New Method." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2021. :star::star::star::star:
 * **Hybrid Local-Global Transformer**: Zhao, D., Li, J., Li, H., & Xu, L. (2021). Hybrid Local-Global Transformer for Image Dehazing. arXiv preprint arXiv:2109.07100.  :star::star::star::star:
 * **Restormer**: Zamir, S. W., Arora, A., Khan, S., Hayat, M., Khan, F. S., & Yang, M. H. (2021). Restormer: Efficient Transformer for High-Resolution Image Restoration. arXiv preprint arXiv:2111.09881. :star::star::star::star:
+* **MAXIM**: Tu, Z., Talebi, H., Zhang, H., Yang, F., Milanfar, P., Bovik, A., & Li, Y. (2022). MAXIM: Multi-Axis MLP for Image Processing. arXiv preprint arXiv:2201.02973. :star::star::star:
 
 
 ## Nighttime & Low-light
