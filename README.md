@@ -39,6 +39,7 @@ Reading list on deep learning.
 * **ConvNeXt**: Liu, Z., Mao, H., Wu, C. Y., Feichtenhofer, C., Darrell, T., & Xie, S. (2022). A ConvNet for the 2020s. arXiv preprint arXiv:2201.03545 :star::star::star::star::star:
 * **CoAtNet**: Dai, Z., Liu, H., Le, Q., & Tan, M. (2021). CoAtNet: Marrying convolution and attention for all data sizes. Advances in Neural Information Processing Systems, 34. :star::star::star::star::star:
 * **Large_Kernel**: Ding, X., Zhang, X., Zhou, Y., Han, J., Ding, G., & Sun, J. (2022). Scaling Up Your Kernels to 31x31: Revisiting Large Kernel Design in CNNs. arXiv preprint arXiv:2203.06717. :star::star::star::star::star:
+* **MPViT**: Lee, Y., Kim, J., Willette, J., & Hwang, S. J.  MPViT: Multi-Path Vision Transformer for Dense Prediction. In CVPR 2022. :star::star::star:
 
 
 ## Object Detection 
