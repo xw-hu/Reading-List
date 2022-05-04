@@ -141,13 +141,15 @@ Reading list on deep learning.
 * **WILDCAT**: Durand, Thibaut, et al. "WILDCAT: Weakly Supervised Learning of Deep ConvNets for Image Classification, Pointwise Localization and Segmentation." The IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2017.
 * **SGDL**: Lai, Baisheng, and Xiaojin Gong. "Saliency guided dictionary learning for weakly-supervised image parsing." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016.
 
-## Unsupervised
+## Unsupervised/Self-supervised
 * **Learning Features by Watching Objects Move**: Pathak, Deepak, et al. "Learning Features by Watching Objects Move." arXiv preprint arXiv:1612.06370 (2016). :star::star::star::star::star:
 * **SimGAN**: Shrivastava, Ashish, et al. "Learning from simulated and unsupervised images through adversarial training." arXiv preprint arXiv:1612.07828 (2016). :star::star::star:
 * **OPN**: Lee, Hsin-Ying, et al. "Unsupervised Representation Learning by Sorting Sequences." arXiv preprint arXiv:1708.01246 (2017). :star::star::star:
 * **Transitive Invariance for Self-supervised Visual Representation Learning**: Wang, Xiaolong, et al. "Transitive Invariance for Self-supervised Visual Representation Learning" Proceedings of the IEEE International Conference on Computer Vision. 2017. :star::star::star:
 [code](http://www.cs.cmu.edu/~xiaolonw/publication.html)
 * **Omni-Supervised Learning**: Radosavovic, I., Dollár, P., Girshick, R., Gkioxari, G., & He, K. Data Distillation: Towards Omni-Supervised Learning. In CVPR, 2018. :star::star::star::star::star:
+* **MAE**: He, Kaiming, et al. "Masked autoencoders are scalable vision learners." In CVPR 2022. :star::star::star::star::star:
+
 
 ## Semi-supervised
 * **Adversarial Self-Supervised Learning**: Si, C., Nie, X., Wang, W., Wang, L., Tan, T., & Feng, J. (2020). Adversarial Self-Supervised Learning for Semi-Supervised 3D Action Recognition. In ECCV 2020. :star::star::star:
