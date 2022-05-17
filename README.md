@@ -150,6 +150,7 @@ Reading list on deep learning.
 * **Omni-Supervised Learning**: Radosavovic, I., Dollár, P., Girshick, R., Gkioxari, G., & He, K. Data Distillation: Towards Omni-Supervised Learning. In CVPR, 2018. :star::star::star::star::star:
 * **MAE**: He, Kaiming, et al. "Masked autoencoders are scalable vision learners." In CVPR 2022. :star::star::star::star::star:
 * **SimMIM** Xie, Z., Zhang, Z., Cao, Y., Lin, Y., Bao, J., Yao, Z., ... & Hu, H. (2021). Simmim: A simple framework for masked image modeling. arXiv preprint arXiv:2111.09886  :star::star::star::star::star:
+* **ConvMAE**: Gao, P., Ma, T., Li, H., Dai, J., & Qiao, Y. (2022). ConvMAE: Masked Convolution Meets Masked Autoencoders. arXiv preprint arXiv:2205.03892. :star::star::star:
 
 
 ## Semi-supervised
