@@ -239,6 +239,7 @@ Reading list on deep learning.
 * **Temporal Feature Warping**: Hu, S., Le, H., & Samaras, D. (2021). Temporal Feature Warping for Video Shadow Detection. arXiv preprint arXiv:2107.14287. :star::star::star::star:
 * **CANet**: Chen, Z., Long, C., Zhang, L., & Xiao, C. (2021). CANet: A Context-Aware Network for Shadow Removal. In Proceedings of the IEEE/CVF International Conference on Computer Vision (pp. 4743-4752). :star::star::star::star::star:
 * **FDRNet**: Zhu, L., Xu, K., Ke, Z., & Lau, R. W. (2021). Mitigating Intensity Bias in Shadow Detection via Feature Decomposition and Reweighting. In Proceedings of the IEEE/CVF International Conference on Computer Vision (pp. 4702-4711). :star::star::star::star::star:
+* **SADC**: Xu, Yimin, et al. "Shadow-Aware Dynamic Convolution for Shadow Removal." arXiv preprint arXiv:2205.04908 (2022). :star::star:
 
 
 ## Image Restoration
