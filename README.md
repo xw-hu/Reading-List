@@ -314,6 +314,7 @@ Reading list on deep learning.
 * **MRC+CNN Image Synthesis**: Li, Chuan, and Michael Wand. "Combining markov random fields and convolutional neural networks for image synthesis." In CVPR. 2016. :star::star::star::star:
 * **More Experiments on Neural Style**: Novak, Roman, and Yaroslav Nikulin. "Improving the neural algorithm of artistic style." arXiv preprint arXiv:1605.04603 (2016). :star::star:
 * **Deep Photo Style Transfer**: Luan, Fujun, et al. "Deep photo style transfer." In CVPR. 2017. :star::star::star::star::star:
+* **Pretraining is All You Need + Diffusion**: Wang, Tengfei, et al. "Pretraining is All You Need for Image-to-Image Translation." arXiv preprint arXiv:2205.12952 (2022). :star::star::star:
 
 
 ## Computational Photography
