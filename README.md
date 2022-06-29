@@ -41,6 +41,7 @@ Reading list on deep learning.
 * **Large_Kernel**: Ding, X., Zhang, X., Zhou, Y., Han, J., Ding, G., & Sun, J. (2022). Scaling Up Your Kernels to 31x31: Revisiting Large Kernel Design in CNNs. arXiv preprint arXiv:2203.06717. :star::star::star::star::star:
 * **MPViT**: Lee, Y., Kim, J., Willette, J., & Hwang, S. J.  MPViT: Multi-Path Vision Transformer for Dense Prediction. In CVPR 2022. :star::star::star:
 * **Deformable Attention**: Xia, Z., Pan, X., Song, S., Li, L. E., & Huang, G. (2022). Vision Transformer with Deformable Attention. arXiv preprint arXiv:2201.00520. :star::star::star::star:
+* **EfficientNet**: Tan, Mingxing, and Quoc Le. "EfficientNet: Rethinking model scaling for convolutional neural networks." International conference on machine learning. PMLR, 2019. :star::star::star::star::star:
 
 
 ## Object Detection 
