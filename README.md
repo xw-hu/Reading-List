@@ -42,7 +42,8 @@ Reading list on deep learning.
 * **MPViT**: Lee, Y., Kim, J., Willette, J., & Hwang, S. J.  MPViT: Multi-Path Vision Transformer for Dense Prediction. In CVPR 2022. :star::star::star:
 * **Deformable Attention**: Xia, Z., Pan, X., Song, S., Li, L. E., & Huang, G. (2022). Vision Transformer with Deformable Attention. arXiv preprint arXiv:2201.00520. :star::star::star::star:
 * **EfficientNet**: Tan, Mingxing, and Quoc Le. "EfficientNet: Rethinking model scaling for convolutional neural networks." International conference on machine learning. PMLR, 2019. :star::star::star::star::star:
-* **HaloNets**： Vaswani, Ashish, et al. "Scaling local self-attention for parameter efficient visual backbones." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2021. :star::star::star::star:
+* **HaloNets**: Vaswani, Ashish, et al. "Scaling local self-attention for parameter efficient visual backbones." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2021. :star::star::star::star:
+* **SLaK**: Liu S, Chen T, Chen X, et al. More ConvNets in the 2020s: Scaling up Kernels Beyond 51x51 using Sparsity[J]. arXiv preprint arXiv:2207.03620, 2022. :star::star::star::star:
 
 
 ## Object Detection 
