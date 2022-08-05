@@ -301,6 +301,7 @@ Reading list on deep learning.
 * **Restormer**: Zamir, S. W., Arora, A., Khan, S., Hayat, M., Khan, F. S., & Yang, M. H. (2021). Restormer: Efficient Transformer for High-Resolution Image Restoration. arXiv preprint arXiv:2111.09881. :star::star::star::star:
 * **MAXIM**: Tu, Z., Talebi, H., Zhang, H., Yang, F., Milanfar, P., Bovik, A., & Li, Y. (2022). MAXIM: Multi-Axis MLP for Image Processing. arXiv preprint arXiv:2201.02973. :star::star::star:
 * **NAFNet**: Chen, L., Chu, X., Zhang, X., & Sun, J. (2022). Simple Baselines for Image Restoration. arXiv preprint arXiv:2204.04676.  :star::star::star::star::star:
+* **KCKE**: Chen, Wei-Ting, et al. "Learning Multiple Adverse Weather Removal via Two-Stage Knowledge Learning and Multi-Contrastive Regularization: Toward a Unified Model." CVPR. 2022. :star::star::star::star:
 
 
 ## Nighttime & Low-light
