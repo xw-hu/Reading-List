@@ -388,6 +388,7 @@ Reading list on deep learning.
 * **Perceiver IO**: Jaegle, Andrew, et al. "Perceiver IO: A general architecture for structured inputs & outputs." arXiv preprint arXiv:2107.14795 (2021). :star::star::star::star:
 * **Florence**: Yuan, Lu, et al. "Florence: A New Foundation Model for Computer Vision." arXiv preprint arXiv:2111.11432 (2021). :star::star::star::star::star:
 * **Unified-IO**： Unified-IO: A Unified Model for Vision Language and Multi-modal tasks. arXiv:2206.08916 (2022). :star::star::star::star:
+* **CoCa**: Yu, Jiahui, et al. "CoCa: Contrastive captioners are image-text foundation models." arXiv preprint arXiv:2205.01917 (2022). :star::star::star::star::star:
 
 
 ## Traditional Method
