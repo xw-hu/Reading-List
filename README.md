@@ -302,6 +302,7 @@ Reading list on deep learning.
 * **MAXIM**: Tu, Z., Talebi, H., Zhang, H., Yang, F., Milanfar, P., Bovik, A., & Li, Y. (2022). MAXIM: Multi-Axis MLP for Image Processing. arXiv preprint arXiv:2201.02973. :star::star::star:
 * **NAFNet**: Chen, L., Chu, X., Zhang, X., & Sun, J. (2022). Simple Baselines for Image Restoration. arXiv preprint arXiv:2204.04676.  :star::star::star::star::star:
 * **KCKE**: Chen, Wei-Ting, et al. "Learning Multiple Adverse Weather Removal via Two-Stage Knowledge Learning and Multi-Contrastive Regularization: Toward a Unified Model." CVPR. 2022. :star::star::star::star:
+* **Pretraining Image-to-Image Translation**: Wang, T., Zhang, T., Zhang, B., Ouyang, H., Chen, D., Chen, Q., & Wen, F. (2022). Pretraining is All You Need for Image-to-Image Translation. arXiv preprint arXiv:2205.12952. :star::star::star::star:
 
 
 ## Nighttime & Low-light
