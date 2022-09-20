@@ -382,6 +382,8 @@ Reading list on deep learning.
 * **Pyramid vision transformer**: Wang, W., Xie, E., Li, X., Fan, D. P., Song, K., Liang, D., ... & Shao, L. (2021). Pyramid vision transformer: A versatile backbone for dense prediction without convolutions. arXiv preprint arXiv:2102.12122. :star::star::star::star:
 * **Pyramid vision transformer V2**： Wang, W., Xie, E., Li, X., Fan, D. P., Song, K., Liang, D., ... & Shao, L. (2021). PVTv2: Improved Baselines with Pyramid Vision Transformer. arXiv preprint arXiv:2106.13797. :star::star::star::star:
 * **Swin Transformer V2**: Liu, Z., Hu, H., Lin, Y., Yao, Z., Xie, Z., Wei, Y., ... & Guo, B. (2021). Swin Transformer V2: Scaling Up Capacity and Resolution. arXiv preprint arXiv:2111.09883. :star::star::star::star:
+* **DeiT**: Touvron, Hugo, et al. "Training data-efficient image transformers & distillation through attention." International Conference on Machine Learning. 2021. :star::star::star::star:
+
 
 ## General Perception
 * **Perceiver**: Jaegle, Andrew, et al. "Perceiver: General perception with iterative attention." International Conference on Machine Learning. PMLR, 2021. :star::star::star::star::star:
