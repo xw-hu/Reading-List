@@ -44,6 +44,7 @@ Reading list on deep learning.
 * **EfficientNet**: Tan, Mingxing, and Quoc Le. "EfficientNet: Rethinking model scaling for convolutional neural networks." International conference on machine learning. PMLR, 2019. :star::star::star::star::star:
 * **HaloNets**: Vaswani, Ashish, et al. "Scaling local self-attention for parameter efficient visual backbones." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2021. :star::star::star::star:
 * **SLaK**: Liu S, Chen T, Chen X, et al. More ConvNets in the 2020s: Scaling up Kernels Beyond 51x51 using Sparsity[J]. arXiv preprint arXiv:2207.03620, 2022. :star::star::star::star:
+* **MetaFormer**: Yu, Weihao, et al. "Metaformer is actually what you need for vision." In CVPR. 2022. :star::star::star:
 
 
 ## Object Detection 
